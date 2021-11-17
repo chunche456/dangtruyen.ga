@@ -109,7 +109,7 @@ h6 {
 /*     03. Navigation     */
 /**************************/
 .navbar-custom {
-	background-color: #5f4dee;
+	background-color: #ee4d4d;
 	box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
 	font: 700 0.875rem/0.875rem "Open Sans", sans-serif;
 	transition: all 0.2s;
@@ -120,8 +120,8 @@ h6 {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    width: 4.4375rem;
-	height: 1.75rem;
+    width: 3rem;
+	height: 3rem;
 }
 
 .navbar-custom .navbar-brand.logo-text {
@@ -308,7 +308,7 @@ h6 {
 .footer {
 	padding-top: 3rem;
 	padding-bottom: 0.5rem;
-	background-color: #5f4dee;
+	background-color: #ee4d4d;
 }
 
 .footer .footer-col {
@@ -357,7 +357,7 @@ h6 {
 .copyright {
 	padding-top: 1rem;
 	padding-bottom: 0.375rem;
-	background-color: #5f4dee;
+	background-color: #ee4d4d;
 	text-align: center;
 }
 
@@ -379,8 +379,8 @@ h6 {
 a.back-to-top {
 	position: fixed;
 	z-index: 999;
-	right: 0.75rem;
-	bottom: 0.75rem;
+	right: 88px;
+	bottom: 35px;
 	display: none;
 	width: 2.625rem;
 	height: 2.625rem;
@@ -391,5 +391,5 @@ a.back-to-top {
 }
 
 a:hover.back-to-top {
-	background-color: #4332c5; 
+	background-color: #190e6b; 
 }
