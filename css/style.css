@@ -96,7 +96,7 @@ h6 {
 }
 
 .above-heading {
-	color: #5f4dee;
+	color: #ee4d4d;
 	font: 700 0.75rem/0.875rem "Open Sans", sans-serif;
 	text-align: center;
 }
@@ -174,7 +174,7 @@ h6 {
 	margin-top: 0;
 	border: none;
 	border-radius: 0.25rem;
-	background-color: #5f4dee;
+	background-color: #ee4d4d;
 }
 
 .navbar-custom .dropdown-item {
@@ -185,7 +185,7 @@ h6 {
 }
 
 .navbar-custom .dropdown-item:hover {
-	background-color: #5f4dee;
+	background-color: #ee4d4d;
 	color: #fff;
 	opacity: 1;
 }
@@ -210,7 +210,7 @@ h6 {
 
 .navbar-custom .nav-item .btn-outline-sm:hover {
 	background-color: #fff;
-	color: #5f4dee;
+	color: #ee4d4d;
 }
 
 .navbar-custom .navbar-toggler {
@@ -242,7 +242,7 @@ h6 {
 /*    04. Header     */
 /*********************/
 .header {
-	background-color: #5f4dee;
+	background-color: #ee4d4d;
 }
 
 .header .header-content {
@@ -273,7 +273,7 @@ h6 {
 	margin-left: 0.5rem;
 	border-color: #f3f7fd;
 	background-color: #f3f7fd;
-	color: #5f4dee;
+	color: #ee4d4d;
 }
 
 .header .btn-solid-lg:hover {
@@ -288,7 +288,7 @@ h6 {
 
 .header .btn-outline-lg:hover {
 	background-color: #f3f7fd;
-	color: #5f4dee;
+	color: #ee4d4d;
 }
 
 .header-frame {
