@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 11 Ngoại truyện -- Karuizawa| Món quà đầu tiên
+title: Y1 Vol 11 Ngoại truyện -- Karuizawa | Món quà đầu tiên
 permalink: /y1-vol11/ngoaitruyen2/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol11/ngoaitruyen1/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol11/ngoaitruyen3/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Một hộp quà nhỏ nằm gọn trong tay, cũng có chút nặng.
 

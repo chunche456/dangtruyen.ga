@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 10 Lời bạt đầu Vol 10
+title: Y1 Vol 10 Lời bạt đầu
 permalink: /y1-vol10/loibatdau/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol10/minhhoa/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol10/modau/)**
-
-**Page : [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)👈**
-
-[ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý](https://bit.ly/danhgiagopy) 👈
 
 Đây là những lời tâm sự của tác giả trước vol
 

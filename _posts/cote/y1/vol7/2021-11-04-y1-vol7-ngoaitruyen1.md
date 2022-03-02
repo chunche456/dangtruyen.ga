@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 7 Ngoại truyện - Chabashira| Bóng tối vô hình
+title: Y1 Vol 7 Ngoại truyện - Chabashira | Bóng tối vô hình
 permalink: /y1-vol7/ngoaitruyen1/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol7/chuongket/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol7/ngoaitruyen2/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Ayanokouji đã gặp mặt cha của cậu ta.
 

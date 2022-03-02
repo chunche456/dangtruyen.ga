@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 10 Ngoại truyện -- Ichinose| Rõ ràng là rất khó mà
+title: Y1 Vol 10 Ngoại truyện -- Ichinose | Rõ ràng là rất khó mà
 permalink: /y1-vol10/ngoaitruyen1/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol10/chuongket/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol10/ngoaitruyen2/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Khoảng lặng trước kí túc xá.
 

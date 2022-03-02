@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 6 Chương kết| Những quyết định khác nhau
+title: Y1 Vol 6 Chương kết | Những quyết định khác nhau
 permalink: /y1-vol6/chuongket/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol6/chuong5/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol6/ngoaitruyen1/)**
-
-**Page : [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)👈**
-
-[ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý](https://bit.ly/danhgiagopy) 👈
 
 Thời gian vẫn cứ thấm thoát trôi đi, không chút chậm lại, dù vài người đã chán ngán cái cảnh học ngày qua ngày như vậy.
 

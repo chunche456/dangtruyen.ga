@@ -1,14 +1,10 @@
 ﻿---
 layout: post
-title: Y1 Vol 4 Ngoại truyện| Tai nạn giữa giấc mơ và hiện thực
+title: Y1 Vol 4 Ngoại truyện | Tai nạn giữa giấc mơ và hiện thực
 permalink: /y1-vol4/ngoaitruyen2/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol4/ngoaitruyen1/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Trước mặt tôi là một cái bánh rán Dorayaki ở bên trái và một cái chả cuốn stromboli ở bên phải.
 

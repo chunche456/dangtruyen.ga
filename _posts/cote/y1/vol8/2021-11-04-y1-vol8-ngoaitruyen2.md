@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 8 Ngoại truyện -- Sakayanagi| Ý nghĩa thực sự
+title: Y1 Vol 8 Ngoại truyện -- Sakayanagi | Ý nghĩa thực sự
 permalink: /y1-vol8/ngoaitruyen2/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol8/ngoaitruyen1/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol8/ngoaitruyen3/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Cậu trai đó bước về phía tôi, mắt đang nhìn chỗ khác. Có thể dễ dàng thấy cậu ta đang đắm mình vào cuộc tán gẫu vui vẻ với bạn mình mà không chú tâm đằng trước. Cứ thế này chúng tôi sẽ va vào nhau. Tuy nhiên xét theo vị trí, ngay cả một người với đôi chân không lành lặn như tôi vẫn có thể thay đổi hướng đi.
 

@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 3 Ngoại truyện - Sakura| Những thứ nảy sinh
+title: Y1 Vol 3 Ngoại truyện - Sakura | Những thứ nảy sinh
 permalink: /y1-vol3/ngoaitruyen2/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol3/ngoaitruyen1/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol3/ngoaitruyen3/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Sau khi bắt đầu kỳ thi đặc biệt, cuộc sống học đường tôi hình dung trong đầu đã thay đổi đi rất nhiều.
 

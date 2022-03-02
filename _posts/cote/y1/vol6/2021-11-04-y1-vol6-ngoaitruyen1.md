@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 6 Ngoại truyện - Haruka| Có lẽ tôi sẽ có vài người bạn
+title: Y1 Vol 6 Ngoại truyện - Haruka | Có lẽ tôi sẽ có vài người bạn
 permalink: /y1-vol6/ngoaitruyen1/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol6/chuongket/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol6/ngoaitruyen2/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Tôi không ghét đến trường chút nào đâu.
 

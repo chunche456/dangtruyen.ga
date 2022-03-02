@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 2 Chương kết| Giải pháp duy nhất
+title: Y1 Vol 2 Chương kết | Giải pháp duy nhất
 permalink: /y1-vol2/chuongket/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol2/chuong5/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen1/)**
-
-**Page : [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**
-
-[ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý](https://bit.ly/danhgiagopy)
 
 Mặt trời mùa hạ đang lên cao trên bầu trời nóng rực kia. Khi tôi từng bước đi qua hàng cây trên đường đến trường, cơ thể tôi như gào thét trong sự đau đớn.
 

@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 7 Ngoại truyện - Hasebe| Tôi, Hasebe Haruka, không có ý định thay đổi
+title: Y1 Vol 7 Ngoại truyện - Hasebe | Tôi, Hasebe Haruka, không có ý định thay đổi
 permalink: /y1-vol7/ngoaitruyen2/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol7/ngoaitruyen1/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol7/ngoaitruyen3/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Sau giờ học, nhiệt độ đang dần lắng xuống. Nhóm Ayanokouji tụ tập trước lối vào khu mua sắm Keyaki như thường lệ.
 

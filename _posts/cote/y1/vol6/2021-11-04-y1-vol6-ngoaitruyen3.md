@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 6 Ngoại truyện| Ngày thường của Sakayanagi Arisu - Phía sau bài thi cuối kỳ
+title: Y1 Vol 6 Ngoại truyện | Ngày thường của Sakayanagi Arisu - Phía sau bài thi cuối kỳ
 permalink: /y1-vol6/ngoaitruyen3/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol6/ngoaitruyen2/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol6/loibat/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Bao nhiêu lần mình mơ thấy nó rồi nhỉ. Cái sân khấu diễn ra tại lễ hội thao ấy. Không rõ đã là lần thứ mấy rồi nữa.
 

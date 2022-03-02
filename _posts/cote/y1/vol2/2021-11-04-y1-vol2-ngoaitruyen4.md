@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 2 Ngoại truyện -- Horikita| Dự đoán của Horikita
+title: Y1 Vol 2 Ngoại truyện -- Horikita | Dự đoán của Horikita
 permalink: /y1-vol2/ngoaitruyen4/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol2/ngoaitruyen3/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen5/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy)
 
 Âm thanh của tiếng chim hót từ điện thoại của tôi chậm rãi lọt vào tai tôi.
 

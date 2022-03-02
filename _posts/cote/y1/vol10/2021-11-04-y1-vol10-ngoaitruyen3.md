@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 10 Ngoại truyện -- Ichinose 2| Rung động
+title: Y1 Vol 10 Ngoại truyện -- Ichinose 2 | Rung động
 permalink: /y1-vol10/ngoaitruyen3/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol10/ngoaitruyen2/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol10/ngoaitruyen4/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Đã đến gần nửa đêm. Trước đây tôi đã vào phòng của một số nữ sinh của lớp B, Nhưng đây là lần đâu tiên tôi vào phòng 1 người bạn khác giới.
 

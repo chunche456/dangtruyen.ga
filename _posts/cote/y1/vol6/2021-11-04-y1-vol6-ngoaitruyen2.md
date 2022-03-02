@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 6 Ngoại truyện - Sakura| Người tôi yêu
+title: Y1 Vol 6 Ngoại truyện - Sakura | Người tôi yêu
 permalink: /y1-vol6/ngoaitruyen2/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol6/ngoaitruyen1/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol6/ngoaitruyen3/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Tôi đang cố kiềm chế từng hơi thở của mình khi đi bên cạnh Kiyotaka-kun tới khu mua sắm ở Bunanoki.
 

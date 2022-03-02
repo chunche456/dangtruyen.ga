@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 7 Ngoại truyện -- Hiyori| Mong rằng chúng tôi sẽ trở thành bạn của nhau
+title: Y1 Vol 7 Ngoại truyện -- Hiyori | Mong rằng chúng tôi sẽ trở thành bạn của nhau
 permalink: /y1-vol7/ngoaitruyen3/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol7/ngoaitruyen2/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol7/ngoaitruyen4/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Ngày hôm đó, tôi tới thư viện khi giờ nghỉ trưa bắt đầu.
 

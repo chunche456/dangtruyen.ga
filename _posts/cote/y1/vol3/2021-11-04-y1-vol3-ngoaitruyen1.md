@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 3 Ngoại truyện - Kushida| Thời khắc quan trọng
+title: Y1 Vol 3 Ngoại truyện - Kushida | Thời khắc quan trọng
 permalink: /y1-vol3/ngoaitruyen1/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol3/chuongket/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol3/ngoaitruyen2/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 "Kikyo-chan? Cậu ổn chứ?
 

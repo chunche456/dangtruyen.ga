@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 7 Chương kết| Những thứ Ryuuen được và mất
+title: Y1 Vol 7 Chương kết | Những thứ Ryuuen được và mất
 permalink: /y1-vol7/chuongket/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol7/chuong5/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol7/ngoaitruyen1/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Đêm đó, tôi mơ về quá khứ của mình.
 

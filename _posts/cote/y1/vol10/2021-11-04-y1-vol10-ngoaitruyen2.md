@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 10 Ngoại truyện -- Sakayanagi| Lời hứa
+title: Y1 Vol 10 Ngoại truyện -- Sakayanagi | Lời hứa
 permalink: /y1-vol10/ngoaitruyen2/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol10/ngoaitruyen1/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol10/ngoaitruyen3/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 1 khoảng không chỉ giành cho riêng tôi và Ayanokouji lan rộng khắp võng mạc. Cậu ấy vẫn khoác lên mình khuôn mặc dửng dưng đó, nhìn tôi.
 

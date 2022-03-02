@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 11 Lời bạt đầu Vol 11
+title: Y1 Vol 11 Lời bạt đầu
 permalink: /y1-vol11/loibatdau/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol11/minhhoa/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol11/modau/)**
-
-**Page : [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)👈**
-
-[ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý](https://bit.ly/danhgiagopy) 👈
 
 Tâm sự của tác giả
 

@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 11 Ngoại truyện -- Sakayanagi| Một khởi đầu khác
+title: Y1 Vol 11 Ngoại truyện -- Sakayanagi | Một khởi đầu khác
 permalink: /y1-vol11/ngoaitruyen1/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol11/chuongket/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol11/ngoaitruyen2/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Cũng đã lâu rồi, một sáng tràn đầy sức sống thế này à.
 

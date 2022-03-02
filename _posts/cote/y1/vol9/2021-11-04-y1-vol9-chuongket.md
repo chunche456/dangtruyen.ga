@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 9 Chương kết| Sự trở lại
+title: Y1 Vol 9 Chương kết | Sự trở lại
 permalink: /y1-vol9/chuongket/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol9/chuong7/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol9/ngoaitruyen1/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Ngày thi cuối kỳ cuối cùng đã tới.
 

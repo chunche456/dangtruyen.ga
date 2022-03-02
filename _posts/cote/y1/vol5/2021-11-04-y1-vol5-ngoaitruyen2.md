@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 5 Ngoại truyện - Karuizawa| Tâm tư phức tạp của người thiếu nữ
+title: Y1 Vol 5 Ngoại truyện - Karuizawa | Tâm tư phức tạp của người thiếu nữ
 permalink: /y1-vol5/ngoaitruyen2/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol5/ngoaitruyen1/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol5/loibat/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 \"Có ổn không vì bọn mình chẳng có kế hoạch gì cả?\"
 

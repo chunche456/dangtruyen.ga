@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 8 Chương kết| Điểm mù
+title: Y1 Vol 8 Chương kết | Điểm mù
 permalink: /y1-vol8/chuongket/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol8/chuong7/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol8/ngoaitruyen1/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Ngày cuối cùng của đợt ngoại khoá. Nói cách khác, ngày mà thứ hạng của nhóm tôi được quyết định trong kỳ thi đặc biệt này đã tới. Trong một tuần qua, tất cả nam nữ từ khắp các khối lớp hợp thành ba mươi sáu nhóm nhỏ đã trải qua những khoảng thời gian của riêng mình.
 

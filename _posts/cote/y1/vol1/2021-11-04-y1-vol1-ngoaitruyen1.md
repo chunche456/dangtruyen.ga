@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 1 Ngoại truyện -- Ayanokouji| Mục tiêu
+title: Y1 Vol 1 Ngoại truyện -- Ayanokouji | Mục tiêu
 permalink: /y1-vol1/ngoaitruyen1/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol1/chuongket/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol1/ngoaitruyen2/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy)
 
 \"Này, đôi lúc cậu có muốn mặc kệ trái đất này tự vận hành không, kiểu buông xuôi ấy?\"
 

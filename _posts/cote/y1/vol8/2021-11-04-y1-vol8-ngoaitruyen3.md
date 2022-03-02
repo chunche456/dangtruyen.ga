@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 8 Ngoại truyện -- Kei| Gã cộng sự châm chọc
+title: Y1 Vol 8 Ngoại truyện -- Kei | Gã cộng sự châm chọc
 permalink: /y1-vol8/ngoaitruyen3/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol8/ngoaitruyen2/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol8/ngoaitruyen4/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Ngay khi buổi sinh hoạt ngoài trời bắt đầu, tôi nhận chỉ thị từ Kiyotaka và hứa rằng sẽ cố gắng hòa nhập vào nhóm con gái.
 

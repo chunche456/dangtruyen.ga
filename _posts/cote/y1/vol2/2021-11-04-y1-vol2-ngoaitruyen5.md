@@ -1,13 +1,9 @@
 ﻿---
 layout: post
-title: Y1 Vol 2 Ngoại truyện - Sakura| Nơi cho riêng mình
+title: Y1 Vol 2 Ngoại truyện - Sakura | Nơi cho riêng mình
 permalink: /y1-vol2/ngoaitruyen5/
 ---
 **[⏪]({{ site.baseurl }}/y1-vol2/ngoaitruyen4/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Sau khi Chabashira-sensei, giáo viên chủ nhiệm lớp D kết thúc buổi họp lớp.
 

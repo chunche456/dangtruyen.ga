@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 7 Ngoại truyện -- Một ngày của Ibuki, Ishizaki, Albert và Shiina
+title: Y1 Vol 7 Ngoại truyện | Một ngày của Ibuki, Ishizaki, Albert và Shiina
 permalink: /y1-vol7/ngoaitruyen5/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol7/ngoaitruyen4/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol7/loibat/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Đây là chuyện diễn ra sau khi học kỳ hai kết thúc, vào ngày đầu tiên của kỳ nghỉ đông. Đồng thời cũng là hai ngày sau \'vụ đó\'.
 

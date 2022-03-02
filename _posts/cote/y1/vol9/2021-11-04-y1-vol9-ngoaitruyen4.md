@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 9 Ngoại truyện -- Kei| Ngày đặc biệt
+title: Y1 Vol 9 Ngoại truyện -- Kei | Ngày đặc biệt
 permalink: /y1-vol9/ngoaitruyen4/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol9/ngoaitruyen3/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol9/ngoaitruyen5/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Ngày 14 tháng Hai, dưới tiết trời lạnh của mùa đông, tôi đến một nơi cách ký túc xá không xa. Kiyotaka đã hẹn gặp tại đây qua điện thoại. Tôi cố gắng không để Kiyotaka nghe thấy tiếng nhịp tim đập như tên lửa của mình trong suốt cuộc nói chuyện. Tặng ai đó chocolate. Nếu tính từ lúc nhỏ đến giờ thì đây không phải lần đầu tiên tôi làm việc này, nhưng nếu không phòng bị kỹ lưỡng thì mặt sẽ lại bừng xôi gấc mất.
 

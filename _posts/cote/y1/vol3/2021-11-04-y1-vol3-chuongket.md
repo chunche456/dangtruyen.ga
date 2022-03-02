@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 3 Chương kết| Vén màn
+title: Y1 Vol 3 Chương kết | Vén màn
 permalink: /y1-vol3/chuongket/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol3/chuong5/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol3/ngoaitruyen1/)**
-
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
 
 Ngày 7 tháng Tám. Cuối cùng thì bài thi cam go trên đảo hoang cũng đến hồi kết thúc. Chút ân xá duy nhất mà chúng tôi nhận được là chí ít đã không phải vật lộn để sống sót trên đảo. Với lại, có lẽ chúng tôi cũng tận hưởng chút niềm vui?
 

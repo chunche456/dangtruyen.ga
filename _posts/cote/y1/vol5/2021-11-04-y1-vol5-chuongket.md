@@ -1,16 +1,12 @@
 ﻿---
 layout: post
-title: Y1 Vol 5 Chương kết| Khởi nguyên thời đại mới
+title: Y1 Vol 5 Chương kết | Khởi nguyên thời đại mới
 permalink: /y1-vol5/chuongket/
 ---
 
 **[⏪]({{ site.baseurl }}/y1-vol5/chuong7/)**
 
 **[⏩]({{ site.baseurl }}/y1-vol5/ngoaitruyen1/)**
-
-**Page : [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)👈**
-
-[ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý](https://bit.ly/danhgiagopy) 👈
 
 Sự kiện cuối cùng của nửa sau hội thao, phần thi chạy tiếp sức để khép lại hội thao sắp sửa bắt đầu. Sự phấn khích đã dâng lên đến cao trào đối với mọi người, ngoại trừ lớp D.
 
