@@ -1,50 +1,30 @@
 ---
 layout: post
 title: Y1 Vol 1
-permalink: /y1-vol1en/
+permalink: /y1-vol1-en/
 ---
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1.png){width="8.26875in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2.jpeg){width="8.26875in" height="11.69375in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2.png){width="8.260416666666666in" height="11.69375in"}
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image5.png){width="0.7652777777777777in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image6.png){width="0.7652777777777777in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image7.png){width="0.7652777777777777in" height="0.23541666666666666in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image11.png){width="0.2951388888888889in" height="0.24027777777777778in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image12.png){width="0.2951388888888889in" height="0.24027777777777778in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image15.png){width="1.2666666666666666in" height="0.22013888888888888in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image16.png){width="1.2666666666666666in" height="0.22013888888888888in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image17.png){width="1.2666666666666666in" height="0.22013888888888888in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image18.png){width="1.2666666666666666in" height="0.22013888888888888in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image19.png){width="1.2666666666666666in" height="0.22013888888888888in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image20.png){width="1.2666666666666666in" height="0.22013888888888888in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image21.png){width="1.2666666666666666in" height="0.22013888888888888in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image22.png){width="1.2666666666666666in" height="0.22013888888888888in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image5.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image6.png){width="8.260416666666666in" height="11.69375in"}
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image31.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image32.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image33.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image34.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image35.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image36.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image37.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image45.png){width="0.11333333333333333in" height="0.11499890638670167in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image46.png){width="0.3416666666666667in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image47.png){width="0.3416666666666667in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image48.png){width="0.3416666666666667in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image52.png){width="0.8868055555555555in" height="0.14722222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image53.png){width="0.8868055555555555in" height="0.14722222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image54.png){width="0.8868055555555555in" height="0.14722222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image55.png){width="0.8868055555555555in" height="0.14722222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image56.png){width="0.8868055555555555in" height="0.14722222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image57.png){width="0.8868055555555555in" height="0.14722222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image58.png){width="0.8868055555555555in" height="0.14722222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image59.png){width="0.8868055555555555in" height="0.14722222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image60.png){width="0.8868055555555555in" height="0.14722222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image70.png){width="0.1951388888888889in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image71.png){width="0.1951388888888889in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image74.png){width="0.86875in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image75.png){width="0.86875in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image76.png){width="0.86875in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image77.png){width="0.86875in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image78.png){width="0.86875in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image79.png){width="0.86875in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image80.png){width="0.86875in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image81.png){width="0.86875in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image90.png){width="2.4972222222222222in" height="0.1986111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image91.png){width="2.4972222222222222in" height="0.1986111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image92.png){width="2.4972222222222222in" height="0.1986111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image93.png){width="2.4972222222222222in" height="0.1986111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image94.png){width="2.4972222222222222in" height="0.1986111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image95.png){width="2.4972222222222222in" height="0.1986111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image96.png){width="2.4972222222222222in" height="0.1986111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image104.png){width="0.16355424321959755in" height="0.1535411198600175in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image105.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image32.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image106.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image107.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image35.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image36.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image37.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image111.png){width="0.14166666666666666in" height="0.11666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image112.png){width="0.14166666666666666in" height="0.11666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image115.png){width="0.8888888888888888in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image116.png){width="0.8888888888888888in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image117.png){width="0.8888888888888888in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image118.png){width="0.8888888888888888in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image119.png){width="0.8888888888888888in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image120.png){width="0.8888888888888888in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image127.png){width="0.19027777777777777in" height="0.1388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image128.png){width="0.19027777777777777in" height="0.1388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image131.png){width="0.3034722222222222in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image132.png){width="0.3034722222222222in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image133.png){width="0.3034722222222222in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image137.png){width="0.6236111111111111in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image138.png){width="0.6236111111111111in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image139.png){width="0.6236111111111111in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image140.png){width="0.6236111111111111in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image141.png){width="0.6236111111111111in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image142.png){width="0.6236111111111111in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image149.png){width="0.3333333333333333in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image150.png){width="0.3333333333333333in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image151.png){width="0.3333333333333333in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image152.png){width="0.3333333333333333in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image157.png){width="0.1951388888888889in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image158.png){width="0.1951388888888889in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image161.png){width="0.44722222222222224in" height="0.1451388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image162.png){width="0.44722222222222224in" height="0.1451388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image163.png){width="0.44722222222222224in" height="0.1451388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image164.png){width="0.44722222222222224in" height="0.1451388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image169.png){width="1.570138888888889in" height="0.14375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image170.png){width="1.570138888888889in" height="0.14375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image171.png){width="1.570138888888889in" height="0.14375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image172.png){width="1.570138888888889in" height="0.14375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image173.png){width="1.570138888888889in" height="0.14375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image174.png){width="1.570138888888889in" height="0.14375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image181.png){width="0.1634459755030621in" height="0.1501038932633421in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image182.png){width="6.240277777777778in" height="0.12013888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image183.png){width="6.240277777777778in" height="0.12013888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image184.png){width="6.240277777777778in" height="0.12013888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image185.png){width="6.240277777777778in" height="0.12013888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image190.png){width="0.24861111111111112in" height="0.11666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image191.png){width="0.24861111111111112in" height="0.11666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image192.png){width="0.24861111111111112in" height="0.11666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image196.png){width="5.938888888888889in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image197.png){width="5.938888888888889in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image198.png){width="5.938888888888889in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image190.png){width="0.24722222222222223in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image202.png){width="0.24722222222222223in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image203.png){width="0.24722222222222223in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image206.png){width="5.630641951006124in" height="3.6561679790026246e-2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image207.png){width="0.22013888888888888in" height="0.18194444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image208.png){width="0.22013888888888888in" height="0.18194444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image211.png){width="6.240277777777778in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image212.png){width="6.240277777777778in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image213.png){width="6.240277777777778in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image214.png){width="6.240277777777778in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image215.png){width="6.240277777777778in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image105.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image32.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image221.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image107.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image35.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image36.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image37.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image111.png){width="0.14722222222222223in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image223.png){width="0.14722222222222223in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image225.png){width="0.3416666666666667in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image226.png){width="0.3416666666666667in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image227.png){width="0.3416666666666667in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image231.png){width="0.8333333333333334in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image232.png){width="0.8333333333333334in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image233.png){width="0.8333333333333334in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image234.png){width="0.8333333333333334in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image235.png){width="0.8333333333333334in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image236.png){width="0.8333333333333334in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image237.png){width="0.8333333333333334in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image238.png){width="0.8333333333333334in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image247.png){width="0.1951388888888889in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image248.png){width="0.1951388888888889in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image251.png){width="0.4583333333333333in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image252.png){width="0.4583333333333333in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image253.png){width="0.4583333333333333in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image254.png){width="0.4583333333333333in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image259.png){width="2.903101487314086in" height="0.14124890638670165in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image260.png){width="0.1653423009623797in" height="0.15031167979002624in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image261.png){width="5.955555555555556in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image262.png){width="5.955555555555556in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image265.png){width="0.2152777777777778in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image266.png){width="0.2152777777777778in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image190.png){width="0.2534722222222222in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image269.png){width="0.2534722222222222in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image270.png){width="0.2534722222222222in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image273.png){width="5.68709864391951in" height="3.6561679790026246e-2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image274.png){width="0.1551071741032371in" height="0.1501038932633421in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image275.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image276.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image277.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image278.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image279.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image280.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image281.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image289.png){width="0.15833333333333333in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image290.png){width="0.15833333333333333in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image293.png){width="0.5770833333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image294.png){width="0.5770833333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image295.png){width="0.5770833333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image296.png){width="0.5770833333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image297.png){width="0.5770833333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image303.png){width="0.3333333333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image304.png){width="0.3333333333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image305.png){width="0.3333333333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image309.png){width="1.0854166666666667in" height="0.19722222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image310.png){width="1.0854166666666667in" height="0.19722222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image311.png){width="1.0854166666666667in" height="0.19722222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image312.png){width="1.0854166666666667in" height="0.19722222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image313.png){width="1.0854166666666667in" height="0.19722222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image314.png){width="1.0854166666666667in" height="0.19722222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image315.png){width="1.0854166666666667in" height="0.19722222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image316.png){width="1.0854166666666667in" height="0.19722222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image317.png){width="1.0854166666666667in" height="0.19722222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image327.png){width="0.5784722222222223in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image328.png){width="0.5784722222222223in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image329.png){width="0.5784722222222223in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image330.png){width="0.5784722222222223in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image331.png){width="0.5784722222222223in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image337.png){width="0.3527777777777778in" height="0.1451388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image338.png){width="0.3527777777777778in" height="0.1451388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image339.png){width="0.3527777777777778in" height="0.1451388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image343.png){width="0.28055555555555556in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image344.png){width="0.28055555555555556in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image345.png){width="0.28055555555555556in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image349.png){width="0.7451388888888889in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image350.png){width="0.7451388888888889in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image351.png){width="0.7451388888888889in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image352.png){width="0.7451388888888889in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image353.png){width="0.7451388888888889in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image359.png){width="0.8368055555555556in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image360.png){width="0.8368055555555556in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image361.png){width="0.8368055555555556in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image365.png){width="0.22824037620297463in" height="0.1510411198600175in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image196.png){width="5.940277777777778in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image366.png){width="5.940277777777778in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image367.png){width="5.940277777777778in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image275.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image32.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image370.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image278.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image279.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image371.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image281.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image111.png){width="0.14166666666666666in" height="0.15347222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image374.png){width="0.14166666666666666in" height="0.15347222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image376.png){width="4.872222222222222in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image377.png){width="4.872222222222222in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image378.png){width="4.872222222222222in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image379.png){width="4.872222222222222in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image380.png){width="4.872222222222222in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image381.png){width="4.872222222222222in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image382.png){width="4.872222222222222in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image390.png){width="0.28055555555555556in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image391.png){width="0.28055555555555556in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image394.png){width="5.89375in" height="0.15347222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image395.png){width="5.89375in" height="0.15347222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image398.png){width="0.29375in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image399.png){width="0.29375in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image211.png){width="0.24861111111111112in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image402.png){width="0.24861111111111112in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image403.png){width="0.24861111111111112in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image406.png){width="5.94612532808399in" height="0.11531167979002625in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image105.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image32.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image221.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image107.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image35.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image36.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image37.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image407.png){width="0.15347222222222223in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image408.png){width="0.15347222222222223in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image225.png){width="0.3416666666666667in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image411.png){width="0.3416666666666667in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image412.png){width="0.3416666666666667in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image415.png){width="0.33541666666666664in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image416.png){width="0.33541666666666664in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image417.png){width="0.33541666666666664in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image421.png){width="0.1951388888888889in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image422.png){width="0.1951388888888889in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image425.png){width="0.8555555555555555in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image426.png){width="0.8555555555555555in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image427.png){width="0.8555555555555555in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image428.png){width="0.8555555555555555in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image429.png){width="0.8555555555555555in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image430.png){width="0.8555555555555555in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image431.png){width="0.8555555555555555in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image432.png){width="0.8555555555555555in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image441.png){width="0.3333333333333333in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image442.png){width="0.3333333333333333in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image443.png){width="0.3333333333333333in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image444.png){width="0.3333333333333333in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image449.png){width="2.8163298337707787in" height="0.1597911198600175in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image450.png){width="0.2232053805774278in" height="0.1510411198600175in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image451.png){width="5.936805555555556in" height="0.11666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image452.png){width="5.936805555555556in" height="0.11666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image453.png){width="5.936805555555556in" height="0.11666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image190.png){width="5.89375in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image457.png){width="5.89375in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image458.png){width="5.89375in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image459.png){width="5.89375in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image463.png){width="0.2833333333333333in" height="0.15208333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image464.png){width="0.2833333333333333in" height="0.15208333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image465.png){width="0.2833333333333333in" height="0.15208333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image190.png){width="5.89375in" height="0.18888888888888888in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image469.png){width="5.89375in" height="0.18888888888888888in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image470.png){width="5.89375in" height="0.18888888888888888in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image459.png){width="5.89375in" height="0.18888888888888888in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image473.png){width="0.28194444444444444in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image474.png){width="0.28194444444444444in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image475.png){width="0.28194444444444444in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image105.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image32.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image33.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image107.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image35.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image36.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image37.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image111.png){width="0.14375in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image479.png){width="0.14375in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image481.png){width="0.975in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image482.png){width="0.975in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image483.png){width="0.975in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image484.png){width="0.975in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image485.png){width="0.975in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image486.png){width="0.975in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image487.png){width="0.975in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image488.png){width="0.975in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image497.png){width="0.1951388888888889in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image498.png){width="0.1951388888888889in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image501.png){width="0.3034722222222222in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image502.png){width="0.3034722222222222in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image503.png){width="0.3034722222222222in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image507.png){width="0.4in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image508.png){width="0.4in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image509.png){width="0.4in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image513.png){width="2.748818897637795in" height="3.6561679790026246e-2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image514.png){width="0.28055555555555556in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image474.png){width="0.28055555555555556in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image515.png){width="0.28055555555555556in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image518.png){width="6.241666666666666in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image519.png){width="6.241666666666666in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image520.png){width="6.241666666666666in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image211.png){width="0.25in" height="0.15208333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image524.png){width="0.25in" height="0.15208333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image403.png){width="0.25in" height="0.15208333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image459.png){width="5.574087926509186in" height="3.6561679790026246e-2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image514.png){width="0.28055555555555556in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image526.png){width="0.28055555555555556in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image105.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image32.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image33.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image34.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image35.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image36.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image37.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image407.png){width="0.15555555555555556in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image528.png){width="0.15555555555555556in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image530.png){width="0.3416666666666667in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image531.png){width="0.3416666666666667in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image412.png){width="0.3416666666666667in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image534.png){width="1.0833333333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image535.png){width="1.0833333333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image536.png){width="1.0833333333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image537.png){width="1.0833333333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image538.png){width="1.0833333333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image539.png){width="1.0833333333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image540.png){width="1.0833333333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image541.png){width="1.0833333333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image542.png){width="1.0833333333333333in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image552.png){width="0.19722222222222222in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image553.png){width="0.19722222222222222in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image556.png){width="3.058333333333333in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image557.png){width="3.058333333333333in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image558.png){width="3.058333333333333in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image559.png){width="3.058333333333333in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image560.png){width="3.058333333333333in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image561.png){width="3.058333333333333in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image562.png){width="3.058333333333333in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image570.png){width="0.28055555555555556in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image571.png){width="0.28055555555555556in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image574.png){width="0.2248840769903762in" height="0.1510411198600175in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image575.png){width="5.930014216972879in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image190.png){width="5.89375in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image576.png){width="5.89375in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image577.png){width="5.89375in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image459.png){width="5.89375in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image398.png){width="0.2951388888888889in" height="0.15208333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image580.png){width="0.2951388888888889in" height="0.15208333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image190.png){width="5.89375in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image582.png){width="5.89375in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image583.png){width="5.89375in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image459.png){width="5.89375in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image586.png){width="0.29375in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image587.png){width="0.29375in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image588.png){width="0.29375in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image211.png){width="5.89375in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image592.png){width="5.89375in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image593.png){width="5.89375in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image596.png){width="0.28055555555555556in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image597.png){width="0.28055555555555556in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image474.png){width="0.28055555555555556in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image190.png){width="5.89375in" height="0.18680555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image600.png){width="5.89375in" height="0.18680555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image601.png){width="5.89375in" height="0.18680555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image604.png){width="0.2722222222222222in" height="0.12013888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image605.png){width="0.2722222222222222in" height="0.12013888888888889in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image9.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image10.png){width="8.260416666666666in" height="11.69375in"}
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image608.png){width="9.427274715660543e-2in" height="0.1275in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image13.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image14.png){width="8.260416666666666in" height="11.69375in"}
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image190.png){width="6.240277777777778in" height="0.15208333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image576.png){width="6.240277777777778in" height="0.15208333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image609.png){width="6.240277777777778in" height="0.15208333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image610.png){width="6.240277777777778in" height="0.15208333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image452.png){width="6.240277777777778in" height="0.15208333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image611.png){width="6.240277777777778in" height="0.15208333333333332in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image17.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image18.png){width="8.260416666666666in" height="11.69375in"}
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image211.png){width="6.235416666666667in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image592.png){width="6.235416666666667in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image615.png){width="6.235416666666667in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image616.png){width="6.235416666666667in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image617.png){width="6.235416666666667in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image605.png){width="6.235416666666667in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image190.png){width="6.241666666666666in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image576.png){width="6.241666666666666in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image621.png){width="6.241666666666666in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image463.png){width="6.241666666666666in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image622.png){width="6.241666666666666in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image623.png){width="6.241666666666666in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image627.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image628.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image629.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image630.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image631.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image632.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image281.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image639.png){width="0.15347222222222223in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image640.png){width="0.15347222222222223in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image643.png){width="0.34375in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image531.png){width="0.34375in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image644.png){width="0.34375in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image647.png){width="0.7201388888888889in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image648.png){width="0.7201388888888889in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image649.png){width="0.7201388888888889in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image650.png){width="0.7201388888888889in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image651.png){width="0.7201388888888889in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image652.png){width="0.7201388888888889in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image653.png){width="0.7201388888888889in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image661.png){width="0.8in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image662.png){width="0.8in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image663.png){width="0.8in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image664.png){width="0.8in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image665.png){width="0.8in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image671.png){width="0.475in" height="0.1486111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image672.png){width="0.475in" height="0.1486111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image673.png){width="0.475in" height="0.1486111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image674.png){width="0.475in" height="0.1486111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image679.png){width="0.5354166666666667in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image680.png){width="0.5354166666666667in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image681.png){width="0.5354166666666667in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image682.png){width="0.5354166666666667in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image687.png){width="1.6752318460192477in" height="3.6561679790026246e-2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image688.png){width="0.2972222222222222in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image689.png){width="0.2972222222222222in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image690.png){width="0.2972222222222222in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image694.png){width="0.2236865704286964in" height="0.16145778652668416in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image695.png){width="5.936805555555556in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image696.png){width="5.936805555555556in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image697.png){width="5.936805555555556in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image698.png){width="5.936805555555556in" height="0.18333333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image190.png){width="5.89375in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image703.png){width="5.89375in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image704.png){width="5.89375in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image459.png){width="5.89375in" height="0.16041666666666668in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image707.png){width="0.2972222222222222in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image708.png){width="0.2972222222222222in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image709.png){width="0.2972222222222222in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image190.png){width="6.240277777777778in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image713.png){width="6.240277777777778in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image714.png){width="6.240277777777778in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image695.png){width="6.240277777777778in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image715.png){width="6.240277777777778in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image716.png){width="6.240277777777778in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image717.png){width="6.240277777777778in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image190.png){width="6.240277777777778in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image713.png){width="6.240277777777778in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image723.png){width="6.240277777777778in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image724.png){width="6.240277777777778in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image725.png){width="6.240277777777778in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image726.png){width="6.240277777777778in" height="0.19027777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image275.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image32.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image731.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image278.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image279.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image371.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image281.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image733.png){width="0.23194444444444445in" height="0.12013888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image734.png){width="0.23194444444444445in" height="0.12013888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image737.png){width="0.8118055555555556in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image738.png){width="0.8118055555555556in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image739.png){width="0.8118055555555556in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image740.png){width="0.8118055555555556in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image741.png){width="0.8118055555555556in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image742.png){width="0.8118055555555556in" height="0.15555555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image749.png){width="3.9in" height="0.14375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image750.png){width="3.9in" height="0.14375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image751.png){width="3.9in" height="0.14375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image752.png){width="3.9in" height="0.14375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image757.png){width="0.2951388888888889in" height="0.15208333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image758.png){width="0.2951388888888889in" height="0.15208333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image759.png){width="0.2951388888888889in" height="0.15208333333333332in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image763.png){width="0.3in" height="0.12013888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image764.png){width="0.3in" height="0.12013888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image765.png){width="0.3in" height="0.12013888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image769.png){width="5.5176301399825025in" height="3.6561679790026246e-2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image770.png){width="0.2722222222222222in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image771.png){width="0.2722222222222222in" height="0.15in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image774.png){width="6.24375in" height="0.18680555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image764.png){width="6.24375in" height="0.18680555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image775.png){width="6.24375in" height="0.18680555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image776.png){width="6.24375in" height="0.18680555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image777.png){width="6.24375in" height="0.18680555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image778.png){width="6.24375in" height="0.18680555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image784.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image628.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image629.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image630.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image279.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image632.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image281.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image786.png){width="0.18683508311461067in" height="0.11510389326334208in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image643.png){width="0.3416666666666667in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image787.png){width="0.3416666666666667in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image788.png){width="0.3416666666666667in" height="0.15694444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image791.png){width="4.773611111111111in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image792.png){width="4.773611111111111in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image793.png){width="4.773611111111111in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image794.png){width="4.773611111111111in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image795.png){width="4.773611111111111in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image796.png){width="4.773611111111111in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image797.png){width="4.773611111111111in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image798.png){width="4.773611111111111in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image799.png){width="4.773611111111111in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image800.png){width="4.773611111111111in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image801.png){width="4.773611111111111in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image802.png){width="4.773611111111111in" height="0.20694444444444443in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image275.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image32.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image731.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image815.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image816.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image371.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image281.png){width="0.7458333333333333in" height="0.20347222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image819.png){width="0.22013888888888888in" height="0.11666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image820.png){width="0.22013888888888888in" height="0.11666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image821.png){width="0.22013888888888888in" height="0.11666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image825.png){width="0.675in" height="0.1986111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image826.png){width="0.675in" height="0.1986111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image827.png){width="0.675in" height="0.1986111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image828.png){width="0.675in" height="0.1986111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image829.png){width="0.675in" height="0.1986111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image830.png){width="0.675in" height="0.1986111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image831.png){width="0.675in" height="0.1986111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image839.png){width="1.0868055555555556in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image840.png){width="1.0868055555555556in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image841.png){width="1.0868055555555556in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image842.png){width="1.0868055555555556in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image843.png){width="1.0868055555555556in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image844.png){width="1.0868055555555556in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image845.png){width="1.0868055555555556in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image846.png){width="1.0868055555555556in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image847.png){width="1.0868055555555556in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image857.png){width="3.275in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image858.png){width="3.275in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image859.png){width="3.275in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image860.png){width="3.275in" height="0.15833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image865.png){width="6.236805555555556in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image866.png){width="6.236805555555556in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image867.png){width="6.236805555555556in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image868.png){width="6.236805555555556in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image869.png){width="6.236805555555556in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image870.png){width="6.236805555555556in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image871.png){width="6.236805555555556in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image872.png){width="6.236805555555556in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image873.png){width="6.236805555555556in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image874.png){width="6.236805555555556in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image875.png){width="6.236805555555556in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image876.png){width="6.236805555555556in" height="0.2in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image877.png){width="6.236805555555556in" height="0.2in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image21.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image22.png){width="8.260416666666666in" height="11.69375in"}
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image891.png){width="0.10113188976377953in" height="0.1773950131233596in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image25.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image26.png){width="8.260416666666666in" height="11.69375in"}
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image892.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image893.png){width="8.260416666666666in" height="11.69375in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image29.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image30.png){width="8.260416666666666in" height="11.69375in"}
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image896.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image897.png){width="8.260416666666666in" height="11.69375in"}
+**Chapter 1: The Structure of Japanese Society**
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image900.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image901.png){width="8.260416666666666in" height="11.69375in"}
+I know this is kind of sudden, but, please, it will only take a moment. I want your honest opinion.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image904.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image905.png){width="8.260416666666666in" height="11.69375in"}
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image908.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image909.png){width="8.260416666666666in" height="11.69375in"}
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image912.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image913.png){width="8.260416666666666in" height="11.69375in"}
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image916.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image917.png){width="8.260416666666666in" height="11.69375in"}
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image920.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image921.png){width="8.260416666666666in" height="11.69375in"}
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image924.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image925.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image926.png){width="8.260416666666666in" height="11.69375in"}
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image930.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image931.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image932.png){width="8.260416666666666in" height="11.69375in"}
-
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image937.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image938.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image939.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image940.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image941.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image942.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image943.png){width="1.117361111111111in" height="0.3055555555555556in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image951.png){width="0.1736111111111111in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image951.png){width="0.1736111111111111in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image952.png){width="0.1736111111111111in" height="0.1736111111111111in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image955.png){width="0.5152777777777777in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image956.png){width="0.5152777777777777in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image957.png){width="0.5152777777777777in" height="0.23541666666666666in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image961.png){width="1.3305555555555555in" height="0.2222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image962.png){width="1.3305555555555555in" height="0.2222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image963.png){width="1.3305555555555555in" height="0.2222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image964.png){width="1.3305555555555555in" height="0.2222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image965.png){width="1.3305555555555555in" height="0.2222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image966.png){width="1.3305555555555555in" height="0.2222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image967.png){width="1.3305555555555555in" height="0.2222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image968.png){width="1.3305555555555555in" height="0.2222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image969.png){width="1.3305555555555555in" height="0.2222222222222222in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image979.png){width="0.2951388888888889in" height="0.24027777777777778in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image980.png){width="0.2951388888888889in" height="0.24027777777777778in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image983.png){width="1.3in" height="0.28680555555555554in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image984.png){width="1.3in" height="0.28680555555555554in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image985.png){width="1.3in" height="0.28680555555555554in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image986.png){width="1.3in" height="0.28680555555555554in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image987.png){width="1.3in" height="0.28680555555555554in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image988.png){width="1.3in" height="0.28680555555555554in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image989.png){width="1.3in" height="0.28680555555555554in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image990.png){width="1.3in" height="0.28680555555555554in"}
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image999.png){width="1.0305555555555554in" height="0.3in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1000.png){width="1.0305555555555554in" height="0.3in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1001.png){width="1.0305555555555554in" height="0.3in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1002.png){width="1.0305555555555554in" height="0.3in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1003.png){width="1.0305555555555554in" height="0.3in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1004.png){width="1.0305555555555554in" height="0.3in"}
-
-**I** know this is kind of sudden, but, please, it will only take a moment. I want your honest opinion.
-
-> Are people equal or not?
+Are people equal or not?
 
 A proper society will constantly strive for equality. There are those who clamor for men and women to always be considered equal. As a result, we raised the employment rate for women, we made specialized subway cars only for women. Sometimes, women will even argue over the order of names in a family register. The public opinion of people with disabilities has also changed. We're now told that we should not use the term "disabled people" when referring to them, so as not to discriminate. Nowadays, children are taught that all people are created equal.
 
@@ -52,25 +32,23 @@ But is that true? I have my doubts. If men and women have different abilities, t
 
 So, my answer would be, "No, we are not equal." To be human is to be unequal. Equality does not exist.
 
-> Long ago, in a bygone era, a great man said that heaven does not set one man above or below any other. However, he did not necessarily adhere to the idea that everyone is equal. Did you know that there is more to that famous passage? The rest goes like this: *Everyone is equal when they are born, so I ask, why do we see differences in position and status?* And it continues: *Do you or do you not encourage learning to create a difference?* So then, education creates
+Long ago, in a bygone era, a great man said that heaven does not set one man above or below any other. However, he did not necessarily adhere to the idea that everyone is equal. Did you know that there is more to that famous passage? The rest goes like this: Everyone is equal when they are born, so I ask, why do we see differences in position and status? And it continues: Do you or do you not encourage learning to create a difference? So then, education creates
 
-an imbalance. The point's spelled out there, in the incredibly famous work *Gakumon no Sume*. Even though this is the year 2015, the modern era, nothing about these teachings has changed. The situation has only grown more complex and fraught.
+an imbalance. The point's spelled out there, in the incredibly famous work Gakumon no Sume. Even though this is the year 2015, the modern era, nothing about these teachings has changed. The situation has only grown more complex and fraught.
 
 In any case, we are human beings. We are living, thinking creatures.
 
 I don't think it right to simply say that we are unequal and then live our lives based on pure instinct. In other words, though "equality" is a complete lie, we cannot accept inequality, either. Right now, I'm trying to come up with a new answer for humanity's eternal question.
 
-> Hey, you there. You, the one reading this book right now.
+Hey, you there. You, the one reading this book right now.
 
 Have you ever given serious thought to the future?
 
 Have you ever considered the purpose of going to high school or to college? Though the future may seem hazy right now, do you think you'll find a job someday? That's what I used to think. Back when I finished my compulsory education and became a high school student, I hadn't really considered the future. I'd only felt joy at being nearly free of obligation. I didn't consider the incredible influence that school would continue to have in my life, on my future. I didn't even understand the purpose behind studying language or numbers.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1011.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1012.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1013.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1014.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1015.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1016.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1017.png){width="1.117361111111111in" height="0.3055555555555556in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1025.png){width="0.21388888888888888in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1026.png){width="0.21388888888888888in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1027.png){width="0.21388888888888888in" height="0.1736111111111111in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1031.png){width="1.3305555555555555in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1032.png){width="1.3305555555555555in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1033.png){width="1.3305555555555555in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1034.png){width="1.3305555555555555in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1035.png){width="1.3305555555555555in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1036.png){width="1.3305555555555555in" height="0.23680555555555555in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1043.png){width="0.2902777777777778in" height="0.20833333333333334in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1044.png){width="0.2902777777777778in" height="0.20833333333333334in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1047.png){width="0.45694444444444443in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1048.png){width="0.45694444444444443in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1049.png){width="0.45694444444444443in" height="0.23541666666666666in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1053.png){width="0.9354166666666667in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1054.png){width="0.9354166666666667in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1055.png){width="0.9354166666666667in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1056.png){width="0.9354166666666667in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1057.png){width="0.9354166666666667in" height="0.23680555555555555in"}
+**Chapter 2: Welcome to the School Life of your Dreams**
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1063.png){width="0.5in" height="0.2388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1064.png){width="0.5in" height="0.2388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1065.png){width="0.5in" height="0.2388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1066.png){width="0.5in" height="0.2388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1071.png){width="0.2951388888888889in" height="0.24027777777777778in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1072.png){width="0.2951388888888889in" height="0.24027777777777778in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1075.png){width="0.6694444444444444in" height="0.21875in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1076.png){width="0.6694444444444444in" height="0.21875in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1077.png){width="0.6694444444444444in" height="0.21875in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1078.png){width="0.6694444444444444in" height="0.21875in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1083.png){width="1.0604166666666666in" height="0.21666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1084.png){width="1.0604166666666666in" height="0.21666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1085.png){width="1.0604166666666666in" height="0.21666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1086.png){width="1.0604166666666666in" height="0.21666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1087.png){width="1.0604166666666666in" height="0.21666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1088.png){width="1.0604166666666666in" height="0.21666666666666667in"}
-
-> **"A**yanokouji-kun, do you have a moment?"
+"Ayanokouji-kun, do you have a moment?"
 
 She came. She was here. It was terrifying. I'd been feigning sleep during class, pondering society's true purpose while I pretended to nap, when the devil approached me. Shostakovich's Symphony No. 11 played in my head, music that captured the sense of people fleeing from pursuing demons and the desperation that comes at the end of the world. Right then, it was the perfect accompaniment.
 
@@ -82,15 +60,15 @@ Conclusion: I'd pretend not to hear her. I had dubbed this the "Sleeping Strateg
 
 "If you do not awaken within three seconds, I will bestow additional punishment upon you."
 
-> "What do you mean, 'punishment'?" I asked.
+"What do you mean, 'punishment'?" I asked.
 
 In an instant, I'd abandoned my "Sleeping Strategy" and yielded to her threats of force. Well, at least I offered some resistance by not meeting her gaze.
 
-> "See, you *are* awake after all, aren't you?" she said. "I know enough that I'm afraid to make you angry."
->
-> "Glad to hear it. Well then, may I have a little of your time?" "If I refuse?"
+"See, you are awake after all, aren't you?" she said. "I know enough that I'm afraid to make you angry."
 
-"Well, even though you have no right to veto such a decision, I suppose I *would* be exceptionally displeased."
+"Glad to hear it. Well then, may I have a little of your time?" "If I refuse?"
+
+"Well, even though you have no right to veto such a decision, I suppose I would be exceptionally displeased."
 
 She continued with, "And when I am displeased, then I will prove a major obstacle to your school life, Ayanokouji-kun. For example, I might set a great number of thumbtacks on your chair. Or, when you go to the toilet, I might splash water on you from above. Or stab you with the needle of my mathematical compass. Those kinds of obstacles, I suppose."
 
@@ -102,13 +80,13 @@ I reluctantly sat up at my desk. A girl with beautiful, sharp eyes and long blac
 
 "What's more pressing are the thumbtacks and the compass needle! Look at this! There are still marks from when you stabbed me the last time! Will you take responsibility if it scars me for life?" I rolled up my right sleeve and displayed my forearm to Horikita, so she could see the scars she'd left behind.
 
-> "Evidence?" she asked. "Huh?"
+"Evidence?" she asked. "Huh?"
 
 "What about the evidence? Did you decide I'm the culprit without evidence?"
 
 She was right; there was no evidence. Even though Horikita was the only one in class close enough to stab me with a needle, I'd be hard-pressed to call that definitive proof...
 
-> Well, I needed to confirm something first anyway.
+Well, I needed to confirm something first anyway.
 
 "So, I'm required to help you? I've thought on it again, and, after all, I---"
 
@@ -118,9 +96,9 @@ I was stuck with Horikita's two completely absurd choices. It appeared she would
 
 "All right, then. What am I supposed to do?" I asked, filled with trepidation. Her requests no longer surprised me. I certainly didn't like how this situation had turned out, but... I thought back to when I'd met this girl two months ago, on the day of the entrance ceremony.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1095.png){width="0.3138888888888889in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1096.png){width="0.3138888888888889in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1097.png){width="0.3138888888888889in" height="0.1736111111111111in"}
+**2.1**
 
-**A**pril. The school entrance ceremony. I rode the bus to school, bobbing and shaking in my seat. While I looked idly out my window, watching the city's scenery change, the bus picked up more and more passengers.
+April. The school entrance ceremony. I rode the bus to school, bobbing and shaking in my seat. While I looked idly out my window, watching the city's scenery change, the bus picked up more and more passengers.
 
 Most of them were young people wearing high school uniforms.
 
@@ -132,7 +110,7 @@ I was fortunate to have found a seat, but it was still crowded. I forgot about t
 
 The weather was especially fine today, not a single cloud in the sky. It was so refreshing that I nearly fell asleep then and there.
 
-> However, my gentle respite was promptly obliterated. "Excuse me, but shouldn't you offer up your seat?"
+However, my gentle respite was promptly obliterated. "Excuse me, but shouldn't you offer up your seat?"
 
 My eyes, which were about to close, snapped back open. Huh? Could this person be angry with me? But I realized that it was someone else being scolded.
 
@@ -140,13 +118,11 @@ A young, well-built blond man of high school age had sat down in one of the prio
 
 "Hey, you there. Can't you see that this elderly woman is having trouble?" the office lady said.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1101.png){width="0.23055555555555557in" height="0.13541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1102.png){width="0.23055555555555557in" height="0.13541666666666666in"}
-
-> She seemed to want the young man to offer up his seat.
+She seemed to want the young man to offer up his seat.
 
 Her voice carried quite well throughout the quiet bus, attracting several people's attention.
 
-> "That's a really crazy question, lady," the boy said.
+"That's a really crazy question, lady," the boy said.
 
 I wondered whether the boy was angry, unobservant, or just painfully honest. In any case, he grinned broadly and crossed his legs. "Why should I offer up my seat? There's no reason for me to do so."
 
@@ -160,13 +136,11 @@ He didn't speak like a normal high school student. His hair was dyed blond, whic
 
 "Wh-what kind of attitude is that to take with your superiors?" she demanded.
 
-"Superiors? Well, it's obvious that both you and the old woman there been alive longer than I have. There can be no doubt about that. However, the word 'superior' implies that you're referring to someone of a higher position. In addition, we have another problem. Even though our ages are different, wouldn't
-
-you agree that you have an impertinent attitude and are being extremely rude?"
+"Superiors? Well, it's obvious that both you and the old woman there been alive longer than I have. There can be no doubt about that. However, the word 'superior' implies that you're referring to someone of a higher position. In addition, we have another problem. Even though our ages are different, wouldn't you agree that you have an impertinent attitude and are being extremely rude?"
 
 "Wha--- You're a high schooler, aren't you?! You should be quiet and listen to what adults tell you!"
 
-> "It's f-fine, whatever..." the elderly woman mumbled.
+"It's f-fine, whatever..." the elderly woman mumbled.
 
 She apparently didn't want any further commotion and tried to calm the office lady. But after being insulted by the high school student, the younger woman still seemed very upset.
 
@@ -174,7 +148,7 @@ She apparently didn't want any further commotion and tried to calm the office la
 
 After flashing a pointlessly vigorous smile, the boy slid his earphones in and began listening to rather cacophonous music. The office lady now clenched her teeth in frustration. Though she tried needling the boy by arguing further, his smug, self-important attitude remained fixed.
 
-> At any rate, I had to at least partly agree with the boy.
+At any rate, I had to at least partly agree with the boy.
 
 If you ignored the question of a moral imperative, it was true that he wasn't legally obligated to give up his seat.
 
@@ -184,7 +158,7 @@ Well, it was all just a minor incident on the bus. I was relieved that I hadn't 
 
 Clearly, the egotistical boy had won. At least, everyone secretly thought so.
 
-> "Um... I think that the lady is right."
+"Um... I think that the lady is right."
 
 The woman received unexpected support from someone standing alongside her. The helper, a girl wearing my high school's uniform, gave her brave and frank opinion to the boy.
 
@@ -192,21 +166,19 @@ The woman received unexpected support from someone standing alongside her. The h
 
 "This poor woman appears to have been suffering for quite some time now. Won't you offer up your seat? While you might consider such courtesy unnecessary, I think it would contribute greatly to society."
 
-> *Crack!* The boy snapped his fingers.
+Crack! The boy snapped his fingers.
 
-"A contribution to society, you say? Well, that *is* a rather interesting opinion. It's certainly true that offering up one's seat to the elderly could be viewed in such a positive light. Unfortunately, I have no interest in contributing to society. I care only for my own satisfaction. Oh, and one more thing. You're asking me, the one in the priority seat, to give up his spot, but couldn't you simply ask one of the other people seated on this crowded bus? If you truly cared for the elderly, then something like priority seating would be a rather trivial concern, wouldn't you agree?"
+"A contribution to society, you say? Well, that is a rather interesting opinion. It's certainly true that offering up one's seat to the elderly could be viewed in such a positive light. Unfortunately, I have no interest in contributing to society. I care only for my own satisfaction. Oh, and one more thing. You're asking me, the one in the priority seat, to give up his spot, but couldn't you simply ask one of the other people seated on this crowded bus? If you truly cared for the elderly, then something like priority seating would be a rather trivial concern, wouldn't you agree?"
 
 The boy's haughty attitude remained unchanged. Both the office lady and the elderly woman simply wore bitter smiles in response. However, the girl didn't back down.
 
 "Everyone, please listen to me for just a moment. Won't someone give up their seat for this woman? It doesn't matter who. Please."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1109.png){width="0.21388888888888888in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1110.png){width="0.21388888888888888in" height="0.17847222222222223in"}
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1113.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1114.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1115.png){width="8.260416666666666in" height="11.69375in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image33.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image34.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image35.png){width="8.260416666666666in" height="11.69375in"}
 
 How could someone pour so much courage, determination, and compassion into so few words? That was no simple feat. The girl might have seemed like a nuisance to those around her, but she appealed to the other passengers earnestly and without fear.
 
-> Though not in a priority seat, I was near the elderly woman.
+Though not in a priority seat, I was near the elderly woman.
 
 I imagined if I raised my hand and offered my spot, then the matter would be settled.
 
@@ -224,7 +196,7 @@ While I unintentionally stared at her, our eyes met for an instant. Even without
 
 "E-excuse me. You can have mine." Shortly after the girl's appeal, a working woman stood, unable to bear the guilt any longer, and offered up her seat.
 
-> "Thank you very much!" the elderly woman said.
+"Thank you very much!" the elderly woman said.
 
 The working woman smiled, lowered her head, and guided the elderly woman to the now-vacant seat.
 
@@ -234,51 +206,49 @@ As I got off the bus, I saw a gate formed from natural rock waiting just ahead. 
 
 The Japanese government had created the Tokyo Metropolitan Advanced Nurturing High School with the express purpose of developing future leaders. This would be my school from now on.
 
-> *Okay, stop for a moment. Take a deep breath. All right, here we go!*
->
-> "Wait!"
+Okay, stop for a moment. Take a deep breath. All right, here we go!
+
+"Wait!"
 
 The instant I tried to take my first courageous step, someone called out to me. It was the girl who'd sat next to me on the bus.
 
-> "You were looking at me. Why?" she asked. She narrowed her eyes while we spoke.
+"You were looking at me. Why?" she asked. She narrowed her eyes while we spoke.
 
 "Sorry. I guess I was just interested, is all. I mean, you didn't think about giving up your seat to the old woman, did you?"
 
 "That's right. I didn't consider giving it up. Is there something wrong with that?"
 
-> "Oh, no, not at all. I didn't intend to give up my seat, either.
+"Oh, no, not at all. I didn't intend to give up my seat, either.
 
 In fact, I firmly abide by the philosophy of letting sleeping dogs lie. I dislike trouble."
 
 "You dislike trouble? Then I don't think you and I are anything alike. I didn't give up my seat because I thought it would be pointless. That's all."
 
-> "But doesn't that seem worse than just not liking trouble?"
->
-> "Perhaps. I'm simply acting according to my own beliefs.
+"But doesn't that seem worse than just not liking trouble?"
+
+"Perhaps. I'm simply acting according to my own beliefs.
 
 That's different from someone who just dislikes trouble, like you. I don't want to spend any time around people like you."
 
-> "I feel the same way," I muttered.
+"I feel the same way," I muttered.
 
 I had only wanted to share my opinion, but I wasn't too keen on going back and forth with her like this. We both sighed and proceeded to walk in the same direction.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1123.png){width="0.3715277777777778in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1124.png){width="0.3715277777777778in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1125.png){width="0.3715277777777778in" height="0.1736111111111111in"}
+**2.2**
 
-**I** disliked the entrance ceremony and imagined that many first-year students probably felt the same. The principal and the students exchanged excessive words of gratitude, there was far too much time spent standing in lines, and, with so many irritating things to deal with, it all felt like a huge pain in the butt. But those weren't my only complaints. The entrance ceremonies for elementary school, junior high, and high school all mean the same thing: the start of another major trial for children. In order for students to enjoy their time at school, they must make friends, and there are only a few key days after the entrance ceremony to properly do that. Failure to do so signals the beginning of a rather tragic three years.
+I disliked the entrance ceremony and imagined that many first-year students probably felt the same. The principal and the students exchanged excessive words of gratitude, there was far too much time spent standing in lines, and, with so many irritating things to deal with, it all felt like a huge pain in the butt. But those weren't my only complaints. The entrance ceremonies for elementary school, junior high, and high school all mean the same thing: the start of another major trial for children. In order for students to enjoy their time at school, they must make friends, and there are only a few key days after the entrance ceremony to properly do that. Failure to do so signals the beginning of a rather tragic three years.
 
 As someone who dislikes trouble, I decided I'd like to establish proper relationships. Unfamiliar with the notion, I'd spent the day before in preparation, running through different scenarios.
 
 For instance, should I burst into the classroom and actively start talking to people? Should I secretly pass around a slip of paper with my email address, so as to better befriend someone? Someone like me needed to practice, because this environment was so different from what I'd experienced thus far. I was completely isolated. I had ventured alone into a battlefield, and it was do or die.
 
-Looking around the classroom, I walked toward the seat that bore my nameplate. It was at the back of the room, near the window. A good place to sit, generally. As I looked around, I saw that the room was already halfway filled with students. The others were either immersed in their class materials or already talking with other people. Perhaps they'd all been friends beforehand or
-
-had only recently gotten acquainted. Well then, what should I do? Take action during this free time and try to meet someone? In front of me, a rather rotund boy sat at his desk, hunching over.
+Looking around the classroom, I walked toward the seat that bore my nameplate. It was at the back of the room, near the window. A good place to sit, generally. As I looked around, I saw that the room was already halfway filled with students. The others were either immersed in their class materials or already talking with other people. Perhaps they'd all been friends beforehand or had only recently gotten acquainted. Well then, what should I do? Take action during this free time and try to meet someone? In front of me, a rather rotund boy sat at his desk, hunching over.
 
 Perhaps it was my imagination, but he appeared lonely.
 
 The boy exuded an aura that seemed to shout, "Please, someone be my friend!" However, if you just went up to someone and start talking, you might be bothering them. Should you wait for the right time? But then you might wait too long and be left friendless. I just had to... No, no, wait, I couldn't be hasty. If I started a thoughtless conversation with someone I didn't know, I ran the risk of making a serious social gaffe.
 
-> Not good. I was trapped in a downward spiral.
+Not good. I was trapped in a downward spiral.
 
 In the end, I couldn't talk to anyone at all. At the rate things were going, I'd be completely alone. Had I heard someone say, "Is he still all alone?" Had I heard chuckling? Perhaps it was all in my head. What on earth are "friends," anyway? Where do friends come from? Do people become friends after sharing a meal together? Can you become friends with someone after you walk to the bathroom together for the first time? The more I thought about it, the more I wondered: What is friendship? Is it something deep and meaningful? I tried to piece it together.
 
@@ -286,37 +256,37 @@ Trying to make friends is incredibly bothersome. Besides, don't human relationsh
 
 Before I knew it, the rotund, bespectacled boy in front of me had started to talk with another classmate.
 
-> Wearing a bitter smile, I realized that there was no new friendship to be cultivated there. *I'm happy for you, Glasses-kun. It looks like you made your first friend.*
->
-> "I got beaten to the punch!"
->
-> I was at my wit's end, stuck in useless navel-gazing.
+Wearing a bitter smile, I realized that there was no new friendship to be cultivated there. I'm happy for you, Glasses-kun. It looks like you made your first friend.
+
+"I got beaten to the punch!"
+
+I was at my wit's end, stuck in useless navel-gazing.
 
 Reflexively, I let out a deep sigh. My high school experience seemed poised to be exceptionally dour. Then, someone sat down beside me.
 
-"That's quite a heavy sigh, considering the school year has only begun. Meeting you again makes *me* want to sigh."
+"That's quite a heavy sigh, considering the school year has only begun. Meeting you again makes me want to sigh."
 
 It was the girl who'd fought with me at the bus stop and then walked off.
 
-> "So, we were placed in the same class, huh?" I mumbled.
+"So, we were placed in the same class, huh?" I mumbled.
 
 Well, there were only four classes for all of the first-year students, after all. Statistically, it wasn't impossible for us to be together.
 
-> "Nice to meet you. I'm Ayanokouji Kiyotaka."
->
-> "You just went ahead and introduced yourself?" she said. "Well, this is the second time that we've spoken. Isn't it fine
+"Nice to meet you. I'm Ayanokouji Kiyotaka."
+
+"You just went ahead and introduced yourself?" she said. "Well, this is the second time that we've spoken. Isn't it fine
 
 for me to do so?"
 
 I had wanted to introduce myself to someone anyway, so it wasn't as though I could just keep quiet. Besides, in order to become familiar with my class, I had to at least know my neighbor's name...even if she was this audacious girl.
 
-> "Do you mind if I refuse?" she asked.
+"Do you mind if I refuse?" she asked.
 
 "I don't think sitting next to someone for an entire year without knowing their name would be comfortable."
 
-> "I disagree."
->
-> Shooting me a glance, she placed her bag on her desk.
+"I disagree."
+
+Shooting me a glance, she placed her bag on her desk.
 
 Apparently, she wasn't going to tell me her name. Lacking any interest in the classroom, the girl simply sat upright in her chair like a model student.
 
@@ -324,19 +294,19 @@ Apparently, she wasn't going to tell me her name. Lacking any interest in the cl
 
 "You're a curious one, aren't you? You won't find talking to me very interesting, though."
 
-> "If I'm bothering you, you can just tell me to be quiet."
+"If I'm bothering you, you can just tell me to be quiet."
 
 I wouldn't introduce myself if it made her angry. I thought that the conversation was over, but then the girl sighed.
 
 Apparently, she'd changed her mind. She turned her gaze on me and introduced herself.
 
-> "I'm Horikita Suzune."
->
-> For the first time, I got a good look at her face.
+"I'm Horikita Suzune."
+
+For the first time, I got a good look at her face.
 
 Wow. She was cute. Or rather, she was beautiful. Even though we were in the same grade, I'd have believed it if you told me she was a year or two older.
 
-> Such a calm, cool beauty.
+Such a calm, cool beauty.
 
 "Let me tell you about myself," I said. "I have no particular hobbies, but I'm interested in just about anything. I don't need many friends, but I think it would be nice to have at least a few.
 
@@ -346,25 +316,23 @@ And, well, that's about it."
 
 "Jeez, I feel like you trashed my entire existence in one second," I muttered.
 
-> "I pray this will be my only upset."
+"I pray this will be my only upset."
 
 "I sympathize, but, unfortunately, I don't think your prayers will be answered." I pointed to the classroom entrance. Standing there was---
 
 "This seems like a rather well-equipped classroom. It would appear to live up to people's expectations, hmm?" Yes. The boy who'd quarreled with those women on the bus.
 
-> "I see. This certainly is bad luck," she said.
->
-> This troublemaker had been placed in Class D with us.
+"I see. This certainly is bad luck," she said.
+
+This troublemaker had been placed in Class D with us.
 
 Without seeming to notice our presence at all, he went over to the seat labeled "Kouenji" and sat. I wondered if such a person had ever considered even the idea of friendship. I tried observing him for a little bit. Kouenji put his feet on top of the desk, took a nail file from his bag, and hummed while he treated his fingernails. He acted as though he were completely alone.
 
 Apparently, the rude comments he'd made on the bus had been an accurate reflection of his opinions. Within ten seconds, more than half the class had begun drawing away from Kouenji. His imposing nature dominated the space. Looking over, I saw that Horikita's gaze had lowered, and she seemed to be reading one of her own books. Oh, shoot. I'd forgotten that conversational back-and-forth was one of the basics of maintaining interest. I'd squashed one of my chances to become friends with Horikita.
 
-Leaning down, I glanced at the title of her book: *Crime and Punishment*. Now that was interesting. A story that debated whether it was right to kill someone, so long as it was done for the sake of justice.
+Leaning down, I glanced at the title of her book: Crime and Punishment. Now that was interesting. A story that debated whether it was right to kill someone, so long as it was done for the sake of justice.
 
-So sad. Perhaps Horikita's taste in books was reflected in her personality. Well, at any rate, we'd introduced ourselves, so perhaps we could at least become neighborly. After a few minutes, the first bell rang. At that precise moment, a woman entered the classroom. When I first saw her, my initial impression was that
-
-she firmly believed in discipline. If I had to guess, I would have placed her age at thirty. She wore a suit and had delicate features. Her hair seemed long, and she'd tied it into a ponytail.
+So sad. Perhaps Horikita's taste in books was reflected in her personality. Well, at any rate, we'd introduced ourselves, so perhaps we could at least become neighborly. After a few minutes, the first bell rang. At that precise moment, a woman entered the classroom. When I first saw her, my initial impression was that she firmly believed in discipline. If I had to guess, I would have placed her age at thirty. She wore a suit and had delicate features. Her hair seemed long, and she'd tied it into a ponytail.
 
 "Ahem. Good morning to you, students. I'm the instructor for Class D. My name is Chiyabashira Sae. I usually teach Japanese history. However, at this school, we do not change classrooms for each grade. For the next three years, I will be acting as your homeroom teacher, so I hope to get to know all of you. It's a pleasure to meet you. The entrance ceremony will be in the gymnasium one hour from now, but first, I will distribute written materials with information about this school's special rules. I will also hand out the admissions guide."
 
@@ -374,7 +342,7 @@ This school differed from the multitude of other Japanese high schools in a few 
 
 However, the campus also came equipped with many excellent facilities. With its own karaoke spot, theater, café, boutique, and more, you could easily compare this school to a small city. The campus spread over more than 600,000 square meters.
 
-> This school boasted another unique feature: the S System.
+This school boasted another unique feature: the S System.
 
 "I will now hand out your student ID cards. By using your card, you can access any of the facilities on campus, purchase goods from the store, and so on. It acts like a credit card.
 
@@ -384,7 +352,7 @@ Our points, loaded onto our student ID cards, acted as a kind of currency. The l
 
 "Your student cards can be used simply by swiping them through the machine scanner. The method is simple, so you shouldn't get confused. Points are automatically deposited into your account on the first of every month. You should all have received 100,000 points already. Keep in mind that one point is worth one yen. No further explanation should be necessary."
 
-> The classroom erupted.
+The classroom erupted.
 
 In other words, we had received a 100,000-yen monthly allowance from the school upon admission. I'd expect nothing less from a massive institution run by the Japanese government.
 
@@ -392,9 +360,7 @@ In other words, we had received a 100,000-yen monthly allowance from the school 
 
 "Shocked by the amount of points you've been given? This school evaluates its students' talents. Everyone here has passed the entrance examination, which itself speaks to your value and potential. The amount you've received reflects the evaluation of your worth. You can use your points without restraint. After graduation, however, all of your points return to the school.
 
-Because it's impossible to exchange your points for cash, there's no advantage to saving them. Once points have been deposited into your account, it's up to you how to spend them. Do as you like. In the event that you don't want to spend your points, you may transfer them to someone else. However, extorting money
-
-from your peers is not allowed. This school monitors bullying very carefully."
+Because it's impossible to exchange your points for cash, there's no advantage to saving them. Once points have been deposited into your account, it's up to you how to spend them. Do as you like. In the event that you don't want to spend your points, you may transfer them to someone else. However, extorting money from your peers is not allowed. This school monitors bullying very carefully."
 
 As bewilderment spread among the students, Chiyabashira- sensei looked over the room.
 
@@ -402,11 +368,11 @@ As bewilderment spread among the students, Chiyabashira- sensei looked over the 
 
 Many of my classmates could not hide their surprise at the large amount of points.
 
-> "This school doesn't seem as strict as I thought," I muttered.
+"This school doesn't seem as strict as I thought," I muttered.
 
 I thought I was talking to myself, but Horikita looked in my direction. She must have imagined I was speaking to her.
 
-> "This school is extremely lenient, isn't it?"
+"This school is extremely lenient, isn't it?"
 
 Despite all of the restrictions, like being forced to live in the dormitories, being forbidden to leave the campus, and being prohibited from contacting anyone on the outside, no one here seemed to have any complaints. In fact, you might even say that we'd been given such preferential treatment that it was like we'd been transported to paradise. Of course, the Advanced Nurturing High School's most impressive statistic was its near 100 percent placement rate for students advancing into higher education or entering the workforce.
 
@@ -418,7 +384,7 @@ Only this school had that kind of name-brand value. I'd assumed that the atmosph
 
 No, that wasn't quite right. After all, we'd been capable enough to pass the entrance exam. If we could reach graduation day peacefully, without incident, then we would have achieved our goal... Was such a thing really possible, though?
 
-"This is almost *too* much preferential treatment. It's frightening."
+"This is almost too much preferential treatment. It's frightening."
 
 As Horikita spoke, I realized I felt the same way. We hardly knew anything about this school. It was as if a veil of mystery shrouded everything. Because a school like this could make any wishes a reality, I'd thought some kind of risk would have to be involved.
 
@@ -428,7 +394,7 @@ As Horikita spoke, I realized I felt the same way. We hardly knew anything about
 
 Once the teacher was gone, the newly rich students began to grow restless.
 
-> "Everyone, can you please listen to me for a moment?"
+"Everyone, can you please listen to me for a moment?"
 
 A student with the air of an upstanding young man quickly raised his hand. His hair wasn't dyed. He looked like an honors student. Based on his appearance, I got the impression he wasn't a delinquent.
 
@@ -450,25 +416,25 @@ Someone like him would probably end up dating the cutest girl in class. That was
 
 Although the girl at the head of the class looked a little bewildered, she quickly made up her mind and stood. Or rather, she'd been pressured, in response to Hirata's words.
 
-> "M-my name is...Inogashira Ko-Ko..."
+"M-my name is...Inogashira Ko-Ko..."
 
 The girl, last name Inogashira, seemed to freeze during her introduction. Was she drawing a blank, or had she not considered what she was going to say beforehand? As her words halted, she paled. It was rare to see someone get so incredibly nervous.
 
-> "Do your best!"
->
-> "Don't panic! It's okay!"
+"Do your best!"
+
+"Don't panic! It's okay!"
 
 Kind words poured out of our classmates. But it seemed to have the opposite effect on the girl; the words stuck in the back of her throat. The silence continued for five seconds. Ten seconds.
 
 You could've cut the tension with a knife. Some of the girls started giggling. Inogashira was paralyzed with fear. She couldn't move a muscle. Another girl spoke up.
 
-> "It's okay to go slowly. Don't rush."
+"It's okay to go slowly. Don't rush."
 
 Although it might seem kind, saying, "Do your best!" and, "It's okay!" it actually conveys a completely different meaning. To someone who is extremely nervous, "Do your best!" and, "It's okay!" can actually seem forceful, as if indicating she needs to match her classmates. On the other hand, saying, "Just take things slowly. Don't rush," allows her to take things at her own pace.
 
 After that, the girl calmed down and regained her composure. She took a few small breaths and tried again.
 
-> "My name is Inogashira...Kokoro. Um, my hobby is sewing.
+"My name is Inogashira...Kokoro. Um, my hobby is sewing.
 
 I'm pretty good at knitting. I-It's nice to meet you all."
 
@@ -484,7 +450,7 @@ Besides, I'd thought the inter-high championship was a national sports competiti
 
 Was he trying to crack a joke? He seemed like a talkative guy who got carried away pretty easily.
 
-> "Well then, I'm next, aren't I?"
+"Well then, I'm next, aren't I?"
 
 The cheerful girl who stood up was the same one who'd told Inogashira to go slowly and calm down. She was also the same girl who'd helped out the elderly woman on the bus that morning.
 
@@ -500,7 +466,7 @@ Her encouraging words to Inogashira hadn't been platitudes, but a genuine reflec
 
 "So, after school or during vacations, I want to make all sorts of memories with lots of people. Please feel free to invite me to lots and lots of events! Anyway, I've talked for a long time, so I'll end my introduction here."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1133.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1134.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1135.png){width="8.260416666666666in" height="11.69375in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image39.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image40.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image41.png){width="8.260416666666666in" height="11.69375in"}
 
 She said it as though she knew I'd been critiquing everyone's introductions. I felt strangely uncomfortable, and I wasn't sure why.
 
@@ -508,7 +474,7 @@ What should I say when my turn came? Should I make a joke? Should I go into it w
 
 The introductions continued while I wrestled with my anxiety.
 
-> "Well then, next up is..."
+"Well then, next up is..."
 
 As Hirata looked encouragingly toward the next student, that student glared back. His hair was dyed a fiery red. He both looked and sounded like a delinquent.
 
@@ -520,11 +486,9 @@ The red-haired guy scowled at Hirata. He had quite a presence, his attitude inte
 
 When Hirata bowed his head, some of the girls glared at the guy with red hair.
 
-> "Isn't it fine to introduce yourself?" one of them snapped. "Yeah, yeah!"
+"Isn't it fine to introduce yourself?" one of them snapped. "Yeah, yeah!"
 
 As I'd expected, the pretty-boy soccer star had captured most of the girls' hearts in the blink of an eye. However, half of the male students started to look angry, probably out of jealousy.
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1139.png){width="0.19191163604549433in" height="0.16874890638670167in"}
 
 "Shut it. I don't care. I didn't come here to make friends." The guy with red hair got up from his seat. It seemed he had no intention of getting to know anyone. Several other students followed suit and left the classroom together. Horikita got up and briefly glanced my way. When she realized I wasn't moving, she started to walk out the door. Hirata looked a little lonely when he saw Horikita head out.
 
@@ -538,17 +502,17 @@ Although some people had rebelled at the idea of introductions, the students who
 
 It was difficult to tell if he was joking or not. At the very least, the girls looked at him with revulsion.
 
-"Wow. You are *so* cool, Ike-kun," one girl said, in a completely emotionless voice. Of course, her statement was 1000 percent false.
+"Wow. You are so cool, Ike-kun," one girl said, in a completely emotionless voice. Of course, her statement was 1000 percent false.
 
 "Seriously? Seriously? Oh, man. I mean, I thought that I wasn't bad or anything, but...heh heh."
 
 Apparently, Ike thought that she was being serious. He blushed. Instantly, the girls started to laugh.
 
-"Oh, wow. He's *cute*, huh, everyone? He's looking for a girlfriend!"
+"Oh, wow. He's cute, huh, everyone? He's looking for a girlfriend!"
 
-> *Dude, they're making fun of you.* Ike continued to jovially go along with the teasing. He didn't seem like a bad guy, though.
->
-> Next up was the combative boy from the bus, Kouenji.
+Dude, they're making fun of you. Ike continued to jovially go along with the teasing. He didn't seem like a bad guy, though.
+
+Next up was the combative boy from the bus, Kouenji.
 
 While inspecting his bangs in a hand mirror, he combed his hair. "Excuse me, can you introduce yourself?" Hirata asked. "Hmph. Fine."
 
@@ -564,7 +528,7 @@ He aimed his introduction solely at the opposite sex, rather than the entire cla
 
 "I meant exactly what I said. If asked to give an example, well... I would say I hate ugly things, for instance. So, if I saw something ugly, I would do just as I said."
 
-> *Fwish!* He flipped his long, flowing bangs. "Ah, thank you. I will be careful then."
+Fwish! He flipped his long, flowing bangs. "Ah, thank you. I will be careful then."
 
 There was the guy with red hair, Horikita, Kouenji, Yamauchi, and Ike. Apparently, this class was full of people with bizarre idiosyncrasies.
 
@@ -572,15 +536,15 @@ I, too, was especially peculiar, in that there was nothing peculiar about me. I 
 
 "Well then, time for the next person. Can you please introduce yourself?"
 
-> "Huh?"
->
-> Oh, shoot. My turn had come while I'd been daydreaming. Students turned, waiting for my introduction. *Hey, hey! Don't look at me with so much anticipation. Oh well, I might as well try my best*.
->
-> *Clack!* The chair rattled as I stood.
+"Huh?"
+
+Oh, shoot. My turn had come while I'd been daydreaming. Students turned, waiting for my introduction. Hey, hey! Don't look at me with so much anticipation. Oh well, I might as well try my best.
+
+Clack! The chair rattled as I stood.
 
 "Um. Well, my name is Ayanokouji Kiyotaka. And, uh, I don't really have any special skills or anything. I'll do my best to get along with all of you. It's, uh, nice to meet you."
 
-> Well? Was *that* my introduction? I'd failed!
+Well? Was that my introduction? I'd failed!
 
 I instinctively buried my head in my hands. I hadn't had time to construct a proper introduction because I'd been too busy daydreaming. It was the worst possible intro. It didn't attract attention, and absolutely no one would remember it.
 
@@ -588,23 +552,23 @@ I instinctively buried my head in my hands. I hadn't had time to construct a pro
 
 Everyone clapped. Their applause felt somewhat like pity, which strangely pained me. Despite that, however, I felt kind of glad.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1144.png){width="0.3701388888888889in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1145.png){width="0.3701388888888889in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1146.png){width="0.3701388888888889in" height="0.23680555555555555in"}
+**2.3**
 
-**E**ven though people said this place was tough, the entrance ceremony was the same as any other school's. Some important people offered words of thanks, and the ceremony concluded without incident. Then, it was noon. After we received some general information about the campus, the crowd dispersed.
+Even though people said this place was tough, the entrance ceremony was the same as any other school's. Some important people offered words of thanks, and the ceremony concluded without incident. Then, it was noon. After we received some general information about the campus, the crowd dispersed.
 
-> 70--80 percent of the students headed toward the dormitories.
+70--80 percent of the students headed toward the dormitories.
 
 The remaining students quickly formed into groups. Some made their way to cafés, while the louder ones went out for karaoke.
 
 The hustle and bustle quickly died down. On a whim, I decided to swing by the convenience store on my way back to the dormitory. Of course, I went alone. I didn't have a chaperone, or acquaintance, or anyone like that.
 
-> "My, what an unpleasant coincidence."
+"My, what an unpleasant coincidence."
 
 Entering the convenience store, I ran into Horikita once again.
 
 "Come on, there's no need to be so hostile. Anyway, did you need to buy something?" I asked.
 
-> "Yes, just a few things. I came to get some necessities."
+"Yes, just a few things. I came to get some necessities."
 
 There was no shortage of things you needed when starting life in a dorm, especially if you were a girl. Horikita took various necessities like shampoo off the shelves and promptly threw them into the basket she was carrying. I'd thought she would choose higher quality items, but she only took the cheapest options.
 
@@ -612,13 +576,13 @@ There was no shortage of things you needed when starting life in a dorm, especia
 
 "Well, that depends on the person, doesn't it? I'm the sort who doesn't know when you might need money," she replied.
 
-> She shot me an icy glare that seemed to say, *Could you please not inspect other people's purchases without their permission?*
+She shot me an icy glare that seemed to say, Could you please not inspect other people's purchases without their permission?
 
 "At any rate, I was terribly surprised that you stayed for introductions," she said. "You didn't look like the type to hang out with a circle of classmates."
 
 "I decided to participate precisely because I don't like trouble. Why didn't you introduce yourself to them, Horikita? You could have gotten to know several other students, and it would have been a chance to make friends."
 
-> Quite a few of the students had exchanged cell numbers, too.
+Quite a few of the students had exchanged cell numbers, too.
 
 If Horikita had participated, she would probably have become quite popular. What a waste.
 
@@ -628,9 +592,9 @@ If Horikita had participated, she would probably have become quite popular. What
 
 "How did you arrive at that conclusion? Actually, if I argue this with you now, we'll just end up in an endless debate. Let's say that the probability of making friends was high, like you said. So, how many people did you get to know?"
 
-> "Ugh..."
->
-> She gazed at me.
+"Ugh..."
+
+She gazed at me.
 
 That was a rather splendid argument. The fact that I hadn't yet exchanged contact information with anyone worked in Horikita's favor. It proved there was no guarantee that introductions led to friendship. I instinctively averted my eyes.
 
@@ -646,77 +610,71 @@ We roamed around the convenience store without looking at each other. Even thoug
 
 Two rather noisy male students stood before the instant foods. They tossed a veritable mountain of noodle cups into their basket and made their way to the cash register. Besides noodles, they'd stocked up on snacks and juice. Hey, it'd be nearly impossible to go through all your points; better to spend them.
 
-> "Noodle cups. They have so many kinds."
+"Noodle cups. They have so many kinds."
 
 These were definitely one reason I'd come to the convenience store.
 
 "So, do boys really like this kind of stuff? I can't imagine that it's healthy," Horikita said.
 
-> "I like them just fine, I guess."
+"I like them just fine, I guess."
 
 I picked up a noodle cup and examined the price tag. It said 156 yen, but I couldn't tell whether that was expensive or cheap.
 
 Even though the school referred to its credit system as points, the prices were all listed in yen.
 
-> "Hey, what do you think? Is this price high or low?"
->
-> "Hmm. I'm not sure. Why, is there something curious about
+"Hey, what do you think? Is this price high or low?"
 
-it?"
+"Hmm. I'm not sure. Why, is there something curious about it?"
 
 "No, I was just wondering."
 
-The store's prices seemed reasonable. One point appeared to
+The store's prices seemed reasonable. One point appeared to really equal one yen. Given that the average freshman's allowance was around 5,000 yen, the amount of money we'd received seemed impossibly large. Horikita, noting my odd behavior, gave me a quizzical look. I grabbed a noodle cup to avoid suspicion.
 
-really equal one yen. Given that the average freshman's allowance was around 5,000 yen, the amount of money we'd received seemed impossibly large. Horikita, noting my odd behavior, gave me a quizzical look. I grabbed a noodle cup to avoid suspicion.
-
-> "Wow, this is enormous. It's a G Cup, huh?"
+"Wow, this is enormous. It's a G Cup, huh?"
 
 Apparently, that stood for "Giga Cup." Just looking at it made me feel full. On an unrelated note, Horikita's breasts were neither small nor huge. They exquisitely straddled the line between the two. The perfect size.
 
 "Ayanokouji-kun. Were you thinking about something stupid just now?" she asked.
 
-> "Er. No?"
->
-> "I felt like you were acting strangely."
+"Er. No?"
+
+"I felt like you were acting strangely."
 
 She could sense my inappropriate thoughts just by looking at me. She was a sharp one.
 
-> "I was just wondering whether or not I should buy this.
+"I was just wondering whether or not I should buy this.
 
 What do you think?"
 
-"Oh. Well, I suppose that's fine. Anyway, do *you* really think you should buy that? This school offers far healthier food options. Don't you think it's better to avoid eating junk?"
+"Oh. Well, I suppose that's fine. Anyway, do you really think you should buy that? This school offers far healthier food options. Don't you think it's better to avoid eating junk?"
 
-Like Horikita said, I had no reason to eat junk. However, since I had an irresistible urge, I took one package of regular-sized
+Like Horikita said, I had no reason to eat junk. However, since I had an irresistible urge, I took one package of regular-sized instant noodles with "FOO Yakisoba" written on it and tossed it into my cart. Her attention wandering, Horikita moved away from the food and began hunting for daily essentials. I planned to use witty jokes to score more points with her next.
 
-instant noodles with "FOO Yakisoba" written on it and tossed it into my cart. Her attention wandering, Horikita moved away from the food and began hunting for daily essentials. I planned to use witty jokes to score more points with her next.
+"If you're looking for something a cut above the rest, how about this razor with five blades? I bet it'd do the job."
 
-"If you're looking for something *a cut above the rest*, how about this razor with five blades? I bet it'd do the job."
-
-> "Why in the world would I want to shave with *that*?"
+"Why in the world would I want to shave with that?"
 
 I grinned smugly and pretended to shave an imaginary beard, but she didn't laugh. Far from it. Instead, she looked at me like I was dirt.
 
-"Look at me," she said. "I don't have anything to shave. Not on my chin, not under my armpits, and not down *there*."
+"Look at me," she said. "I don't have anything to shave. Not on my chin, not under my armpits, and not down there."
 
 I mumbled hesitantly, my spirit crushed. It looked like my jokes failed colossally with women.
 
 "I have to say, I'm a little envious of your ability to babble inanely to someone you've only just met."
 
-"Well, I feel like you've been saying stupid crap, too, and you only just met *me*."
+"Well, I feel like you've been saying stupid crap, too, and you only just met me."
 
-"Is that so? I've merely stated facts. Unlike you." She calmly tossed my words back at me, shutting me up. To be fair, I *had* said some random nonsense. The smooth, eloquent Horikita, on the other hand, was always well-spoken, no matter how you sliced it.
+"Is that so? I've merely stated facts. Unlike you." She calmly tossed my words back at me, shutting me up. To be fair, I had said some random nonsense. The smooth, eloquent Horikita, on the other hand, was always well-spoken, no matter how you sliced it.
 
 Horikita chose the cheapest face wash. I would have thought girls cared more about that kind of thing, too.
 
 "Don't you think that this one is better?" I took an expensive cream off the shelf and showed it to her.
 
-> "Unnecessary." She refused it. "Well, but---"
->
-> "I already said it was unnecessary, didn't I?" she snapped.
->
-> "Yes..."
+"Unnecessary." She refused it. "Well, but---"
+
+"I already said it was unnecessary, didn't I?" she snapped.
+
+"Yes..."
 
 I gently returned the face wash as she glared at me. I thought I could carry on a conversation without making her angry, but I'd failed.
 
@@ -728,19 +686,17 @@ I gently returned the face wash as she glared at me. I thought I could carry on 
 
 I'd said that I wanted to be her friend, but, apparently, she didn't feel the same. With that, our conversation abruptly stopped. Two new girls entered the convenience store. It was a little strange, but I became aware of something crucial: Horikita really was cute.
 
-> "Hey. What's up with this?"
+"Hey. What's up with this?"
 
 While looking around the store, desperate for a new topic, I'd found something strange. Some toiletries and food had been tucked away in the corner of the convenience store. At first glance, they appeared to be the same as the other items, but there was one big difference.
 
-> "Free?"
+"Free?"
 
 Horikita apparently also thought it strange, so she picked up one of the items. Daily necessities like toothbrushes and bandages had been stuffed into a clearance bin and labeled "Free." The bin was also marked with the proviso "three items per month." These were obviously different from the store's other goods.
 
 "They must be emergency relief supplies for students who use up their points. This school is so incredibly lenient," I said.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1150.png){width="0.17042979002624672in" height="0.17208333333333334in"}
-
-> I had to wonder how far their leniency extended, though. "Hey, shut it! Just wait a sec! I'm looking for it right now!"
+I had to wonder how far their leniency extended, though. "Hey, shut it! Just wait a sec! I'm looking for it right now!"
 
 A sudden, loud voice drowned out the store's peaceful background music.
 
@@ -750,7 +706,7 @@ A sudden, loud voice drowned out the store's peaceful background music.
 
 Apparently, trouble was brewing by the register. A dispute had broken out between two young men who were glaring at each other. I recognized the one with the thoroughly ill-tempered look on his face. It was the student from my class, the guy with the red hair. He had his hands full of noodle cups.
 
-> "What's going on here?" I asked. "Huh? Who are *you*?"
+"What's going on here?" I asked. "Huh? Who are you?"
 
 I had meant to appear amicable, but the guy with red hair scowled at me. Apparently, he was under the mistaken impression that I was an enemy.
 
@@ -758,15 +714,13 @@ I had meant to appear amicable, but the guy with red hair scowled at me. Apparen
 
 At my explanation, the red-haired guy looked somewhat mollified and lowered his voice a little. "Oh. Yeah, I remember you. I forgot my student ID card. Forgot that it pretty much acts as our money from now on, too."
 
-> I looked at his empty hands. He'd put the noodle cups away.
+I looked at his empty hands. He'd put the noodle cups away.
 
 He started to leave, probably heading back to the dorms, where he'd likely forgotten his card. To be honest, the fact that the student ID was necessary for payment hadn't yet sunk in for me, either.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1151.png){width="0.2152777777777778in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1152.png){width="0.2152777777777778in" height="0.1736111111111111in"}
-
 "I can pay for you. I mean, it'd be annoying if you had to head all the way back to the dorms. I don't mind."
 
-> "That's true. You're right, it'd be absolutely annoying.
+"That's true. You're right, it'd be absolutely annoying.
 
 Thanks."
 
@@ -774,7 +728,7 @@ The store wasn't particularly far from the dorms, but by the time he got back th
 
 "My name's Sudou," he said. "Thanks for helping me out. I owe you."
 
-> "Nice to meet you, Sudou."
+"Nice to meet you, Sudou."
 
 Sudou handed me his noodle cup, and I walked over to the hot water dispenser. After watching our short exchange, Horikita sighed, aghast.
 
@@ -782,9 +736,9 @@ Sudou handed me his noodle cup, and I walked over to the hot water dispenser. Af
 
 "I didn't care about making friends. I just wanted to help. No big deal."
 
-> "You don't seem to be afraid."
->
-> "Afraid? Why? Because he looks like a delinquent?" I asked. "A normal person would try to keep someone like him at a
+"You don't seem to be afraid."
+
+"Afraid? Why? Because he looks like a delinquent?" I asked. "A normal person would try to keep someone like him at a
 
 distance."
 
@@ -792,9 +746,7 @@ distance."
 
 "It's mostly defenseless people who stay away from those types. If he acted violently, I could rebuff him. That's why I don't withdraw."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1155.png){width="0.21388888888888888in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1156.png){width="0.21388888888888888in" height="0.17847222222222223in"}
-
-> Horikita's words were always a little difficult to understand.
+Horikita's words were always a little difficult to understand.
 
 To begin with, what did she mean by "rebuff"? Did she carry pepper spray to keep off perverts or something?
 
@@ -802,11 +754,11 @@ To begin with, what did she mean by "rebuff"? Did she carry pepper spray to keep
 
 Wrapping things up, we presented our student ID cards to the machine by the register. Since we didn't have to deal with small change, our transaction was speedy.
 
-> "You really can use it like money..." I said.
+"You really can use it like money..." I said.
 
 My receipt showed the price of each item and the remaining amount of points. The payment had gone through without any problems. I poured hot water into my noodle cup while waiting for Horikita. I'd thought it might be tricky, but opening the lid and pouring hot water up to the line was simple enough.
 
-> Anyway, this school was eerie.
+Anyway, this school was eerie.
 
 What merit could every student possibly have that would warrant such a massive allowance? Considering that there were about 160 people enrolled in my grade, simple calculation suggested that there were 480 people total in this school. That alone would mean 48 million yen each month. Annually, that would equal 560 million yen. Even for a government-supported school, that seemed like overkill.
 
@@ -814,19 +766,15 @@ What merit could every student possibly have that would warrant such a massive a
 
 "I wonder. The campus has more than enough facilities for the number of students, and I wouldn't think it necessary to hand out so much. Students who should be studying might slack off."
 
-Perhaps it was some kind of reward for working hard and passing a test or something. Indeed, student motivation might
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1159.png){width="0.23055555555555557in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1160.png){width="0.23055555555555557in" height="0.1736111111111111in"}
-
-increase if offered an incentive. However, the school had just handed out 100,000 yen to everyone, with no strings attached.
+Perhaps it was some kind of reward for working hard and passing a test or something. Indeed, student motivation might increase if offered an incentive. However, the school had just handed out 100,000 yen to everyone, with no strings attached.
 
 "I won't tell you what to do, but I think it would be best to avoid wasting your money. It's difficult to fix frivolous spending habits. Once a person gets used to an easy life, they find they need more and more. When you lose it, the shock can be great," Horikita said.
 
-> "I'll keep that in mind."
+"I'll keep that in mind."
 
 I didn't really intend to waste money on miscellaneous junk, but she had a point. After paying and exiting the store, I found Sudou seated outside, waiting for me. When I saw him, he gently waved me over. I waved in return, feeling somewhat embarrassed, yet happy.
 
-> "Are you really going to eat here?" I asked him. "Of course. It's just common sense."
+"Are you really going to eat here?" I asked him. "Of course. It's just common sense."
 
 Sudou perplexed me with his matter-of-fact reply. Horikita sighed in exasperation.
 
@@ -836,7 +784,7 @@ Sudou perplexed me with his matter-of-fact reply. Horikita sighed in exasperatio
 
 Horikita didn't flinch at Sudou's harsh tone. Seemingly irritated, Sudou set his noodle cup on the ground and stood.
 
-> "Huh? Hey, listen to people when they're talking to you!
+"Huh? Hey, listen to people when they're talking to you!
 
 Hey!" he said.
 
@@ -846,27 +794,27 @@ Hey!" he said.
 
 "Look, I'll admit that Horikita has a bad attitude, but you're taking this too far."
 
-> It was apparent that Sudou's patience had run out. "Huh?
+It was apparent that Sudou's patience had run out. "Huh?
 
 What was that? She has a bratty, obnoxious attitude. That's bad, especially for a girl!"
 
 "For a girl? That's rather outdated thinking. Ayanokouji, I would advise you not to become his friend," Horikita said. With that, she turned her back on Sudou.
 
-> "Hey, wait! You shitty girl!"
+"Hey, wait! You shitty girl!"
 
 "Calm down." I held Sudou back as he actually tried to grab Horikita. She made her way in the direction of the dorms without stopping or glancing back.
 
-> "What the hell is her deal? Goddamn it!" he shouted. "There are many different types of people, you know." "Shut it. I hate those stuffy, too-serious types."
+"What the hell is her deal? Goddamn it!" he shouted. "There are many different types of people, you know." "Shut it. I hate those stuffy, too-serious types."
 
 He continued to glare at me. Sudou grabbed his noodle cup once again, ripped off the cover, and began eating. Just a little while ago, he'd fought in front of the register, too. He probably had a short fuse.
 
-> "Hey, you guys first years? This is our spot."
->
-> As Sudou slurped his ramen, three boys called out to us.
+"Hey, you guys first years? This is our spot."
+
+As Sudou slurped his ramen, three boys called out to us.
 
 They seemed to have come out of the same store and were carrying the same brand of noodle cups.
 
-"Who are *you*? I was already here. You're in the way. Get lost," Sudou barked.
+"Who are you? I was already here. You're in the way. Get lost," Sudou barked.
 
 "You hear this guy? 'Get lost,' he says. What a cocky little first-year punk."
 
@@ -874,25 +822,25 @@ The three laughed in Sudou's face. Sudou shot up, slamming his noodle cup agains
 
 "'First-year punk,' huh? You tryin' to make fun of me, huh?!"
 
-Sudou had an *extremely* short fuse. If I had to judge, he seemed like the type to immediately threaten anyone or anything that crossed him.
+Sudou had an extremely short fuse. If I had to judge, he seemed like the type to immediately threaten anyone or anything that crossed him.
 
 "You're awfully mouthy, considering we're second-year students. We already put our bags here, see?"
 
-*Plop*! With those words, the second-year upperclassmen students put down their bags and guffawed loudly.
+Plop! With those words, the second-year upperclassmen students put down their bags and guffawed loudly.
 
-> "See, our stuff's here. Now, beat it," one of them said. "You got a lot of guts, asshole."
+"See, our stuff's here. Now, beat it," one of them said. "You got a lot of guts, asshole."
 
 Sudou didn't back down, unfazed by being outnumbered. It looked like fists were going to fly at any moment. I, of course, didn't want any part of it myself.
 
 "Oh, wow, scary. What class are you in? Wait, never mind. I think I know. You're in Class D, aren't you?"
 
-> "Yeah, so what?" Sudou snapped.
+"Yeah, so what?" Sudou snapped.
 
 The upperclassmen students exchanged glances and burst into laughter.
 
 "You hear that? He's in Class D! I knew it! It was a dead giveaway!"
 
-> "Huh? What's that supposed to mean? Hey!"
+"Huh? What's that supposed to mean? Hey!"
 
 As Sudou barked at them, the boys grinned and stepped backwards.
 
@@ -900,11 +848,11 @@ As Sudou barked at them, the boys grinned and stepped backwards.
 
 guys."
 
-> "Hey, don't run away! Hey!" Sudou shouted.
+"Hey, don't run away! Hey!" Sudou shouted.
 
 "Yeah, yeah, keep on yapping. You guys'll be in hell soon enough anyway."
 
-> *Be in hell?*
+Be in hell?
 
 They appeared calm and composed. I wondered what they'd meant. Previously, I'd been certain this school would be filled with upper-class young men and women, but there seemed to be plenty of rowdy, combative people like Sudou or those upperclassmen.
 
@@ -912,23 +860,21 @@ They appeared calm and composed. I wondered what they'd meant. Previously, I'd b
 
 Sudou didn't bother to clean up his mess. He thrust his hands into his pockets before heading back. I looked at the wall outside the convenience store, discovering two surveillance cameras.
 
-> "This might lead to problems later," I muttered.
+"This might lead to problems later," I muttered.
 
 Reluctantly, I bent down, picked up the cup, and started cleaning up the mess. Come to think of it, as soon as those second- year students found out Sudou was in Class D, their attitudes had changed. Although it ate at me, I couldn't explain it.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1167.png){width="0.39166666666666666in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1168.png){width="0.39166666666666666in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1169.png){width="0.39166666666666666in" height="0.22708333333333333in"}
+**2.4**
 
-**A**round one pm, I made my way back to the dormitory, my home from that day onward. At the reception desk, I received a keycard for Room 401 and a handbook containing information about the dorm's rules, then boarded the elevator. I quickly flipped through the handbook, which only detailed the most basic things that we needed for our daily routines. The dates and times for garbage disposal were listed, as well as a notice about avoiding excessive noise. I also saw notes about not wasting water or electricity, and so on.
+Around one pm, I made my way back to the dormitory, my home from that day onward. At the reception desk, I received a keycard for Room 401 and a handbook containing information about the dorm's rules, then boarded the elevator. I quickly flipped through the handbook, which only detailed the most basic things that we needed for our daily routines. The dates and times for garbage disposal were listed, as well as a notice about avoiding excessive noise. I also saw notes about not wasting water or electricity, and so on.
 
-> "So, they don't place restrictions on electricity or gas usage?"
+"So, they don't place restrictions on electricity or gas usage?"
 
 I'd assumed that the school would deduct the cost from our points. This school really went to great lengths to have a perfect system for its students. However, I was a little surprised that they'd implemented co-ed dormitories. After all, this was a high school, so the rules stated that unsuitable romantic relationships were frowned upon. In short, sex was strictly forbidden...obviously. I mean, a member of the clergy wouldn't say that engaging in illicit sexual activity was okay.
 
 While I privately doubted that such pampered students could develop into fine, upstanding adults, it would be wise to make the best of the situation for now. My room was about eight tatami mats wide. Also, though this was a dorm, it was the first time I'd lived alone. I refused to have any contact with the outside world until graduation. Considering my situation, I unintentionally cracked a smile.
 
-This school boasted a high employment rate upon graduation, and its facilities and student services were unmatched throughout the country, making it the preeminent high school in
-
-Japan. I found such things trivial, however. I'd chosen this school for one fundamental reason.
+This school boasted a high employment rate upon graduation, and its facilities and student services were unmatched throughout the country, making it the preeminent high school in Japan. I found such things trivial, however. I'd chosen this school for one fundamental reason.
 
 At this high school, people were not allowed to contact students without permission, even if they were friends or immediate family. I greatly appreciated that. I was free. In English, they would call it, "freedom." In French, they would call it, "liberté."
 
@@ -936,71 +882,63 @@ Isn't freedom simply the best? When I wanted to eat something, I could eat it. I
 
 No one else's eyes or words would ever reach me. I could start ag---no. I could begin anew entirely. A new life. I resolved to enjoy my time here to the fullest, but without drawing attention to myself. Still in my uniform, I dived into my already-made bed. I felt far from tired, however. I was so incredibly excited about my new life that I was unable to calm down. My eyes remained wide open.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1173.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1174.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1175.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1176.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1177.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1016.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1178.png){width="1.117361111111111in" height="0.3055555555555556in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1185.png){width="0.2222222222222222in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1186.png){width="0.2222222222222222in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1187.png){width="0.2222222222222222in" height="0.23680555555555555in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1191.png){width="0.5152777777777777in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1192.png){width="0.5152777777777777in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1193.png){width="0.5152777777777777in" height="0.23541666666666666in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1197.png){width="1.2520833333333334in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1198.png){width="1.2520833333333334in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1199.png){width="1.2520833333333334in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1200.png){width="1.2520833333333334in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1201.png){width="1.2520833333333334in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1202.png){width="1.2520833333333334in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1203.png){width="1.2520833333333334in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1204.png){width="1.2520833333333334in" height="0.23680555555555555in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1213.png){width="0.2951388888888889in" height="0.24027777777777778in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1214.png){width="0.2951388888888889in" height="0.24027777777777778in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1217.png){width="0.6902777777777778in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1218.png){width="0.6902777777777778in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1219.png){width="0.6902777777777778in" height="0.23541666666666666in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1223.png){width="0.17772747156605426in" height="0.21427055993000874in"}
+**Chapter 3: The Students of Class D**
 
-**O**n our second day of school---well, I suppose technically it was the first day of class---we spent most of our time running over the course objectives. Apparently, many of the students were quite surprised, if not a little disappointed, by how genuinely warm and friendly the teachers at this school looked. Sudou had already made a spectacle of himself by spending most of the class asleep. I thought that the teachers would notice, but they showed no signs of doing so. After all, it was up to every individual student whether or not he or she wanted to listen in class. I wondered if this was how teachers typically interacted with students once they left compulsory education.
+On our second day of school---well, I suppose technically it was the first day of class---we spent most of our time running over the course objectives. Apparently, many of the students were quite surprised, if not a little disappointed, by how genuinely warm and friendly the teachers at this school looked. Sudou had already made a spectacle of himself by spending most of the class asleep. I thought that the teachers would notice, but they showed no signs of doing so. After all, it was up to every individual student whether or not he or she wanted to listen in class. I wondered if this was how teachers typically interacted with students once they left compulsory education.
 
-> I took in the relaxed atmosphere, and soon it was lunchtime.
+I took in the relaxed atmosphere, and soon it was lunchtime.
 
 Students stood up and left with their new acquaintances, disappearing from my view. I couldn't help but feel slightly envious as I watched them. Unfortunately, I still hadn't managed to befriend a single one of my new classmates.
 
-> "How pathetic."
+"How pathetic."
 
 Only one person had noticed how I felt, and she met my pain with derisive laughter.
 
-> "What? What's pathetic?" I asked.
+"What? What's pathetic?" I asked.
 
 "'I want someone to invite me along. I want to eat with someone!' Your thoughts are like an open book," Horikita said.
 
 "But you're alone, too, aren't you? Haven't you thought the same thing? Or do you intend to spend three years here without making a single friend?"
 
-"That's right. I prefer to be alone," she replied quickly, without hesitation. It sounded like she was being honest. "Why
+"That's right. I prefer to be alone," she replied quickly, without hesitation. It sounded like she was being honest. "Why don't you stop worrying about me and instead think about yourself?"
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1224.png){width="0.1845417760279965in" height="0.16791666666666666in"}
+"Well, I..."
 
-don't you stop worrying about me and instead think about yourself?"
-
-> "Well, I..."
->
-> I certainly wasn't proclaiming my intention to be social.
+I certainly wasn't proclaiming my intention to be social.
 
 Honestly, at the rate things were going I might be unable to make any friends, spelling trouble for my future. I'd likely end up alone again, and that would make me stand out. It could make me a target for bullying.
 
 Less than a minute after the end-of-class bell rang, about half of the students had disappeared. Those who remained either secretly wanted to go, like me, were unconscious of their surroundings, or preferred being alone, like Horikita.
 
-"Well, I was thinking of heading to the cafeteria. Anyone want to come with me?" announced Hirata as he stood. He was clearly one of those all-around good guys. I had to take my hat off to him. In my heart of hearts, I'd been waiting for a savior to bestow a chance like this upon me. *Yes, Hirata, I will go with you.* I slowly tried to raise my hand, and...
+"Well, I was thinking of heading to the cafeteria. Anyone want to come with me?" announced Hirata as he stood. He was clearly one of those all-around good guys. I had to take my hat off to him. In my heart of hearts, I'd been waiting for a savior to bestow a chance like this upon me. Yes, Hirata, I will go with you. I slowly tried to raise my hand, and...
 
-> "I'll go, too!"
->
-> "Me, too! Me too!"
->
-> Girls gathered around Hirata one after another, and I lowered my hand. Why did those girls have to take his offer? This could've been my chance to make friends with Hirata! *You don't need to jump all over him for lunch just because he's kind of handsome!*
->
-> "How tragic."
->
-> Horikita's derisive laugh morphed into scorn.
->
-> "Don't just assume you know what I'm thinking," I said. "Does anyone else want to come?"
+"I'll go, too!"
 
-Hirata looked around the room, possibly feeling a bit lonely because no other boys had joined him. Hirata scanned the
+"Me, too! Me too!"
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1225.png){width="0.22847222222222222in" height="0.16875in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1226.png){width="0.22847222222222222in" height="0.16875in"}
+Girls gathered around Hirata one after another, and I lowered my hand. Why did those girls have to take his offer? This could've been my chance to make friends with Hirata! You don't need to jump all over him for lunch just because he's kind of handsome!
 
-> classroom, and his eyes met mine. *Over here! Notice me, Hirata! There's someone here who wants an invitation!* Hirata didn't avert his eyes, just as I would expect from someone with a handle on his life who cared about the people in his class! He understood my appeal!
->
-> "Hey, Ayano---"
->
-> Hirata began to call my name, but in that instant--- "Come on. Hurry up, Hirata-kun!"
+"How tragic."
+
+Horikita's derisive laugh morphed into scorn.
+
+"Don't just assume you know what I'm thinking," I said. "Does anyone else want to come?"
+
+Hirata looked around the room, possibly feeling a bit lonely because no other boys had joined him. Hirata scanned the classroom, and his eyes met mine. Over here! Notice me, Hirata! There's someone here who wants an invitation! Hirata didn't avert his eyes, just as I would expect from someone with a handle on his life who cared about the people in his class! He understood my appeal!
+
+"Hey, Ayano---"
+
+Hirata began to call my name, but in that instant--- "Come on. Hurry up, Hirata-kun!"
 
 A fashionista-type girl latched onto Hirata's arm. Ah... The girls stole Hirata's attention. They left the classroom together, all looking rather happy. I remained alone with my arm outstretched. Somewhat embarrassed, I tried to play it off by pretending to scratch my head.
 
 "Well then." Horikita shot me another pitying look before departing the classroom, leaving me alone.
 
-> "That was pointless."
+"That was pointless."
 
 Reluctantly, I got up and decided to head toward the cafeteria by myself. If I didn't feel like I could eat alone in there, I'd just score some supplies from the convenience store.
 
-> "You're Ayanokouji-kun, right?"
+"You're Ayanokouji-kun, right?"
 
 On my way out, a beautiful girl suddenly called my name. It was Kushida, one of my classmates. This was the first time I'd actually taken a good look at her, and it caused my heart to start pounding in my chest like a jackhammer. She had short, straight, dyed-brown hair that almost brushed the tops of her shoulders.
 
@@ -1010,9 +948,9 @@ She was holding something in her hand. I couldn't tell if it was a pouch with a 
 
 "I'm Kushida, from your class. Do you remember me?" she asked.
 
-> "Yeah, kinda. Do you need something?"
->
-> "To tell you the truth, there's something I wanted to ask you.
+"Yeah, kinda. Do you need something?"
+
+"To tell you the truth, there's something I wanted to ask you.
 
 It's just one little question. Ayanokouji-kun, are you on good terms with Horikita-san?"
 
@@ -1022,7 +960,7 @@ It looked like her business was with Horikita rather than me, which was a little
 
 "Oh, no. Well, do you remember when I said I wanted to get along with everyone in class? That's why I wanted everyone's contact info. But...Horikita turned me down."
 
-> Ugh. Horikita was so oblivious. *If such a positive, outgoing girl asked for your info, it would've been nice for you to throw me a bone and give me* her *contact info while you were at it. I could probably have gotten to know everyone in the class in almost no time at all.*
+Ugh. Horikita was so oblivious. If such a positive, outgoing girl asked for your info, it would've been nice for you to throw me a bone and give me her contact info while you were at it. I could probably have gotten to know everyone in the class in almost no time at all.
 
 "Weren't you two talking outside the school on the day of the entrance ceremony?"
 
@@ -1032,7 +970,7 @@ Considering we'd all ridden the bus together, it was no wonder that she'd seen m
 
 She seemed to want information on Horikita, but I couldn't give her any answers.
 
-> "I don't think she's very good at interacting with others.
+"I don't think she's very good at interacting with others.
 
 Why are you asking about Horikita, anyway?"
 
@@ -1050,19 +988,15 @@ Kushida had said that she wanted to get along with everyone when she introduced 
 
 Kushida had listened to my hopelessly lame self- introduction. Somehow, that made me really happy.
 
-> "Well, it's nice to meet you again, Ayanokouji-kun," she
+"Well, it's nice to meet you again, Ayanokouji-kun," she said.
 
-said.
-
-> Although I was a little bewildered by her outstretched hand, I
-
-wiped my palms on my pants and shook hands with her. "Yeah, nice to meet you," I said.
+Although I was a little bewildered by her outstretched hand, I wiped my palms on my pants and shook hands with her. "Yeah, nice to meet you," I said.
 
 Today was probably my lucky day. Even though there'd been some low points, some things had gone well. Since humans were creatures of convenience, the positives quickly overrode the bad memories.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1237.png){width="0.32013888888888886in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1238.png){width="0.32013888888888886in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1239.png){width="0.32013888888888886in" height="0.23680555555555555in"}
+**3.1**
 
-**A**fter taking a quick peek into the cafeteria, I opted instead to go to the convenience store, buy some bread, and return to class. About ten people had remained in the room. Some had pushed their desks together so they could all eat as a group, while other, more solitary students quietly ate their lunches alone.
+After taking a quick peek into the cafeteria, I opted instead to go to the convenience store, buy some bread, and return to class. About ten people had remained in the room. Some had pushed their desks together so they could all eat as a group, while other, more solitary students quietly ate their lunches alone.
 
 Everyone here had brought a lunch box from the cafeteria or convenience store.
 
@@ -1072,29 +1006,29 @@ I was going to eat by myself, but then Horikita returned and sat down beside me.
 
 A girl with a sweet voice continued the announcement. Club activities, huh? Come to think of it, I'd never joined a club before.
 
-> "Hey, Horikita---"
->
-> "I'm not interested in joining a club." "I didn't even ask you anything yet." "Well, what is it?"
->
-> "Are you interested in joining a club?"
+"Hey, Horikita---"
+
+"I'm not interested in joining a club." "I didn't even ask you anything yet." "Well, what is it?"
+
+"Are you interested in joining a club?"
 
 "Ayanokouji-kun, do you have dementia, or are you just an idiot? Didn't I just tell you that I'm not interested?"
 
-> "That doesn't mean you won't join, though," I replied.
+"That doesn't mean you won't join, though," I replied.
 
 "Now you're just splitting hairs. Don't argue for the sake of arguing."
 
-> "Okay then."
+"Okay then."
 
-So, Horikita had no interest in making friends *or* joining clubs. She seemed annoyed whenever I tried to talk to her. I wondered if she'd come to the school only to advance into higher education or get a job. If she wanted to advance to higher education, I wouldn't have found that too surprising, but I did consider it a bit of a waste.
+So, Horikita had no interest in making friends or joining clubs. She seemed annoyed whenever I tried to talk to her. I wondered if she'd come to the school only to advance into higher education or get a job. If she wanted to advance to higher education, I wouldn't have found that too surprising, but I did consider it a bit of a waste.
 
-> "You don't really have any friends, do you?" she asked. "Sorry. But, hey, I can at least talk to *you* pretty well now." "Listen, don't count me as one of your friends."
->
-> "O-oh..."
+"You don't really have any friends, do you?" she asked. "Sorry. But, hey, I can at least talk to you pretty well now." "Listen, don't count me as one of your friends."
+
+"O-oh..."
 
 "Well, since you apparently want to go find out about the clubs, do you intend to join one?" she asked.
 
-> "Oh, I'm not sure, I guess. I'm still thinking about it.
+"Oh, I'm not sure, I guess. I'm still thinking about it.
 
 Probably not, though."
 
@@ -1104,7 +1038,7 @@ How could she possibly be so sharp? No, I was probably just easy to read.
 
 "Since I failed to make any friends on my first day, I thought that clubs would be my last chance."
 
-> "Can't you invite anyone other than me?" she asked.
+"Can't you invite anyone other than me?" she asked.
 
 "It's precisely because I don't have anyone else to invite that I'm having such a hard time!"
 
@@ -1116,31 +1050,31 @@ Horikita took up her sandwich and quietly resumed eating. "I have trouble compre
 
 I wanted to make friends, but I couldn't. Horikita apparently found that incomprehensible.
 
-> "Have you ever joined any clubs, Horikita?" I asked. "No, I've never been in one."
+"Have you ever joined any clubs, Horikita?" I asked. "No, I've never been in one."
 
 "Then, do you have any experience? You know, doing this or that?"
 
 "What exactly do you mean by 'that'? I can't help but feel like that's a mean-spirited question."
 
-> "Mean-spirited? Why? What did I say wrong?"
+"Mean-spirited? Why? What did I say wrong?"
 
 In one quick motion, Horikita karate-chopped me in the side. I coughed after being struck, unable to believe that a girl could hit so hard.
 
-> "Wh-what was that for?!" I cried.
+"Wh-what was that for?!" I cried.
 
 "Ayanokouji-kun. I've warned you thoroughly, but it would appear that you haven't been listening. I think I may have to dole out rather merciless punishment to you later."
 
-> "Absolutely not! Violence doesn't solve anything!"
+"Absolutely not! Violence doesn't solve anything!"
 
 "Oh, really? Violence has existed since the dawn of time. Violence has historically proven to be the human race's most effective means of achieving resolution. Violence is the most reliable method to make others listen, or safely deny their demands. Not to mention that, in many countries, the police who enforce the law use handguns and batons, wielding violence as a tool to make arrests."
 
-> "You sure are rambling..."
+"You sure are rambling..."
 
 She gave a grand speech, insisting that hitting me had not been wrong. She also stated that her unreasonable behavior was reasonable. If I tried to argue, she would viciously tear me down.
 
 "I think that I will employ violence to rehabilitate you, Ayanokouji-kun, and purge you of those impure thoughts. How does that sound?"
 
-> "Okay then, what if I said the same thing to *you*, Horikita?
+"Okay then, what if I said the same thing to you, Horikita?
 
 What about that?"
 
@@ -1150,33 +1084,33 @@ At best, men who raised their hand against women were called "lowlifes" and "cow
 
 Her answer was totally unexpected. She really seemed to believe that she was always right. Even though she looked and spoke with the civility befitting an honors student, on the inside, she was a cruel beast.
 
-> "Okay, I get it, I get it. I'll be careful from now on."
+"Okay, I get it, I get it. I'll be careful from now on."
 
 I gave up on Horikita and looked out the window. Ah, the weather today was so nice.
 
-> "Club activities, hmm. I see..."
->
-> Horikita mumbled to herself as she pondered something. "Well, if it's only for a little while after school, I'll go with
+"Club activities, hmm. I see..."
+
+Horikita mumbled to herself as she pondered something. "Well, if it's only for a little while after school, I'll go with
 
 you," she said.
 
-> "What do you mean 'a little while'?"
+"What do you mean 'a little while'?"
 
 "You asked me earlier, didn't you? You said you wanted to go to the club fair."
 
 "Oh, yeah. I never planned to stick around. I was just looking for a chance to go. Is that okay?"
 
-> "If it's just for a little while. All right, we'll go after class."
+"If it's just for a little while. All right, we'll go after class."
 
 After our conversation ended, we resumed eating our lunches. I had said that she was unpleasant earlier, but maybe things had turned around. Perhaps Horikita was actually a good person.
 
 "Watching you flail about as you fail to make friends sounds somewhat interesting."
 
-> Nope. She was unpleasant.
->
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1243.png){width="0.3784722222222222in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1244.png){width="0.3784722222222222in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1245.png){width="0.3784722222222222in" height="0.23680555555555555in"}
->
-> **"T**here are more people here than I expected."
+Nope. She was unpleasant.
+
+**3.2**
+
+"There are more people here than I expected."
 
 After class had ended for the day, Horikita and I went to the gymnasium. Nearly all of the students assembled there were freshmen. There were about a hundred people waiting around. We stood near the back of the room and waited for the fair to begin.
 
@@ -1188,19 +1122,17 @@ While waiting, we glanced over the pamphlet that students received upon entering
 
 Even though this school didn't seem like a top-tier institution for activities like baseball and ballet, the clubs here certainly looked great.
 
-"These facilities are significantly more substantial than ordinary schools. Look, they even have O~2~ chambers. The equipment here is so luxurious, it puts the professionals' stuff to shame. Oh, but it looks like they *don't* have a karate club after all."
+"These facilities are significantly more substantial than ordinary schools. Look, they even have O2 chambers. The equipment here is so luxurious, it puts the professionals' stuff to shame. Oh, but it looks like they don't have a karate club after all."
 
-> "I see."
+"I see."
 
 "What? Were you interested in karate or something?" I asked.
 
-> "No, not particularly."
+"No, not particularly."
 
 "It seems like it'll be hard for newcomers to get into the athletic clubs," I said. "Even if a first year managed to break in, they still might just be a benchwarmer forever. I can't think that would be much fun."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1249.png){width="0.17371391076115486in" height="0.16874890638670167in"}
-
-> Everything around here seemed far too orderly.
+Everything around here seemed far too orderly.
 
 "Wouldn't that depend on one's efforts, though? Surely by training for one or two years, anyone could get in and play."
 
@@ -1212,11 +1144,11 @@ Training, huh? I didn't think I'd be able to put in that amount of effort, no ma
 
 "Would you agree that someone who avoids trouble also avoids unnecessary manual labor? You said it first. You should keep to your word, I think."
 
-> "I didn't really think about it that deeply."
+"I didn't really think about it that deeply."
 
 "If you keep acting so non-committal, you're never going to be able to make any friends," she said.
 
-> "You wound me, Horikita."
+"You wound me, Horikita."
 
 "Thank you all for waiting, first-year students. We will now begin the club fair. A representative from each club will explain their function. My name is Tachibana, the student council secretary and the club fair's organizer. It's nice to meet you all."
 
@@ -1226,9 +1158,7 @@ After Tachibana delivered the opening remarks, representatives from each club qu
 
 "What do you mean 'kind'?! He looks like a gorilla! He'll kill me for sure!" I snapped.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1250.png){width="0.21875in" height="0.1701388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1251.png){width="0.21875in" height="0.1701388888888889in"}
-
-> "He'll probably talk passionately about how easy judo is." "Cut it out!"
+"He'll probably talk passionately about how easy judo is." "Cut it out!"
 
 Sheesh. I'd thought that we were having a decent conversation, but she'd done nothing but stick it to me.
 
@@ -1236,7 +1166,7 @@ Sheesh. I'd thought that we were having a decent conversation, but she'd done no
 
 "Beginners should be welcomed. The more members a club has, the more money they receive from the school. That's how they're able to get better training equipment."
 
-> "Sounds like they're using the beginners for the money..."
+"Sounds like they're using the beginners for the money..."
 
 "It would be ideal to gather many new members as a budgetary increase, and then simply to bench them the rest of the time, like phantom members. If you were skilled at manipulation, that is."
 
@@ -1246,27 +1176,25 @@ A girl dressed in archery gear stepped onto the stage. "Hello, my name is Hashig
 
 "Hey, look, they seem to be welcoming newcomers. Why don't you try joining? In order to increase their budget, that is," I said.
 
-> "I hate the idea of joining a club solely for that reason!
+"I hate the idea of joining a club solely for that reason!
 
 Besides, athletic clubs are just gatherings of people with nothing better to do. Also, I probably wouldn't have fun if I didn't know anyone there. I'd end up quitting in the blink of an eye."
 
-> "Isn't that simply your twisted personality talking?"
+"Isn't that simply your twisted personality talking?"
 
-go."
+"Yeah, you're absolutely right. But athletic clubs are a no-go."
 
 "Yeah, you're absolutely right. But athletic clubs are a no-
 
 I thought about joining a nice, calm, quiet club. "Tch!"
 
-As the seniors introduced their respective clubs one after the
+As the seniors introduced their respective clubs one after the other, I saw Horikita suddenly tense. She looked at the stage, her face pale.
 
-other, I saw Horikita suddenly tense. She looked at the stage, her face pale.
-
-> "What's the matter?"
+"What's the matter?"
 
 She didn't even seem to notice me anymore. I followed her line of sight to the stage, but I didn't find anything of note there. Just the representative of the school baseball team, dressed in uniform, giving his introduction. Had she fallen in love with him at first sight? No, I doubted it. Surprise? Disgust? Or maybe she was overjoyed? To be honest, Horikita's expression was complex and hard to read.
 
-> "Horikita, what's the matter?" " "
+"Horikita, what's the matter?" " "
 
 It was like she couldn't hear my voice. She kept staring intently at the stage. I decided that I'd stop talking to her and simply wait for an explanation. The baseball team's introduction wasn't any more compelling than the others. All things considered, the greeting was rather stock, no matter their schedule, appeal, or how welcoming they were to newcomers.
 
@@ -1282,13 +1210,11 @@ He appeared to be about 170 centimeters in height, so he wasn't very tall. He wa
 
 Unfortunately, my expectations were dashed immediately. He didn't say a single word. Maybe he was drawing a blank? Or perhaps he was so nervous that he couldn't speak?
 
-> "Do your best!"
->
-> "Did you forget to bring your notecards?" "Ha ha ha ha ha!"
+"Do your best!"
 
-The first-year students hurled comments at him. However, the upperclassman stood on the stage calmly, without trembling. The laughter and comments didn't seem to faze him. When the
+"Did you forget to bring your notecards?" "Ha ha ha ha ha!"
 
-laughter had reached a crescendo, it suddenly died. He wore an apathetic expression.
+The first-year students hurled comments at him. However, the upperclassman stood on the stage calmly, without trembling. The laughter and comments didn't seem to faze him. When the laughter had reached a crescendo, it suddenly died. He wore an apathetic expression.
 
 "What's with this guy?" remarked an astonished student. The gymnasium buzzed with people talking, yet the boy on the stage still did not move. He simply stood there, quiet and motionless, staring fixedly at the crowd. Horikita stared back at the student with an intense gaze, not breaking her line of sight even for a second.
 
@@ -1302,13 +1228,11 @@ Horikita? I glanced at the Horikita next to me. Perhaps they just happened to ha
 
 "The student council is looking to recruit potential candidates among the first-year students to replace the graduating third years. Although no special qualifications are required for candidacy, we humbly ask that those considering application not be involved in other club activities. We generally do not accept students involved elsewhere."
 
-He spoke in a soft tone, but the tension around us was so thick it felt like you could cut it with a knife. He had managed to silence over a hundred new students in that spacious gymnasium. Of course, it wasn't his position as student council president that
-
-granted him this deference. That was simply Horikita Manabu's power. His presence dominated everyone around him.
+He spoke in a soft tone, but the tension around us was so thick it felt like you could cut it with a knife. He had managed to silence over a hundred new students in that spacious gymnasium. Of course, it wasn't his position as student council president that granted him this deference. That was simply Horikita Manabu's power. His presence dominated everyone around him.
 
 "Furthermore, we in the student council do not wish to appoint anyone who possesses a naive outlook. Not only would such a person not be elected, he or she would sully the sanctity of this school. It is the student council's right and duty to enforce and amend the rules, but the school expects more than that. We gladly welcome those of you who understand this."
 
-> He didn't pause even once during his eloquent speech.
+He didn't pause even once during his eloquent speech.
 
 Immediately after finishing, he hopped off the stage and left the gymnasium. None of the first-year students could utter a single word as we watched him go. We didn't know what would've happened if we'd tried to talk. Everyone in the room shared the same thought, apparently.
 
@@ -1318,39 +1242,39 @@ Also, registration will be open until the end of April, so if any student wishes
 
 Thanks to the laid-back organizer, the tension in the air dissipated. Afterward, the third-year students who'd introduced their respective clubs started taking applications.
 
-> "............"
+"............"
 
 Horikita remained still as a statue, giving no sign she would budge.
 
-> "Hey, what's wrong?" I asked.
+"Hey, what's wrong?" I asked.
 
 Horikita didn't answer. It was like my words didn't even reach her ears.
 
-> "Yo, Ayanokouji. You came, huh?"
->
-> As I was lost in thought, someone called out to me. Sudou.
+"Yo, Ayanokouji. You came, huh?"
+
+As I was lost in thought, someone called out to me. Sudou.
 
 Our classmates Ike and Yamauchi were also with him.
 
 "Oh, hey, you three. Looks like you guys are getting along well, huh?" I responded, feeling a bit envious of Sudou.
 
-> "So, you joined a club, too?"
->
-> "Oh, no, I just came to check things out. Wait, 'too'? Did *you*
+"So, you joined a club, too?"
+
+"Oh, no, I just came to check things out. Wait, 'too'? Did you
 
 join a club, Sudou?"
 
 "Yeah. I've been playing basketball ever since elementary school. I thought I'd join the team here."
 
-> I had thought he was athletic, judging from his physique.
+I had thought he was athletic, judging from his physique.
 
 Basketball was clearly his game. "What about you two?"
 
-> "We just came because we felt it might be fun, you know?
+"We just came because we felt it might be fun, you know?
 
 Besides, we thought we might have a fateful encounter afterward," Ike said.
 
-> "What do you mean, 'fateful encounter'?"
+"What do you mean, 'fateful encounter'?"
 
 I wanted Ike to explain his rather odd-sounding goal. He crossed his arms and responded proudly, "I want to get my first girlfriend in Class D. That's my goal. That's why I'm keeping my eyes open for an encounter."
 
@@ -1362,25 +1286,21 @@ Apparently, Ike considered having a girlfriend to be of the utmost priority.
 
 "Yeah. Oh, by the way, I made a group chat for the guys yesterday." Ike took out his phone. "Do you want to join in, too? It's pretty handy."
 
-> "Huh? Me? Is that okay?" I asked.
->
-> "Of course it's okay. We're all in Class D together, after all."
+"Huh? Me? Is that okay?" I asked.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1258.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1259.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1260.png){width="8.260416666666666in" height="11.69375in"}
+"Of course it's okay. We're all in Class D together, after all."
+
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image45.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image46.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image47.png){width="8.260416666666666in" height="11.69375in"}
 
 That was a rather unexpected proposal. I was happy to be invited to the group chat. Finally, I'd found the perfect chance to make friends! However, when I took out my cell phone to exchange contact information, Horikita disappeared into the crowd. Worried about her, I stopped what I was doing.
 
-> "What's wrong?" Ike asked. "Oh, nothing. You ready?"
+"What's wrong?" Ike asked. "Oh, nothing. You ready?"
 
 I returned to my phone and exchanged contact information with Ike and the other guys. Horikita was free to do whatever she wanted, and I didn't have the right to stop her. For a moment, I'd felt like following her, but in the end I decided not to.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1264.png){width="0.18586614173228347in" height="0.16927055993000875in"}
+**Chapter 4: Ladies and Gentlemen, Thank You for Waiting!**
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1265.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1266.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1267.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1268.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1269.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1270.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1271.png){width="1.117361111111111in" height="0.3055555555555556in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1279.png){width="0.24166666666666667in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1280.png){width="0.24166666666666667in" height="0.22708333333333333in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1283.png){width="0.8666666666666667in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1284.png){width="0.8666666666666667in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1285.png){width="0.8666666666666667in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1286.png){width="0.8666666666666667in" height="0.23541666666666666in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1291.png){width="0.5013888888888889in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1292.png){width="0.5013888888888889in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1293.png){width="0.5013888888888889in" height="0.23541666666666666in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1297.png){width="1.6270833333333334in" height="0.2951388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1298.png){width="1.6270833333333334in" height="0.2951388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1299.png){width="1.6270833333333334in" height="0.2951388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1300.png){width="1.6270833333333334in" height="0.2951388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1301.png){width="1.6270833333333334in" height="0.2951388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1302.png){width="1.6270833333333334in" height="0.2951388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1303.png){width="1.6270833333333334in" height="0.2951388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1304.png){width="1.6270833333333334in" height="0.2951388888888889in"}
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1313.png){width="0.86875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1314.png){width="0.86875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1315.png){width="0.86875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1316.png){width="0.86875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1317.png){width="0.86875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1323.png){width="0.5305555555555556in" height="0.21875in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1324.png){width="0.5305555555555556in" height="0.21875in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1325.png){width="0.5305555555555556in" height="0.21875in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1329.png){width="0.3958333333333333in" height="0.24027777777777778in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1330.png){width="0.3958333333333333in" height="0.24027777777777778in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1331.png){width="0.3958333333333333in" height="0.24027777777777778in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1332.png){width="0.3958333333333333in" height="0.24027777777777778in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1337.png){width="1.1159722222222221in" height="0.31180555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1338.png){width="1.1159722222222221in" height="0.31180555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1339.png){width="1.1159722222222221in" height="0.31180555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1340.png){width="1.1159722222222221in" height="0.31180555555555556in"}
-
-> **"G**ood morning, Yamauchi!" "Good morning, Ike!"
+"Good morning, Yamauchi!" "Good morning, Ike!"
 
 Arriving to class, Ike wore a broad grin as he called out to Yamauchi. It was rather unusual for them to get here so early. It'd been one week since the entrance ceremony, and Ike and Yamauchi would always make it to class right before the bell rang.
 
@@ -1390,29 +1310,27 @@ Arriving to class, Ike wore a broad grin as he called out to Yamauchi. It was ra
 
 It was true that the swimming classes were co-ed. In other words, that meant that Horikita, Kushida, and all of the other girls would be...showing off a lot of skin. The girls backed away from Ike and Yamauchi's rabid excitement. I, on the other hand, sat in my chair, isolated and alone. I couldn't do so forever. I had to proactively work at joining a group of friends.
 
-> Fortunately, their conversation had ended, so I stood up.
+Fortunately, their conversation had ended, so I stood up.
 
 However, just then...
 
-> "Hey, Professor! Come here for a sec!" "Uh, you called?"
+"Hey, Professor! Come here for a sec!" "Uh, you called?"
 
 A chubby boy, apparently nicknamed "The Professor," approached them slowly. If I remembered correctly, his name was Sotomura or something like that.
 
 "Professor, can you record the girls wearing their swimsuits for us?" Ike asked.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1345.png){width="0.23055555555555557in" height="0.1701388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1346.png){width="0.23055555555555557in" height="0.1701388888888889in"}
-
 "Leave it to me. I'll pretend to be sick so that I can skip class and observe."
 
-> "*Record?* What are you planning?" I asked.
+"Record? What are you planning?" I asked.
 
 "The Professor is going to rank the girls' breast sizes for us. If we're lucky, he'll get some pictures with his phone."
 
 "Hey, hey." Sudou visibly drew back in response to Ike's plan. If the girls found out about it, the consequences would be severe. However, despite the content of the conversation, I was jealous of their easy banter. Having friends had to be nice. I wanted friends, too.
 
-> "Pathetic," a familiar voice said.
->
-> "So, you're here, too, huh, Horikita?"
+"Pathetic," a familiar voice said.
+
+"So, you're here, too, huh, Horikita?"
 
 "I just arrived while you were looking at those boys over there. You didn't notice me. If you want to be their friend, why not try just talking to them?" she asked.
 
@@ -1428,49 +1346,47 @@ Even though I'd exchanged contact information with Ike and the others, I still h
 
 "It's fine. No matter how low I sink, I'd never dream of being your friend," I replied.
 
-> "I see. I feel a little relieved."
->
-> I wondered just how much she hated having friends.
+"I see. I feel a little relieved."
+
+I wondered just how much she hated having friends.
 
 "Hey, Ayanokouji!" Ike called my name. When I looked up, I saw him beaming at me.
 
-> "Wh-what is it?" I asked.
+"Wh-what is it?" I asked.
 
 I stood, stuttering as I did so. Horikita no longer showed any interest in me. A chance to enter into a new group of friends had suddenly fallen into my lap.
 
 "To tell you the truth, we're taking bets on the girls' chest sizes."
 
-> "We've come up with some probabilities."
->
-> The Professor took out a tablet and opened a spreadsheet.
+"We've come up with some probabilities."
+
+The Professor took out a tablet and opened a spreadsheet.
 
 The names of all the girls in our class were displayed. There were numbers listed as well. I honestly had no interest in gambling, but I couldn't let this opportunity go to waste.
 
-> "Umm. So, is it okay if I join you?" I asked. "Yeah! Come on, do it. Do it!"
+"Umm. So, is it okay if I join you?" I asked. "Yeah! Come on, do it. Do it!"
 
 As of right now, Hasebe was the likeliest contender for the biggest breasts in the class. The odds sat at one to eight I hadn't heard most of the names before. I couldn't even remember my classmates' names. This was too awful.
 
-> "This is way more elaborate than I would have thought.
+"This is way more elaborate than I would have thought.
 
 Aren't you observing them a little too closely?"
 
 "Come on. We're men, aren't we? Men have only two things constantly on their minds: tits and ass!"
 
-Even if that were true, he really had no filter whatsoever. By the way, Horikita was ranked lowest. If you managed to win the bet, that was over thirty times your wager back. Well, in terms of
+Even if that were true, he really had no filter whatsoever. By the way, Horikita was ranked lowest. If you managed to win the bet, that was over thirty times your wager back. Well, in terms of breast size, it was obvious who would win and who would lose. Horikita had no chance.
 
-breast size, it was obvious who would win and who would lose. Horikita had no chance.
-
-> "So, what's your wager? It's 1000 points to join." "I see..."
+"So, what's your wager? It's 1000 points to join." "I see..."
 
 I clearly lacked information. Scanning the list, I realized that not only did I not know the breast sizes of half the people here, I didn't even know the names and faces of most the girls. Actually, aside from Horikita and Kushida, I couldn't recall hearing about anyone else. Kushida seemed to have fairly large breasts, but not large enough to take first place.
 
 "Come on, play with us. It's no fun if there're only a few people betting, you know?"
 
-> "I'll do it!"
->
-> "Me too, me too!"
->
-> "I have experience scouting girls and checking out their tits!"
+"I'll do it!"
+
+"Me too, me too!"
+
+"I have experience scouting girls and checking out their tits!"
 
 While I considered the offer, boys crawled out of the woodwork around me, getting blatantly excited over the size of the girls' breasts. The girls in the classroom looked at us like we were dirt.
 
@@ -1480,19 +1396,19 @@ While I considered the offer, boys crawled out of the woodwork around me, gettin
 
 "What?! S-seriously?!" Ike was the most surprised and flustered by this. Had his goal to become the first guy in class to snag a girlfriend fallen through?
 
-"Yeah, seriously. But keep this on the down low. It's just between us, okay? I mean, I thought she was really plain at first, but then I saw her wearing regular clothes. She was *huge*, man."
+"Yeah, seriously. But keep this on the down low. It's just between us, okay? I mean, I thought she was really plain at first, but then I saw her wearing regular clothes. She was huge, man."
 
 "You doofus. If she's not cute, you shouldn't ask her out, even if she's got huge tits. I wouldn't date anyone unless they were in the same league as Kushida or Hasebe. I'm not interested in such a Plain Jane."
 
 He spoke harshly because no one else was around. I wondered how much I believed Yamauchi when he said that he'd asked Sakura out. I had my doubts. In the end, I decided to place my bet on the girl with the highest odds.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1357.png){width="0.3402777777777778in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1358.png){width="0.3402777777777778in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1359.png){width="0.3402777777777778in" height="0.22708333333333333in"}
->
-> **"A**ll right! The pool!"
+**4.1**
+
+"All right! The pool!"
 
 After lunch had ended, it was finally time for swim class. Finally, the moment Ike and the others had so desperately been waiting for. Without even trying to hide his excitement, Ike leapt up and headed with the others toward the indoor pool. I followed behind them in what I thought was a stealthy manner.
 
-> "Come on, let's go together, Ayanokouji!" "Huh? O-okay."
+"Come on, let's go together, Ayanokouji!" "Huh? O-okay."
 
 I'd hesitated somewhat upon receiving Ike's invitation, but I hurried to join and followed them to the locker room. Sudou promptly removed his uniform and started to change, showing off his physique. He'd built up his body through his years of basketball playing. Even in comparison with the other students, he was clearly in incredible
 
@@ -1504,13 +1420,13 @@ shape. While the others wrapped themselves in bath towels, Sudou unabashedly wor
 
 He could say that again. In these sorts of places, sneaky guys got mocked.
 
-> "All right, I'm going on ahead."
+"All right, I'm going on ahead."
 
 A moment later, Sudou left the locker room. I quickly finished changing as well.
 
 Upon seeing the fifty-meter pool, Ike cried out, "Whoa, this school is something else! It's even better than the city pool, don't you think?" The water was clear and beautiful, and because it was indoors, we didn't have to worry about the weather. The perfect environment.
 
-> "What about the girls? Aren't they here yet?" Ike looked around, sniffing the air like a dog.
+"What about the girls? Aren't they here yet?" Ike looked around, sniffing the air like a dog.
 
 "They take a while to change, so they're probably not ready," I said.
 
@@ -1522,7 +1438,7 @@ Upon seeing the fifty-meter pool, Ike cried out, "Whoa, this school is something
 
 "If the girls sense you staring at them in their swimsuits, they'll probably hate you."
 
-> "Come on, like there's a guy out there who *wouldn't* stare!
+"Come on, like there's a guy out there who wouldn't stare!
 
 Agh. What am I gonna do if I get a boner?"
 
@@ -1532,7 +1448,7 @@ If that happened, they'd probably hate Ike from that moment all the way until th
 
 A few minutes after the boys had arrived, a girl's voice could be heard.
 
-> "A-are they here?!"
+"A-are they here?!"
 
 Ike looked ready to strike. If you were that obvious about it, the girls were bound to hate you. Even so, I was curious, too. I mostly wondered about Hasebe and Kushida, but a little about Horikita as well. I was particularly interested in Hasebe, the girl rumored to have the biggest tits in class. I didn't think there'd be any harm in taking a little peek. However, it turned out that all of the boys' wishes were dashed by an unexpected turn of events.
 
@@ -1542,17 +1458,15 @@ The Professor, who had been watching the class, was now in a panic. Standing on 
 
 He couldn't find the girls anywhere. He looked to his right and left, as if in disbelief. Could they still be changing? Or could...
 
-> "B-behind you, Professor!" "What?!"
->
-> Ike pointed and shouted. The situation had become clear.
+"B-behind you, Professor!" "What?!"
+
+Ike pointed and shouted. The situation had become clear.
 
 Hasebe stood behind the Professor on the observation deck. One by one, the rest of the girls appeared, until they'd all emerged onto the second floor. Sakura was among them.
 
-> "Wh-what's going on? How did this happen?"
+"Wh-what's going on? How did this happen?"
 
 Ike slumped to the ground and buried his face in his hands, shaken by this unbelievable turn of events. Hasebe seemed to be self-conscious about being considered a beautiful girl.
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1363.png){width="0.24375in" height="0.21666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1364.png){width="0.24375in" height="0.21666666666666667in"}
 
 Furthermore, she seemed to dislike getting curious looks from the boys. She was not amused at their attempts to ogle.
 
@@ -1568,7 +1482,7 @@ Ike appeared to be contemplating suicide. His wails of agony reached Hasebe.
 
 "Bro!" Yamauchi and Ike reaffirmed their manly bond of friendship, clasping their hands together.
 
-> "What are you two doing? That looks like fun." "K-K-Kushida-chan?!"
+"What are you two doing? That looks like fun." "K-K-Kushida-chan?!"
 
 Kushida showed up between the two of them. She was clad in her school-issued swimwear, which nicely showed off her voluptuous figure. In an instant, nearly all of the boys' eyes were glued to Kushida's body. She must have been a D or E cup. I didn't know for sure, but I estimated. She was a lot bigger than I'd thought. Her butt and thighs were also more voluptuous than I had pictured, which was strangely captivating. However, all of us boys quickly averted our gaze.
 
@@ -1578,59 +1492,53 @@ Once the inevitable physiological reaction kicked in, it was quite a terrible sh
 
 "Why the pained expression?" Horikita examined my face closely, with a suspicious look.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1367.png){width="0.24375in" height="0.18055555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1368.png){width="0.24375in" height="0.18055555555555555in"}
-
-> "I'm currently in the midst of an internal battle," I replied.
+"I'm currently in the midst of an internal battle," I replied.
 
 Horikita was in a school swimsuit. How to put it? Yeah. She looked good. Not bad at all. But if I stared, it was likely that something bad would result. I thought it best to grin and bear it until I calmed down.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1371.png){width="0.18402668416447945in" height="0.1773950131233596in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image51.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image52.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image53.png){width="8.260416666666666in" height="11.69375in"}
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1372.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1373.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1374.png){width="8.260416666666666in" height="11.69375in"}
+"............"
 
-> "............"
->
-> For some reason, Horikita was checking me out all over. "Ayanokouji-kun, do you exercise?" she asked.
+For some reason, Horikita was checking me out all over. "Ayanokouji-kun, do you exercise?" she asked.
 
 "Huh? No, not really. I'm not particularly proud of this, but in middle school I was the kid who never had any after-school plans."
 
 "Well, you say that, but...judging from the development of your forearms and your back muscles, you seem above average."
 
-> "I guess my parents blessed me with good genes?" "I don't think that's the only reason."
+"I guess my parents blessed me with good genes?" "I don't think that's the only reason."
 
 "Jeez, what's with you? Do you have a muscle fetish or something? Is that it?"
 
-> "I suppose if you deny it that much, I have to believe you..."
+"I suppose if you deny it that much, I have to believe you..."
 
 She appeared somewhat dissatisfied. I guessed that Horikita had a rather discerning eye and enjoyed using it.
 
-> "Are you a good swimmer, Horikita-san?"
+"Are you a good swimmer, Horikita-san?"
 
 Although Horikita gave a slightly puzzled look in response to Kushida's question, she quietly answered. "I wouldn't say I'm particularly good or bad at it."
 
-> "I was really bad at swimming when I was in junior high.
+"I was really bad at swimming when I was in junior high.
 
 But I gave it my all and practiced really hard, and now I think I've gotten better," Kushida said.
 
 "I see." Horikita gave a disinterested response and backed away slightly, clearly signaling that she didn't want to continue the conversation further.
 
-> "All right, everyone, line up!"
+"All right, everyone, line up!"
 
-A macho-looking middle-aged man, the kind of guy who apparently devoted himself to sports, gathered everyone together
-
-and started the class. He looked like a PE teacher, but also seemed like the kind of guy who was attractive to men and women alike.
+A macho-looking middle-aged man, the kind of guy who apparently devoted himself to sports, gathered everyone together and started the class. He looked like a PE teacher, but also seemed like the kind of guy who was attractive to men and women alike.
 
 "There are sixteen of you, huh? I thought there would've been more, but this is all right."
 
 Clearly, some of the students in that count had ditched class, but it didn't appear to frustrate him.
 
-> "After you warm up, I want to see what you can really do.
+"After you warm up, I want to see what you can really do.
 
 Swim for me," the coach said.
 
-> "Excuse me, sir. I can't really swim, though..."
->
-> A lone boy sheepishly raised his hand and spoke up.
+"Excuse me, sir. I can't really swim, though..."
+
+A lone boy sheepishly raised his hand and spoke up.
 
 "Since you have me as your teacher, you'll be swimming by summertime. Don't worry about a thing."
 
@@ -1648,19 +1556,19 @@ Everyone started their warm-up exercises. Ike kept peeking at the girls. The tea
 
 Students who could not swim were allowed to touch the bottom of the pool with their feet. I hadn't been in a pool since last summer. The water must have been temperature-controlled, because I didn't feel chilled when I entered and adjusted right away. After getting in, I started to swim lightly.
 
-> After fifty meters, I waited for everyone else to finish.
+After fifty meters, I waited for everyone else to finish.
 
 "He he he, that was an easy win for me. Did you all see my super swimming skills?" Ike crowed.
 
-> He'd swum expertly, and now got out of the pool with a smug, self-satisfied grin. *No, Ike, your performance wasn't really that different from anyone else's.*
->
-> "Well, it looks like everyone can swim, for the most part."
+He'd swum expertly, and now got out of the pool with a smug, self-satisfied grin. No, Ike, your performance wasn't really that different from anyone else's.
+
+"Well, it looks like everyone can swim, for the most part."
 
 "Of course, sir. Back in junior high, people called me 'the flying fish,' you know."
 
 "I see. In that case, I'll have you start competing against each other. We'll separate groups by gender. Fifty-meter freestyle."
 
-> "C-compete?! Are you serious?" Ike cried.
+"C-compete?! Are you serious?" Ike cried.
 
 "I'll give out a special bonus to the first-place winner: 5000 points. The student who comes in last place, however, will have to take supplementary lessons. Get ready."
 
@@ -1670,11 +1578,11 @@ The skilled swimmers cheered with joy, while the less confident students groaned
 
 I'd never imagined that the school would award points as a prize. Perhaps this was a way to light a fire under the students.
 
-Rather well thought out, I had to say. Excluding the observers and the one student who couldn't swim, there were sixteen boys and ten girls competing. The girls started first, while the boys sat on the sidelines, filled with excitement as they cheered... no, as they *assessed* the girls.
+Rather well thought out, I had to say. Excluding the observers and the one student who couldn't swim, there were sixteen boys and ten girls competing. The girls started first, while the boys sat on the sidelines, filled with excitement as they cheered... no, as they assessed the girls.
 
 "Kushida-chan, Kushida-chan, Kushida-chan, Kushida- chan, Kushida-chan. Haaaaaaa..."
 
-> It looked like Kushida had completely entranced Ike. "You're scaring everyone, Ike, settle down," I mumbled.
+It looked like Kushida had completely entranced Ike. "You're scaring everyone, Ike, settle down," I mumbled.
 
 "B-but, Kushida-chan is so goddamn cute, isn't she? And her breasts are pretty big, too!"
 
@@ -1682,19 +1590,19 @@ Kushida immediately dominated the boys' attention. Would any of the other girls 
 
 "Everyone, burn these images into your mind! Remember the fap material you see here today!" Ike cried.
 
-> "Yeah!" everyone shouted.
+"Yeah!" everyone shouted.
 
 Somehow, swimming had strengthened the boys' bond. The only exception was Hirata, who seemed to avoid looking at the girls. The whistle blew, and five of the girls dove into the water.
 
 Horikita was in the second lane. She took the lead at the beginning of the race and kept her distance from the others, maintaining her position at the front of the pack. She swam confidently, effortlessly covering the fifty meters.
 
-> "Wow! Awesome, Horikita!"
+"Wow! Awesome, Horikita!"
 
-Her time was approximately twenty-eight seconds. She was pretty fast. Horikita slowly got out of the pool and went to the side, not even appearing out of breath. To the boys, results were of secondary importance. Their eyes were glued to the girls' jiggling butts. I stared at Horikita, too. Was it because we were getting along? Well, she *was* a girl. There was something there, I thought. Yeah.
+Her time was approximately twenty-eight seconds. She was pretty fast. Horikita slowly got out of the pool and went to the side, not even appearing out of breath. To the boys, results were of secondary importance. Their eyes were glued to the girls' jiggling butts. I stared at Horikita, too. Was it because we were getting along? Well, she was a girl. There was something there, I thought. Yeah.
 
 After that came the second race. Kushida, the most popular girl, was in the fourth lane. The boys cheered for her, smiling and waving.
 
-> "Whoo!"
+"Whoo!"
 
 Wow, those guys were really riled up. Some even tried to sneakily cover their crotches. During our introductions, Kushida had announced that she wanted to make friends with everyone in class. It looked like her wish had already pretty much come true. It wasn't just the boys, either; girls were around her constantly, too, chatting away happily. Kushida had an air that attracted other people.
 
@@ -1704,15 +1612,13 @@ The second race began. The contest ended up being rather one-sided. A girl named
 
 "I don't mind whether I win or lose. Enough about me. Are you feeling confident in yourself?" she asked.
 
-> "Oh, definitely. I just can't come in last."
+"Oh, definitely. I just can't come in last."
 
 "That's not really something to take pride in. I thought boys were supposed to be fixated on winning and losing."
 
 "I don't like competing against people. I just like avoiding trouble, after all," I said.
 
-I'd given up on trying to get first place from the very beginning. All I wanted was to avoid taking those supplementary lessons. I was assigned my spot and placed in the second lane,
-
-while Sudou was in the first, right next to me. It was impossible to even hope to match Sudou's pace, so I didn't plan to try. I aimed to come in somewhere in the middle, just not last. With that in mind, the race started, and we dove in.
+I'd given up on trying to get first place from the very beginning. All I wanted was to avoid taking those supplementary lessons. I was assigned my spot and placed in the second lane, while Sudou was in the first, right next to me. It was impossible to even hope to match Sudou's pace, so I didn't plan to try. I aimed to come in somewhere in the middle, just not last. With that in mind, the race started, and we dove in.
 
 Sudou finished the fifty-meter race with incredible speed. The boys and girls cheered in admiration.
 
@@ -1724,49 +1630,43 @@ I, on the other hand, finished in thirty-six seconds. It looked like I got tenth
 
 "Basketball is my only sport. Swimming's just for fun." Sudou, who hadn't even broken a sweat, calmly got out of the pool.
 
-> "Oh, wow, he has absolutely outstanding motor skills." Ike, feeling envious, elbowed Sudou.
->
-> "Kya!"
+"Oh, wow, he has absolutely outstanding motor skills." Ike, feeling envious, elbowed Sudou.
+
+"Kya!"
 
 A girl let out a joyful scream as Hirata took his starting position. Whereas Sudou's body had attracted the boys' admiration, Hirata's body attracted the girls. He was slender, but also well built. You could say he was a macho pretty boy. After hearing the girls' delighted squeals for Hirata, Ike spat in response. Sudou didn't seem very amused either, and shot Hirata a glare.
 
 "I'm going to blow you out of the water. I'll use all of my power," he growled.
 
-> Didn't he say that he swam just for *fun*?
+Didn't he say that he swam just for fun?
 
-After the teacher blew the whistle, Hirata dove into the pool with beautiful form. Every time Hirata's arms cut through the
-
-water, the girls cheered by the side of the pool. His form was effortlessly cool.
+After the teacher blew the whistle, Hirata dove into the pool with beautiful form. Every time Hirata's arms cut through the water, the girls cheered by the side of the pool. His form was effortlessly cool.
 
 "He's surprisingly fast," Sudou commented. It was certainly true that Hirata swam fast. There was no doubt that he'd shot ahead of the four other boys who were competing with him. This, of course, prompted more shrieks from the girls. Hirata didn't fail to live up to our expectations: He came in first place. Deafening cheers reverberated throughout the room.
 
-> "Sensei, what was his time?" asked Ike, impatiently. "Hirata's time was...26.13 seconds."
+"Sensei, what was his time?" asked Ike, impatiently. "Hirata's time was...26.13 seconds."
 
 "All right. You can do it, Sudou. You can definitely win against him! Bring down the hammer of justice!"
 
-> "Leave it to me. I'll demolish him and his popularity..."
+"Leave it to me. I'll demolish him and his popularity..."
 
 Ike's encouragement had Sudou all fired up, but even if Hirata lost, it wasn't likely that his popularity would drop.
 
 "Hirata-kun, you were so cool! You're not just good at soccer, you're really good at swimming!" one girl cried.
 
-> "You think so? Thank you!" he said.
->
-> "Hey, why are you ogling Hirata-kun like that?" another girl
+"You think so? Thank you!" he said.
 
-said.
+"Hey, why are you ogling Hirata-kun like that?" another girl said.
 
-"Huh? *I'm* 'ogling'?!"
+"Huh? I'm 'ogling'?!"
 
 There was an indignant squeal.
 
-Hirata's immense popularity was unbelievably frustrating. "Come on, girls, knock it off. Please don't fight over me. I
-
-belong to everyone. I want to be everyone's friend. Besides, what if someone who's better at swimming comes along?"
+Hirata's immense popularity was unbelievably frustrating. "Come on, girls, knock it off. Please don't fight over me. I belong to everyone. I want to be everyone's friend. Besides, what if someone who's better at swimming comes along?"
 
 Kouenji mistakenly seemed to assume that the cheers were for him. He put on a refreshing smile and then planted his feet by the starting line.
 
-> "Hey. Uh, why is Kouenji wearing a speedo?" "Wh-what?"
+"Hey. Uh, why is Kouenji wearing a speedo?" "Wh-what?"
 
 Although the school allowed such tight swimwear, Kouenji was the only one in our class wearing it. The briefs drew attention to his crotch, and the girls all looked away. However, in the third race, all eyes were on Kouenji. The stance he took at the starting line was just like an athlete's. His posture wasn't the only impressive thing, either. He looked to be in even better physical shape than Sudou. Sudou and all of the other boys in class held their breath as they attentively focused on Kouenji.
 
@@ -1774,101 +1674,89 @@ Although the school allowed such tight swimwear, Kouenji was the only one in our
 
 As the whistle blew, Kouenji dove into the pool with textbook form.
 
-> "Whoa! Wow!"
+"Whoa! Wow!"
 
 Sudou gave a surprised shout in response to Kouenji's unexpectedly aggressive swimming. Hirata also stared in apparent amazement. Kouenji splashed fiercely as he swam, but it didn't slow his incredible speed. He was unquestionably faster than Sudou. After checking the time, the teacher reflexively looked at his stopwatch twice.
 
-> "23.22 seconds."
+"23.22 seconds."
 
 "My abdominal muscles, back muscles, and psoas major muscle seem to be in good shape, as usual. Not a bad performance," Kouenji said.
 
 After getting out of the pool, he smirked and swept his hair up. He wasn't short of breath at all. It was as if he hadn't even swum in the first place.
 
-"I'm fired up!" Sudou didn't want to lose, so his competitive spirit flared. To be honest, Sudou was the only one who had any
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1382.png){width="0.3333333333333333in" height="0.13541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1383.png){width="0.3333333333333333in" height="0.13541666666666666in"}
-
-chance of winning against Kouenji. The final round was more like a one-on-one match between the two of them.
+"I'm fired up!" Sudou didn't want to lose, so his competitive spirit flared. To be honest, Sudou was the only one who had any chance of winning against Kouenji. The final round was more like a one-on-one match between the two of them.
 
 "I'm really looking forward to this. Both Kouejin-kun and Sudou-kun are so fast," Kushida said.
 
-> "A-ah, yeah."
+"A-ah, yeah."
 
 Standing beside a swimsuit-clad beauty, I'd entered a state of emergency, my heart pounding in my chest.
 
 "Hmm? What's the matter? Your face looks red for some reason. Are you not feeling well, by chance?" she asked.
 
-> "Oh, no, no, that's not it at all..."
+"Oh, no, no, that's not it at all..."
 
 "Well, even so, something seems unusual. Why do we have swimming classes in April, anyway?"
 
 "Because we have such an incredible indoor pool. Oh, yeah, that reminds me... You were pretty fast, Kushida. I can't believe that you weren't very good at swimming in junior high."
 
-> "You're much faster than average, too, Ayanokouji-kun." "Nah, I'm pretty average. I don't really like to exercise."
+"You're much faster than average, too, Ayanokouji-kun." "Nah, I'm pretty average. I don't really like to exercise."
 
 "Is that so? But you look like a really manly guy, Ayanokouji-kun. Even though you're so slim, I could say that you're even better built than Sudou, and he plays basketball."
 
-Kushida examined my body in shock and awe, as if she were thinking "*Really? Really?*" I was ten times more nervous now than when Horikita had stared at me.
+Kushida examined my body in shock and awe, as if she were thinking "Really? Really?" I was ten times more nervous now than when Horikita had stared at me.
 
 "I was just born naturally muscular. There's no special reason behind it. To tell you the truth, I'm not in any clubs."
 
 The conversation revolved around good health. I felt somewhat nervous, but strangely satisfied as well. We continued in this way for a while; I'd wanted to talk with Kushida alone.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1386.png){width="0.27309055118110237in" height="0.13406167979002626in"}
-
 "Wow, Kouenji is amazing. I thought that Sudou would have won in a landslide... What the heck is going on, Ayanokouji?" Ike asked.
 
 It looked like Kouenji had beaten Sudou by about a five- meter lead in the final round. After he'd finished observing the race, Ike zeroed in on me, his face like a demon's.
 
-> "Uh, nothing really. I didn't do anything," I replied. "That's not what I'm talking about!"
+"Uh, nothing really. I didn't do anything," I replied. "That's not what I'm talking about!"
 
 He wrapped his arms around my shoulders and whispered in my ear.
 
-> "I'm aiming for Kushida-chan. Don't get in the way!"
+"I'm aiming for Kushida-chan. Don't get in the way!"
 
 I didn't exactly plan to get in the way, but his goal was slightly unrealistic. I didn't think Kushida was the type who'd stoop to being with someone like Ike. Of course, I didn't think she'd get with me, either.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1387.png){width="0.31875in" height="0.13541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1388.png){width="0.31875in" height="0.13541666666666666in"}
+**Chapter 5: Friends**
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1391.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1392.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1393.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1394.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1395.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1396.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1397.png){width="1.117361111111111in" height="0.3055555555555556in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1405.png){width="0.21388888888888888in" height="0.23194444444444445in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1406.png){width="0.21388888888888888in" height="0.23194444444444445in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1407.png){width="0.21388888888888888in" height="0.23194444444444445in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1411.png){width="1.01875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1412.png){width="1.01875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1413.png){width="1.01875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1414.png){width="1.01875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1415.png){width="1.01875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1416.png){width="1.01875in" height="0.23541666666666666in"}
-
-**"K**ikyou-chan, do you want to stop by a café on our way back today?"
+"Kikyou-chan, do you want to stop by a café on our way back today?"
 
 "Sure, let's go! Oh, but wait just a minute, okay? I want to invite one more person."
 
 Kushida headed toward Horikita, who was putting her textbook into her bag. "Horikita-san, would you like to come with us to a café today?" She asked.
 
-> "Not interested." Horikita threw Kushida's invitation back in her face, with no room for ambiguity. *Couldn't you just lie and say you were planning to go shopping, or that you were waiting for a friend?*
+"Not interested." Horikita threw Kushida's invitation back in her face, with no room for ambiguity. Couldn't you just lie and say you were planning to go shopping, or that you were waiting for a friend?
 
 Despite the harsh rejection, Kushida kept smiling.
 
 This wasn't a particularly unusual scene. Ever since the entrance ceremony, Kushida had regularly tried to invite Horikita to do fun things with her. I thought it would be nice for Horikita to accept an invitation at least once in a while, but perhaps that was just a bystander's selfish interpretation. No one had ever met with anything but rejection when they'd tried to invite Horikita.
 
-> "I see. Well then, I'll try inviting you again another time."
+"I see. Well then, I'll try inviting you again another time."
 
 "Wait, Kushida-san." Surprisingly, Horikita called out to Kushida. Had she finally given in? "Don't invite me again. It's a bother," said Horikita coldly.
 
 However, Kushida didn't appear saddened. Instead, she smiled as she answered, "I'll invite you again."
 
-> Kushida then ran back to join her friends, and they left the
+Kushida then ran back to join her friends, and they left the hall.
 
-hall.
-
-> "Kikyou-chan, just stop inviting Horikita-san. I hate her---"
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1423.png){width="0.31666666666666665in" height="0.18055555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1424.png){width="0.31666666666666665in" height="0.18055555555555555in"}
+"Kikyou-chan, just stop inviting Horikita-san. I hate her---"
 
 Just before the door closed, I faintly heard one of the other girl's words. Horikita, who was right next to me, must have heard as well, but she gave no indication that she cared.
 
-> "You won't try to invite me places, will you?" she asked.
+"You won't try to invite me places, will you?" she asked.
 
 "Nope. I understand your personality well enough. It's pointless to even try."
 
-> "I'm relieved to hear that."
+"I'm relieved to hear that."
 
-After Horikita finished getting ready, she walked out of the classroom by herself. I absentmindedly stuck around for a little while, but soon grew bored and got up. *Time to go home*, I thought.
+After Horikita finished getting ready, she walked out of the classroom by herself. I absentmindedly stuck around for a little while, but soon grew bored and got up. Time to go home, I thought.
 
-> "Ayanokouji-kun, do you have a moment?"
+"Ayanokouji-kun, do you have a moment?"
 
 Hirata, who was still hanging around, called out to me when I passed by. Unbothered, I responded to him softly. It was unusual for Hirata to notice me.
 
@@ -1884,33 +1772,29 @@ Maybe it wasn't Kushida especially. Perhaps Horikita was just the kind of person
 
 Bullying? Such talk seemed premature, but perhaps there were signs of it. Was he warning me, then? Hirata looked at me with the purest of intentions.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1427.png){width="0.3333333333333333in" height="0.17222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1428.png){width="0.3333333333333333in" height="0.17222222222222222in"}
-
 "Well, I think it'd be better for you to tell her directly rather than talk to me, Hirata," I said.
 
-> "You have a point. Sorry for bringing it up."
+"You have a point. Sorry for bringing it up."
 
 Horikita was always alone, day after day. If this continued, within a month she'd be like a tumor in our class. However, this was Horikita's personal problem and something I probably shouldn't involve myself with.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1431.png){width="0.31875in" height="0.175in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1432.png){width="0.31875in" height="0.175in"}
+**5.1**
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1435.png){width="0.3138888888888889in" height="0.23194444444444445in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1436.png){width="0.3138888888888889in" height="0.23194444444444445in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1437.png){width="0.3138888888888889in" height="0.23194444444444445in"}
->
-> **A**fter leaving class, I went straight toward the dormitory.
+After leaving class, I went straight toward the dormitory.
 
 Kushida, who was supposed to have left with a friend earlier, appeared to be waiting for someone while leaning up against the wall. Noticing me, she smiled like always.
 
 "I'm so glad! I was waiting for you, Ayanokouji-kun. There's something I wanted to talk to you about. Do you have a minute?" she asked.
 
-> "Yeah, sure..."
+"Yeah, sure..."
 
 She couldn't be confessing her feelings for me, could she? Nah, there was about a 1 percent chance of something like that.
 
 "I'll just ask you outright. Ayanokouji-kun, have you seen Horikita-san smile even once?"
 
-> "Huh? No, not that I can remember."
->
-> Apparently, Kushida had come to talk about Horikita again.
+"Huh? No, not that I can remember."
+
+Apparently, Kushida had come to talk about Horikita again.
 
 Thinking back, I didn't recall ever seeing Horikita smile once. Kushida took my hand in hers, closing the distance between us. Did she smell of flowers? I breathed in an extremely pleasant scent.
 
@@ -1922,31 +1806,27 @@ Thinking back, I didn't recall ever seeing Horikita smile once. Kushida took my 
 
 "It's not like I'm watching her or anything, it's just that you tend to learn a lot about the person who sits next to you."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1441.png){width="0.33194444444444443in" height="0.16875in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1442.png){width="0.33194444444444443in" height="0.16875in"}
-
 Girls were girls, after all, and they'd been really eager to form groups since the first day of school. They were also more aware of cliques and social circles than guys, and in this class of about twenty people, four held the most influence. You could claim they put up a façade, that they weren't genuinely being themselves.
 
 However, Kushida was the exception. She definitely held favor within each group, but more than that, she was tremendously popular with everyone. She was persistently warm and gentle toward Horikita, as part of her continued efforts to become her friend. That wasn't something an ordinary student could do. That was probably why everyone adored her.
 
-> Plus, she was really cute. Cuteness makes everything better.
+Plus, she was really cute. Cuteness makes everything better.
 
 "Didn't Horikita already warn you not to try again? I don't know what you can say to her next time," I said.
 
 I knew that Horikita wasn't the type to mince words. If approached, she would probably respond harshly. To be honest, I didn't want to see Kushida hurt.
 
-> "Won't you...help me?" she asked. "Uh..."
+"Won't you...help me?" she asked. "Uh..."
 
 I didn't answer right away. Normally, I would immediately agree to such a cute girl's demands. However, since I was the type to avoid trouble, I couldn't answer her. I didn't want to see Horikita hurt Kushida by saying something merciless. I thought I'd turn her down to avoid any later heartbreak.
 
-> "I understand how you feel, Kushida, but..." "So that means...you can't?"
->
-> Cute + Pleading + Upturned Eyes = Lethal.
->
-> "Well, I guess I don't have a choice. Just this once, okay?"
+"I understand how you feel, Kushida, but..." "So that means...you can't?"
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1445.png){width="0.31875in" height="0.17222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1446.png){width="0.31875in" height="0.17222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1447.png){width="0.31875in" height="0.17222222222222222in"}
+Cute + Pleading + Upturned Eyes = Lethal.
 
-> "Really?! Oh, thank you, Ayanokouji-kun!" she cried.
+"Well, I guess I don't have a choice. Just this once, okay?"
+
+"Really?! Oh, thank you, Ayanokouji-kun!" she cried.
 
 Kushida's face lit up.
 
@@ -1954,17 +1834,17 @@ She was cute. Even though I'd agreed to help her, I was still the kind of person
 
 "So, what exactly are we going to do? Even if you say you want to be friends with her, it's not that simple."
 
-> Personally, I wasn't equipped to know how to make friends.
+Personally, I wasn't equipped to know how to make friends.
 
 "You're probably right... Well, first I think we should try to make Horikita-san smile," Kushida said.
 
-> "Make her smile, huh?"
+"Make her smile, huh?"
 
 Smiling means letting your guard down in front of another person, even if just a little. Such a relationship could most likely be referred to as friendship. Kushida seemed to understand people well, especially when it came to making them smile.
 
-> "Do you have an idea how?" I asked.
+"Do you have an idea how?" I asked.
 
-"Well, I thought *you* could help me think of something, Ayanokouji-kun." She giggled sheepishly and lightly smacked her own head. If she were an ugly girl, I would have been totally turned off, but Kushida made it charming.
+"Well, I thought you could help me think of something, Ayanokouji-kun." She giggled sheepishly and lightly smacked her own head. If she were an ugly girl, I would have been totally turned off, but Kushida made it charming.
 
 "Smile, huh?" So, because Kushida had asked, I was going to help her make Horikita smile. Was such a thing possible? I wondered. I doubted it.
 
@@ -1972,9 +1852,7 @@ Smiling means letting your guard down in front of another person, even if just a
 
 "Ah. Well then, how about Palate? I've gone to Palate often, and Horikita might have overheard us talking about it before."
 
-Palate was one of the most popular cafés on campus. I had heard about Kushida and the other girls going there often after
-
-class. And if I'd heard about it, then Horikita must have also been aware.
+Palate was one of the most popular cafés on campus. I had heard about Kushida and the other girls going there often after class. And if I'd heard about it, then Horikita must have also been aware.
 
 "How about if you two went to Palate and ordered, and then 'bumped' into me by chance? Would that work?"
 
@@ -1986,35 +1864,33 @@ The instant Horikita noticed Kushida's presence, she would probably get up and l
 
 "Oh, no, I don't think my plan has anything to do with being smart. Anyway, that's what I was going for."
 
-> "I understand. I'm excited for the result!"
->
-> *No, don't expect too much. That'll be trouble.*
+"I understand. I'm excited for the result!"
+
+No, don't expect too much. That'll be trouble.
 
 "If you try inviting her, Kushida, she'll probably refuse you outright. So, how about I invite Horikita?"
 
 "Okay. I think that Horikita-san trusts you, Ayanokouji- kun," she said.
 
-> "Why do you think that? What proof do you have?"
+"Why do you think that? What proof do you have?"
 
 "Well, I guess it just looks that way to me. She seems to trust you more than anyone else in the class, at the very least."
 
-> *That doesn't mean I'm best suited for this task, though.*
+That doesn't mean I'm best suited for this task, though.
 
 "That's only because I was able to talk to her, but that was a coincidence."
 
 I'd just happened to be seated next to her on the bus. If that hadn't happened, then I probably wouldn't have talked to her.
 
-"But don't you meet almost *every* person for the first time by chance? And then they can become your friend, or your best friend...or even your boyfriend or girlfriend, or your family."
+"But don't you meet almost every person for the first time by chance? And then they can become your friend, or your best friend...or even your boyfriend or girlfriend, or your family."
 
-> "That's true."
+"That's true."
 
 I supposed that was one way to look at it. Coincidence had allowed me to talk with Kushida like this. Therefore, it was possible that Kushida and I might eventually become lovers.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1455.png){width="0.2813659230096238in" height="0.13406167979002626in"}
+**5.2**
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1456.png){width="0.3715277777777778in" height="0.23194444444444445in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1457.png){width="0.3715277777777778in" height="0.23194444444444445in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1458.png){width="0.3715277777777778in" height="0.23194444444444445in"}
-
-**C**lasses had ended. The other students left for their various after-school activities, talking to one another about where they would go. Meanwhile, Kushida and I exchanged looks, signaling each other to go ahead with the plan.
+Classes had ended. The other students left for their various after-school activities, talking to one another about where they would go. Meanwhile, Kushida and I exchanged looks, signaling each other to go ahead with the plan.
 
 "Hey, Horikita. Do you have some free time after class today?" I asked.
 
@@ -2022,21 +1898,19 @@ I supposed that was one way to look at it. Coincidence had allowed me to talk wi
 
 Prepare for tomorrow? I was pretty sure all she did was study.
 
-> "I wanted you to go somewhere with me for a little bit." "What are you after?"
+"I wanted you to go somewhere with me for a little bit." "What are you after?"
 
 "Do you think that by inviting you out, I'm after something?"
 
 "Well, when you invite me so suddenly, I naturally have my doubts. However, if there is a specific matter that you wish to discuss, I wouldn't mind listening."
 
-> I didn't have anything to talk about, of course.
+I didn't have anything to talk about, of course.
 
 "Well, you know that café on campus? The one with a ton of girls? I don't have the guts to go there all by myself. I kind of get the feeling that guys are banned from entering there or something. Don't you?"
 
 "I certainly can't argue that most of their customers seem to be women, but aren't men also allowed to patronize the café?"
 
 "Well, yeah, but no guy goes there alone. Only if they're with friends who are girls, or if they're someone's boyfriend."
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1462.png){width="0.2235389326334208in" height="0.1275in"}
 
 Horikita tried to recall what Palate was like, seemingly lost in thought for a moment.
 
@@ -2046,15 +1920,15 @@ Horikita tried to recall what Palate was like, seemingly lost in thought for a m
 
 "I suppose that's natural, since you supposedly have...no one else to invite, correct?" she asked.
 
-> "That makes it sound like I'm imposing on you, but yeah.
+"That makes it sound like I'm imposing on you, but yeah.
 
 Basically."
 
-> "And if I refuse?"
+"And if I refuse?"
 
 "Well, that would be that. I'd have no choice but to accept. I can't force you to give up your private time, after all."
 
-> "I understand. Your issue with the café is certainly accurate.
+"I understand. Your issue with the café is certainly accurate.
 
 I can't stay there for too long, though. Is that all right?" "Sure. We'll be quick."
 
@@ -2062,21 +1936,19 @@ In my mind, I added the word "probably" to that last thought. If she knew that K
 
 The two of us left the classroom and made our way to Palate on the first floor. Girls began to congregate there, one after another, enjoying their time after class.
 
-> "There are so many people here," Horikita said.
+"There are so many people here," Horikita said.
 
 "Is this your first time doing anything social, Horikita? Oh, yeah, I suppose it would be. You're always alone."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1463.png){width="0.26875in" height="0.1284722222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1464.png){width="0.26875in" height="0.1284722222222222in"}
-
-> "Was that supposed to be sarcastic? How childish."
+"Was that supposed to be sarcastic? How childish."
 
 I'd meant to engage in some playful ribbing, but apparently that was impossible for Horikita. After we placed our order, we both got our drinks. I ordered the single serving of pancakes.
 
-> "Do you like sweets?" she asked. "I just wanted to have pancakes."
+"Do you like sweets?" she asked. "I just wanted to have pancakes."
 
 I didn't particularly like or dislike cakes and stuff, but I needed a believable reason.
 
-> "There aren't any open seats, though."
+"There aren't any open seats, though."
 
 "I guess we'll just have to wait a bit. Oh, never mind. There are some open seats over there."
 
@@ -2090,25 +1962,21 @@ I thought I heard the two girls sitting next to me say, "Let's go," before grabb
 
 "Ah, Horikita-san. What a coincidence! And Ayanokouji- kun too!" she said.
 
-> "Hey."
+"Hey."
 
-Kushida had given us a simple greeting, maintaining the ruse that this was a coincidence. Horikita regarded Kushida with narrowed eyes, then slowly turned her gaze toward me. Of course,
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1467.png){width="0.26666666666666666in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1468.png){width="0.26666666666666666in" height="0.17847222222222223in"}
-
-this was something that Kushida and I had planned out in advance. Kushida's friends had already secured four seats for us ahead of time. When I arrived at Palate, I sent them a signal so that they could make two seats available. After some time, the other girls next to me left, giving Kushida a chance to come and sit down. As a result, our meeting looked like it'd come about via coincidence.
+Kushida had given us a simple greeting, maintaining the ruse that this was a coincidence. Horikita regarded Kushida with narrowed eyes, then slowly turned her gaze toward me. Of course, this was something that Kushida and I had planned out in advance. Kushida's friends had already secured four seats for us ahead of time. When I arrived at Palate, I sent them a signal so that they could make two seats available. After some time, the other girls next to me left, giving Kushida a chance to come and sit down. As a result, our meeting looked like it'd come about via coincidence.
 
 "Did you come here together, Ayanokouji-kun? Horikita- san?" Kushida asked.
 
 "Yeah, we just happened to. Did you come by yourself?" I asked.
 
-> "Yeah. Today, I---"
->
-> "I'm leaving," Horikita said.
->
-> "H-hey, we just got here, though."
->
-> "You don't need me now that Kushida-san is here, though.
+"Yeah. Today, I---"
+
+"I'm leaving," Horikita said.
+
+"H-hey, we just got here, though."
+
+"You don't need me now that Kushida-san is here, though.
 
 Right?"
 
@@ -2116,15 +1984,13 @@ Right?"
 
 "You and I are just classmates, too. Besides..." She gave Kushida and me an icy look. "I don't like this. What are you plotting?" She'd seen through our plan and was trying to get me to admit it.
 
-> "N-no, it was just a coincidence," Kushida said.
+"N-no, it was just a coincidence," Kushida said.
 
 Kushida shouldn't have said such a thing. Asking, "What do you mean?" and acting ignorant of Horikita's prodding would've been the better response.
 
 "When we sat down earlier, I saw the two girls seated here were from Class D, along with the two girls seated next to us as well. Was that just a coincidence, too?"
 
-> "Oh, wow, really? I didn't notice at all," Kushida said.
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1471.png){width="0.28114720034995627in" height="0.16874890638670167in"}
+"Oh, wow, really? I didn't notice at all," Kushida said.
 
 "Also, we came straight here after classes ended. No matter how much those girls rushed, they could only have been here for about one to two minutes at the most. It was far too early for them to get up and leave. Am I wrong?"
 
@@ -2132,7 +1998,7 @@ Horikita was even more incredibly observant than I'd thought. Not only did she r
 
 "Um, well..." A bewildered Kushida signaled for me to save her somehow. Horikita noticed. Any further deception on our part would just make it worse.
 
-> "Sorry, Horikita. We planned this."
+"Sorry, Horikita. We planned this."
 
 "I thought as much. I thought this whole thing was a little suspicious right from the start."
 
@@ -2144,7 +2010,7 @@ Horikita was even more incredibly observant than I'd thought. Not only did she r
 
 "I wouldn't deny you your wish, but it's wrong to try forcing people into something against their will. Being alone doesn't make me sad."
 
-> "B-but..."
+"B-but..."
 
 "Besides, do you think that I would be happy if you forced me to become your friend? Do you think that feelings of trust would arise out of something forced?"
 
@@ -2152,11 +2018,9 @@ Horikita wasn't wrong. It wasn't that she couldn't make friends, but that she co
 
 "It's my fault for not being clear enough with you, so I don't blame you this time. But if you try this again, please keep in mind that I will not forgive you."
 
-> As she said that, Horikita took her untouched latte and stood
+As she said that, Horikita took her untouched latte and stood up.
 
-up.
-
-> "Horikita-san, whatever you say, I really want to be friends
+"Horikita-san, whatever you say, I really want to be friends
 
 with you. When I saw you, I felt like it wasn't the first time we'd met. I wondered if you felt the same way," Kushida mumbled.
 
@@ -2164,7 +2028,7 @@ with you. When I saw you, I felt like it wasn't the first time we'd met. I wonde
 
 "I kind of understand your thoughts on the matter, Horikita. I've actually often wondered if friends are really necessary," I said.
 
-"*You're* saying that? You've been trying to make friends since day one."
+"You're saying that? You've been trying to make friends since day one."
 
 "I won't deny it. However, you and I are similar. I wasn't able to make friends until I came to this school. In junior high, I never knew anyone's contact information or hung out with anyone after class. I was always alone."
 
@@ -2172,7 +2036,7 @@ Kushida was visibly surprised when she heard me say that, like she couldn't beli
 
 "I think that partly explains why I was compelled to talk to you," I said.
 
-> "That's the first time I've heard something like that.
+"That's the first time I've heard something like that.
 
 However, even if you and I share some things in common, I think we took different paths to reach this point. You wanted friends but couldn't get them. I considered friends unnecessary, so I didn't make any. Saying we are similar would be incorrect. Am I wrong?"
 
@@ -2182,13 +2046,13 @@ However, even if you and I share some things in common, I think we took differen
 
 Had she just nonchalantly dropped a bombshell? That she'd always been alone for as long as she could remember?
 
-> "Can I go now?" Horikita asked.
->
-> She sighed deeply and looked straight into Kushida's eyes. "Kushida-san, if you don't try to force me into anything, I
+"Can I go now?" Horikita asked.
+
+She sighed deeply and looked straight into Kushida's eyes. "Kushida-san, if you don't try to force me into anything, I
 
 won't be rude. I promise. You're not stupid, so you understand what I'm telling you, right?"
 
-With one final simple "*Well then*," Horikita left. Kushida and I remained in the noisy cafe.
+With one final simple "Well then," Horikita left. Kushida and I remained in the noisy cafe.
 
 "Well, that was a failure. I tried to lend a helping land, but it was pointless. I guess she's gotten too accustomed to being alone," I said.
 
@@ -2197,8 +2061,6 @@ Kushida wordlessly collapsed into her seat. However, she instantly recovered, an
 "It's okay. Thank you, Ayanokouji-kun. It's true that I wasn't able to become her friend, but...I was able to learn something important. That's enough for me. I'm sorry, though. I feel like Horikita-san might hate you now because you helped me."
 
 "Don't worry about it. I just wanted Horikita to consider the benefits of friendship." Thinking it'd be inconsiderate for the two us to hold up table space for four people, I moved to sit next to Kushida.
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1473.png){width="0.2663604549431321in" height="0.16874890638670167in"}
 
 "Even so, I was shocked when you said that you didn't have any friends, Ayanokouji-kun. Is that true? I didn't think you were like that at all. Why were you all alone?"
 
@@ -2224,29 +2086,29 @@ Even if it meant that she wouldn't be friends with everyone in class, she didn't
 
 Not something forced, but a natural event that would connect the two of them. When that time came, they might possibly become friends.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1475.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1476.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1477.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1014.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1478.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1016.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1479.png){width="1.117361111111111in" height="0.3055555555555556in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1485.png){width="0.23194444444444445in" height="0.225in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1486.png){width="0.23194444444444445in" height="0.225in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1489.png){width="0.5138888888888888in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1490.png){width="0.5138888888888888in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1491.png){width="0.5138888888888888in" height="0.23541666666666666in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1495.png){width="0.5013888888888889in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1496.png){width="0.5013888888888889in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1497.png){width="0.5013888888888889in" height="0.23541666666666666in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1501.png){width="0.2951388888888889in" height="0.24027777777777778in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1502.png){width="0.2951388888888889in" height="0.24027777777777778in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1505.png){width="1.2805555555555554in" height="0.3034722222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1506.png){width="1.2805555555555554in" height="0.3034722222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1507.png){width="1.2805555555555554in" height="0.3034722222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1508.png){width="1.2805555555555554in" height="0.3034722222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1509.png){width="1.2805555555555554in" height="0.3034722222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1510.png){width="1.2805555555555554in" height="0.3034722222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1511.png){width="1.2805555555555554in" height="0.3034722222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1512.png){width="1.2805555555555554in" height="0.3034722222222222in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1521.png){width="0.5020833333333333in" height="0.2388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1522.png){width="0.5020833333333333in" height="0.2388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1523.png){width="0.5020833333333333in" height="0.2388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1524.png){width="0.5020833333333333in" height="0.2388888888888889in"}
+**Chapter 6: The End of Everyday Life**
 
-**"H**a ha ha ha! God, you're so dumb. You're hilarious, man!"
+"Ha ha ha ha! God, you're so dumb. You're hilarious, man!"
 
 Ike chatted loudly with Yamauchi during second-period math. It'd been three weeks since the entrance ceremony. In that time, Ike and Yamauchi, along with Sudou, had collectively come to be known as "The Idiot Trio."
 
-> "Hey, hey, do you want to go do karaoke?" "Yeah, let's go!"
->
-> A group of girls nearby were making plans for after class.
+"Hey, hey, do you want to go do karaoke?" "Yeah, let's go!"
+
+A group of girls nearby were making plans for after class.
 
 "I was really worried for a while, but it looks like everyone's opened up to each other quickly."
 
 "Ayanokouji-kun, haven't you made quite a few friends?" asked Horikita, copying what was written on the blackboard into her notebook.
 
-> "Somewhat, I suppose."
+"Somewhat, I suppose."
 
-Although I was anxious at first, I'd gotten to know Sudou from our encounter at the convenience store, and I'd bonded with Ike and Yamauchi through the incident at the pool. Sometimes we ate lunch together. Even though I was far from having a best friend, before I knew it, I could say that I had *some* friends. Human relationships are rather mysterious, so I couldn't pinpoint the precise moment we became friends.
+Although I was anxious at first, I'd gotten to know Sudou from our encounter at the convenience store, and I'd bonded with Ike and Yamauchi through the incident at the pool. Sometimes we ate lunch together. Even though I was far from having a best friend, before I knew it, I could say that I had some friends. Human relationships are rather mysterious, so I couldn't pinpoint the precise moment we became friends.
 
 "Sup?" Halfway through class, Sudou crashed through the door and barged into the classroom. He slumped in his seat with a yawn, clearly not caring how late he was.
 
 "Oh, hey, Sudou. Wanna get lunch later?" Ike called out to Sudou from across the room.
 
-The math teacher continued the lesson without even really paying attention. Normally, the teacher would have flicked a piece of chalk at him, but perhaps out of some feeling of *laissez faire*, all of the teachers tolerated that kind of behavior. Even when it came to poor language, being late to class, or dozing off, no one cared.
+The math teacher continued the lesson without even really paying attention. Normally, the teacher would have flicked a piece of chalk at him, but perhaps out of some feeling of laissez faire, all of the teachers tolerated that kind of behavior. Even when it came to poor language, being late to class, or dozing off, no one cared.
 
 While at first our class had acted more reserved, now everyone was far too flippant. Of course, there were a few students like Horikita who studied diligently.
 
@@ -2256,35 +2118,31 @@ My cell phone vibrated in my pocket, indicating that I'd received a message. It 
 
 "I will have to decline. Your group is rather unrefined, anyway."
 
-> "I can't deny that."
+"I can't deny that."
 
 When guys were alone, all they talked about were girls and dirty jokes. Who's cute, who's going out with who, how far they've gone, etc. Adding a girl into the group would probably have been a bad idea.
 
-> "Whoa. Seriously, he has a girlfriend? Awesome."
+"Whoa. Seriously, he has a girlfriend? Awesome."
 
 Based on Ike's conversation, it sounded like Hirata was dating Karuizawa. Watching Karuizawa from afar, I saw that she was gazing lovingly at him from across the room. As for my own impression of Karuizawa, well, she was certainly cute. But she had this atmosphere around her that it made difficult for uncertain people to approach her. In other words, she seemed like one of those intensely "girly"-type girls. In junior high, she'd probably pounced on pretty boys like Hirata. These were my own uncharitable assumptions, but I probably wasn't far off.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1529.png){width="0.32013888888888886in" height="0.13541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1530.png){width="0.32013888888888886in" height="0.13541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1531.png){width="0.32013888888888886in" height="0.13541666666666666in"}
-
 Oops. I had pretty mean-spirited opinions about her, although, not really to the extent that it would be considered defamation. I apologized to Karuizawa in my head.
 
-> "I hate that look on your face."
+"I hate that look on your face."
 
 Horikita glared icily at me. She must have read my sleazy inner thoughts. How fast did you need to move to become a couple right after starting school? I was agonizing over just making friends. If I'd gone up to Horikita and asked, "Would you go out with me?" she definitely would've smacked me. At any rate, if I were to get a girlfriend, I'd prefer a kinder, more ladylike girl.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1535.png){width="0.26180555555555557in" height="0.1284722222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1536.png){width="0.26180555555555557in" height="0.1284722222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1537.png){width="0.26180555555555557in" height="0.1284722222222222in"}
+**6.1**
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1541.png){width="0.33194444444444443in" height="0.225in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1542.png){width="0.33194444444444443in" height="0.225in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1543.png){width="0.33194444444444443in" height="0.225in"}
-
-**F**or third period, we had history class with Chiyabashira- sensei. When the bell rang, Chiyabashira-sensei walked into the noisy classroom. Her entrance didn't alter the students' behavior.
+For third period, we had history class with Chiyabashira- sensei. When the bell rang, Chiyabashira-sensei walked into the noisy classroom. Her entrance didn't alter the students' behavior.
 
 "Quiet down a little, please. Today's lesson will be a bit serious."
 
-> "What do you mean, Sae-chan-sensei?" They already had a pet name for the teacher.
+"What do you mean, Sae-chan-sensei?" They already had a pet name for the teacher.
 
 "It's the end of the month, so we're going to have a short test. Please pass these to the back."
 
-> She handed out the papers to the students in the front row.
+She handed out the papers to the students in the front row.
 
 Eventually, the single-sheet test reached my desk. It contained questions in the five main subjects. With only a few questions per subject, it really was short.
 
@@ -2294,67 +2152,63 @@ Eventually, the single-sheet test reached my desk. It contained questions in the
 
 Her phrasing struck me as odd. Normally, only general grades were reflected in your report card. But the way Chiyabashira-sensei said they wouldn't be reflected in our report cards made me think that the grade could be reflected in some other way. Well...perhaps I was worrying too much. If this had no effect on our report card, then there was no need to be so cautious.
 
-> As soon as the pop quiz began, I scanned the questions.
+As soon as the pop quiz began, I scanned the questions.
 
-There were four questions per subject, for a total of twenty. Each question was worth five points, for a total of one hundred points. Most of the questions were extraordinarily easy, to the point
+There were four questions per subject, for a total of twenty. Each question was worth five points, for a total of one hundred points. Most of the questions were extraordinarily easy, to the point where it was almost a letdown. In fact, the questions seemed to be about two levels less difficult than the ones on the entrance examination. It appeared far too easy.
 
-where it was almost a letdown. In fact, the questions seemed to be about two levels less difficult than the ones on the entrance examination. It appeared far too easy.
-
-> However, just as I thought that, I reached the end of the test.
+However, just as I thought that, I reached the end of the test.
 
 The final three questions were an order of magnitude higher in terms of difficulty. The final math problem couldn't be solved without complex formulae.
 
-> "No way. These questions are seriously way too hard..."
+"No way. These questions are seriously way too hard..."
 
 These questions couldn't be geared toward a first-year high school student. The final three questions were clearly of a different quality than the others, so it was possible they'd been put on the test by mistake. Even though the results wouldn't be reflected in our grades, what in the hell were they evaluating with this?
 
-> *Well, I guess I'll just solve these problems the same way I did on the entrance exam.*
+Well, I guess I'll just solve these problems the same way I did on the entrance exam.
 
 Chiyabashira-sensei monitored us. As she slowly patrolled the classroom, she kept a watchful eye to dissuade us from cheating. I quickly glanced at Horikita, who would never even think of cheating. Her pen danced across the paper as she filled in all of the answers. It looked like she was easily going to get a perfect score.
 
-> I continued staring intently at my test until the bell rang.
->
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1553.png){width="0.3902777777777778in" height="0.225in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1554.png){width="0.3902777777777778in" height="0.225in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1555.png){width="0.3902777777777778in" height="0.225in"}
+I continued staring intently at my test until the bell rang.
 
-**"I**f you just come right out and tell me straight, I'll forgive you, okay?"
+**6.2**
 
-> "Tell you *what* straight?"
+"If you just come right out and tell me straight, I'll forgive you, okay?"
+
+"Tell you what straight?"
 
 After we'd finished lunch, I was chatting with Sudou and the other guys next to the vending machine in the hall. All of a sudden, Ike sidled up next to me.
 
 "We're friends, right? Comrades that stick together through thick and thin?"
 
-> "Uh, yeah. I guess so."
+"Uh, yeah. I guess so."
 
 "So then, naturally...you would tell us if you got yourself a girlfriend, right?" he asked.
 
-> "Huh? A girlfriend? Well, sure. If that happens, I will." Ike put his arm over my shoulder.
+"Huh? A girlfriend? Well, sure. If that happens, I will." Ike put his arm over my shoulder.
 
 "Come on. You're going out with Horikita, aren't you? I'm not gonna forgive you if you get ahead of us!"
 
-> "Huh?"
->
-> I noticed Yamauchi and Sudou both eyeing me suspiciously. "You idiot. We're not dating. Absolutely not. Seriously." "Okay, but what were you guys talking about all sneaky-like
+"Huh?"
+
+I noticed Yamauchi and Sudou both eyeing me suspiciously. "You idiot. We're not dating. Absolutely not. Seriously." "Okay, but what were you guys talking about all sneaky-like
 
 during class today? I guess it's not a story for us, huh? Were you talking about dates or making plans for dates, huh?! Ah, I could kill you, I'm so jealous!"
 
-> "It's nothing. Besides, Horikita isn't the dating type."
+"It's nothing. Besides, Horikita isn't the dating type."
 
-"I don't know about that. We never really talked to her before. If Kushida hadn't brought it up, we probably wouldn't
-
-even know her name. She disappears into the background, like a shadow."
+"I don't know about that. We never really talked to her before. If Kushida hadn't brought it up, we probably wouldn't even know her name. She disappears into the background, like a shadow."
 
 Was that true? I couldn't recall Horikita really talking to anyone except for Kushida or me.
 
-> "You wouldn't even know her name? That's awful."
->
-> "So, do *you* know all your classmate's names, Ayanokouji?"
->
-> I could remember about half of their names. I got the point. "She does have a really cute face though, doesn't she? That's
+"You wouldn't even know her name? That's awful."
+
+"So, do you know all your classmate's names, Ayanokouji?"
+
+I could remember about half of their names. I got the point. "She does have a really cute face though, doesn't she? That's
 
 why we noticed her."
 
-> Yamauchi and the guys nodded in agreement.
+Yamauchi and the guys nodded in agreement.
 
 "She has such an uptight personality, though. I don't like girls like her," remarked Sudou, drinking his coffee.
 
@@ -2364,23 +2218,23 @@ why we noticed her."
 
 "You moron! Like hell you can date Kushida-chan! And you're forbidden from fantasizing about her, too!" Ike cried.
 
-"Come on, you think *you* can date her, Ike? Besides, I've dreamt of sleeping next to Kushida-chan!"
+"Come on, you think you can date her, Ike? Besides, I've dreamt of sleeping next to Kushida-chan!"
 
-"What?! Well, *I've* dreamt of her doing super sexy poses while in cosplay!"
+"What?! Well, I've dreamt of her doing super sexy poses while in cosplay!"
 
-> The two of them went back and forth over their wild Kushida fantasies. *Come on, guys. High school students are free to fantasize, but that's just being plain rude to Kushida.*
+The two of them went back and forth over their wild Kushida fantasies. Come on, guys. High school students are free to fantasize, but that's just being plain rude to Kushida.
 
 "Who do you have your eye on, Sudou? Seen any cute girls in basketball?" Ike asked.
 
 "Huh? Oh, no one. Not yet, anyway. We don't really have room for any girls on the team right now."
 
-"Really? If you *do* have a girlfriend, though, you better not be hiding it! You have to tell us! You have to!"
+"Really? If you do have a girlfriend, though, you better not be hiding it! You have to tell us! You have to!"
 
 "Yeah, sure," Sudou said. Despite how disgusted he seemed by the conversation, he nodded.
 
-> The subject of girlfriends made me remember Hirata.
->
-> "Oh, yeah, isn't Hirata dating Karuizawa now?" I asked. "Yeah, you're right. Hondou saw them holding hands just
+The subject of girlfriends made me remember Hirata.
+
+"Oh, yeah, isn't Hirata dating Karuizawa now?" I asked. "Yeah, you're right. Hondou saw them holding hands just
 
 the other day!"
 
@@ -2388,27 +2242,27 @@ the other day!"
 
 "They were, huh? I wonder if they've already done naughty stuff together."
 
-> "Of course they have! Ah, I'm so jealous! I'm *too* jealous!"
+"Of course they have! Ah, I'm so jealous! I'm too jealous!"
 
 It felt kind of unbelievable that a first-year high school student would already have had sex. But I supposed it was true.
 
-> Unintentionally, I'd started thinking like these guys.
+Unintentionally, I'd started thinking like these guys.
 
 "Listen to me. I've got the most experience with sex and stuff," said Yamauchi, sprawled out on the hallway floor.
 
-> "I think it'd be better to ask Hirata," Ike said.
->
-> "Do you honestly think that Hirata would give us the details?
+"I think it'd be better to ask Hirata," Ike said.
+
+"Do you honestly think that Hirata would give us the details?
 
 Like, if we asked about her breasts, or if she were a virgin, or things like that? Do you really think he'd tell us? Come on," I said.
 
-> What kind of experiences were they planning to ask about?
+What kind of experiences were they planning to ask about?
 
 I walked over to the nearby vending machine to buy something to drink.
 
-> "Get me some cocoa!" Yamauchi called.
->
-> "If you want something, buy it yourself."
+"Get me some cocoa!" Yamauchi called.
+
+"If you want something, buy it yourself."
 
 "Can't. I've already almost used up all of my points. I have about 2,000 left."
 
@@ -2418,11 +2272,11 @@ I walked over to the nearby vending machine to buy something to drink.
 
 "I bought this with Ike. It's a PS Viva! A PS VIVA! It's amazing that a school sells this kind of stuff."
 
-> "How much did it cost?"
+"How much did it cost?"
 
 "About 20,000. With the optional stuff included, it came to about 25,000."
 
-> *Dude, don't spend all of your points right away.*
+Dude, don't spend all of your points right away.
 
 "I don't usually play games all that much, but now that I'm living in a dorm, I figured I could play with friends. Oh, you know that Miyamoto guy in our class? He's really good at video games."
 
@@ -2432,41 +2286,37 @@ Miyamoto was the rather plump boy. I'd never spoken to him directly, but I got t
 
 They were already ganging up on me. Yamauchi handed over his game system so I could give it a try. It was a lot lighter than I expected. The screen displayed a warrior, huge sword strapped to his back, petting a pig. What kind of world was this?
 
-"Honestly, I'm not really that interested. What...*is* this, anyway? Some kind of fighting game?"
+"Honestly, I'm not really that interested. What...is this, anyway? Some kind of fighting game?"
 
-> "You've heard about *Hunter Watch*, right? It's sold more than
+"You've heard about Hunter Watch, right? It's sold more than
 
-4.8 million copies worldwide, man! I've had an incredible knack
-
-for games ever since I was a little kid. Overseas professionals constantly scouted me. I always turned them down, though."
+4.8 million copies worldwide, man! I've had an incredible knack for games ever since I was a little kid. Overseas professionals constantly scouted me. I always turned them down, though."
 
 You can proclaim something a worldwide phenomenon, but whether or not it's actually good is another matter. There were about seven billion people in the world. The people who'd purchased this game accounted for less than 0.1 percent of the global population.
 
 "Anyway, how in the world can such a delicate girl wear such heavy equipment? Is her armor plastic or something? If it were iron, even someone with Sudou's physique would struggle with it."
 
-"Ayanokouji, you really want an element of realism in your games? What, are you a foreigner? People who say that kind of stuff are usually okay with games where you can automatically regenerate your life. Are you one of those? Do you want some Western-developed game where you shoot guys then hide somewhere and get all of your health back? Because, if you ask me, *those* games are unrealistic!"
+"Ayanokouji, you really want an element of realism in your games? What, are you a foreigner? People who say that kind of stuff are usually okay with games where you can automatically regenerate your life. Are you one of those? Do you want some Western-developed game where you shoot guys then hide somewhere and get all of your health back? Because, if you ask me, those games are unrealistic!"
 
-> I couldn't understand Yamauchi at all.
->
-> "Well, you know what they say: 'seeing is believing,' right?
+I couldn't understand Yamauchi at all.
+
+"Well, you know what they say: 'seeing is believing,' right?
 
 Just try it. When you start playing, we'll help you farm for materials. Collecting honey is hard work, you know? So you can buy me some cocoa, then."
 
-> "For crying out loud..."
+"For crying out loud..."
 
 I didn't exactly need the honey, but I bought the cocoa to avoid any further hassle.
 
-> "Ah, friendship is such a blessing! Thank you!" Yamauchi
-
-said.
+"Ah, friendship is such a blessing! Thank you!" Yamauchi said.
 
 I didn't want that kind of friendship. I tossed the cocoa to Yamauchi, who caught it against his stomach. Now, what did I want to drink? Hesitating, I noticed a button on the machine.
 
-> "Oh, so they have this, too."
+"Oh, so they have this, too."
 
 There was a button for mineral water, which was free of charge.
 
-> "What's wrong?"
+"What's wrong?"
 
 "Oh, nothing. Just was wondering if the cafeteria offers anything for free."
 
@@ -2484,9 +2334,9 @@ Since I went to the cafeteria often, I recalled seeing many students eating the 
 
 "Ah, why can't next month come any faster? I want my dream life back again!" Yamauchi and the other guys laughed as they lamented.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1565.png){width="0.3888888888888889in" height="0.2833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1566.png){width="0.3888888888888889in" height="0.2833333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1567.png){width="0.3888888888888889in" height="0.2833333333333333in"}
->
-> ***H**EY, we're going to go hang out with Kushida-chan and some other people after class. You want to come?*
+**6.3**
+
+HEY, we're going to go hang out with Kushida-chan and some other people after class. You want to come?
 
 I received that text message in the middle of my afternoon class while absentmindedly jotting down notes. Ah, weren't these supposed to be the halcyon days of our youth? This was the first time that friends had invited me to hang out after class. I had no reason to refuse their invitation, but I thought I'd ask who was going.
 
@@ -2496,49 +2346,43 @@ I quickly received a reply. I saw Ike and Yamauchi's names, as well as Kushida's
 
 Well, that sounded fine. I confirmed that I'd go, and a response quickly followed.
 
-> *Kushida-chan is my target, so don't you dare get in my way! --Ike-*
->
-> *sama*
->
-> *No, no, Kushida-chan is mine. You stay out of the way! --Yamauchi Huh? You say you're after Kushida-chan, too?! What, are you*
->
-> *trying to pick a fight?*
+Kushida-chan is my target, so don't you dare get in my way! --Ike-sama
+
+No, no, Kushida-chan is mine. You stay out of the way! --Yamauchi Huh? You say you're after Kushida-chan, too?! What, are you trying to pick a fight?
 
 It'd be nice if we all got along, but the two of them started fighting over Kushida via text. I'd been looking forward to hanging out with everyone, but now I thought it might be a hassle. When class ended, I left with Ike and Yamauchi. Even though I'd been here a while, the school grounds were so expansive that I still didn't know the area very well.
 
 "We couldn't leave with Kushida even though we're in the same class, huh?" I said.
 
-> "She said she had to talk to a friend from another class.
+"She said she had to talk to a friend from another class.
 
 Kushida-chan is quite popular."
 
-> "Do you think maybe she's talking to a boy?" Ike mumbled. "Relax, Ike. I've already confirmed it. She's talking to a girl,"
+"Do you think maybe she's talking to a boy?" Ike mumbled. "Relax, Ike. I've already confirmed it. She's talking to a girl,"
 
 Yamauchi said.
 
-> "All right, all right."
->
-> "Are you guys seriously going after Kushida?" I asked. "Of course. She's my dream girl."
+"All right, all right."
+
+"Are you guys seriously going after Kushida?" I asked. "Of course. She's my dream girl."
 
 Yamauchi must have shared this opinion, considering the fact he kept nodding in agreement.
 
 "You're interested in Horikita, aren't you? She's definitely beautiful, I gotta say."
 
-> "No, I'm not. Really."
+"No, I'm not. Really."
 
 "Really? Didn't you guys sneakily exchange looks and nonchalantly touch fingertips? You know, something bittersweet and yet kind of irritating?"
 
 While Ike relentlessly pressed me, one of the very girls we were talking about ran over.
 
-> "Sorry for being late, but thanks for waiting!" Kushida cried.
+"Sorry for being late, but thanks for waiting!" Kushida cried.
 
-"Oh, no worries, Kushida-chan! Hey, wait a second, why are *they* here?!" Ike had been jumping up and down excitedly, but now he tumbled over and sprawled across the ground. What an energetic guy.
+"Oh, no worries, Kushida-chan! Hey, wait a second, why are they here?!" Ike had been jumping up and down excitedly, but now he tumbled over and sprawled across the ground. What an energetic guy.
 
 "Oh, I just happened to run into them on the way, so I thought I'd invite them along. Was that not okay?"
 
 Kushida had brought Hirata and his girlfriend (at least, I was pretty sure she was his girlfriend), Karuizawa. There were also two other girls, Matsushita and Mori, who always hung around Karuizawa.
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1571.png){width="0.2604166666666667in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1572.png){width="0.2604166666666667in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1573.png){width="0.2604166666666667in" height="0.17847222222222223in"}
 
 "Hey, don't we have some way of making Hirata go away?!" Ike whispered, putting his arm around my shoulder.
 
@@ -2550,7 +2394,7 @@ Kushida had brought Hirata and his girlfriend (at least, I was pretty sure she w
 
 "Hey, just because you say he has a girlfriend is no guarantee. I can't relax. Besides, anyone in his right mind would choose a pretty angel like Kushida-chan over a sloppy, easy gal like Karuizawa!"
 
-Ike furiously prattled on, his spit spraying my ear, which grossed me out. Not just the spit, either; his vile words were pretty disgusting, too. It was true that Karuizawa certainly was one of those *gyaru* types with tanned skin and everything, but she was plenty cute.
+Ike furiously prattled on, his spit spraying my ear, which grossed me out. Not just the spit, either; his vile words were pretty disgusting, too. It was true that Karuizawa certainly was one of those gyaru types with tanned skin and everything, but she was plenty cute.
 
 "Hey, Ike, you do know that there's no guarantee that Kushida-chan is a virgin, right?" Yamauchi joined our conversation, his anxious voice a strained whisper.
 
@@ -2560,9 +2404,7 @@ They continued to discuss their wild, delusional fantasies, though I thought it 
 
 "Um, if we're a bother, perhaps we can just go separately?" said Hirata in a reserved tone. He seemed to have noticed our secret conversation.
 
-> "W-we don't really mind at all, do we? Right, Yamauchi?"
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1577.png){width="0.3034722222222222in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1578.png){width="0.3034722222222222in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1579.png){width="0.3034722222222222in" height="0.17847222222222223in"}
+"W-we don't really mind at all, do we? Right, Yamauchi?"
 
 "Y-yeah. Let's all go together. The more the merrier, you know. Right, Ike?"
 
@@ -2574,17 +2416,15 @@ Moments ago, those two had shouted that others would "be in the way" and that th
 
 "So, you're good with Matsushita, Yamauchi? I'm gonna talk to Kushida-chan," Ike said.
 
-> "Hey, don't screw with me! I'm the one after Kushida-chan!
+"Hey, don't screw with me! I'm the one after Kushida-chan!
 
 We're going to get married under an old cherry blossom tree, exchanging vows like a sweet promise between childhood friends! It's fate!"
 
 "You're full of crap! I've thought about doing that for a while now. You're a total liar!"
 
-> "Huh? It's all true, all of it!"
+"Huh? It's all true, all of it!"
 
 If you were to believe everything Yamauchi Haruki said, then he had been a skilled gamer since childhood, scouted by professionals from overseas, and a national ping pong competitor. Then, in junior high, he'd been his baseball team's ace player and a promising future star. What an incredibly gifted man.
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1572.png){width="0.3020833333333333in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1583.png){width="0.3020833333333333in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1584.png){width="0.3020833333333333in" height="0.17847222222222223in"}
 
 Though there was no confirmation that any of that was the truth.
 
@@ -2600,25 +2440,25 @@ Karuizawa latched onto Hirata's arm before he could say anything. Hirata just li
 
 "Kushida-chan, do you have a boyfriend?" Ike managed to shift attention over to Kushida without missing a beat. Pretty clever, huh?
 
-> "Me? Oh, no, unfortunately," she said.
+"Me? Oh, no, unfortunately," she said.
 
 Both Ike and Yamauchi clearly rejoiced, breaking out in massive grins. Their joy leaked out for everyone to see. Although it was possible that Kushida was hiding the fact that she had a boyfriend, she'd basically confirmed that she was available. I was a little glad to hear that, too.
 
-> "Oh, no, I'm crying..."
->
-> "Don't cry, Yamauchi! We're finally almost at the summit!"
+"Oh, no, I'm crying..."
+
+"Don't cry, Yamauchi! We're finally almost at the summit!"
 
 Their destination no longer waited at the peak of an insurmountable mountain, but instead at the end of a precipitous path...
 
 Hirata, Karuizawa, Ike, and Yamauchi all surrounded Kushida as they walked. The rather uninteresting pair of Matsushita and Mori followed behind the main group, while I walked farther behind them, alone.
 
-> "Hey, Ike. Where are we going?" someone asked.
+"Hey, Ike. Where are we going?" someone asked.
 
 "It hasn't been that long since the entrance ceremony, remember? Just wanted to check out the campus facilities," Ike answered, seemingly irritated.
 
 So, there was no clear destination, which meant that this somewhat awkward experience would go on for a while...
 
-> My unpleasant expectations unexpectedly changed.
+My unpleasant expectations unexpectedly changed.
 
 "Hey, Matsushita-san, Mori-san. What do you two want to go see?"
 
@@ -2626,23 +2466,21 @@ While Ike and Yamauchi happily chatted with each other, Kushida fell back to tal
 
 "Huh? Oh, um, well...I've wanted to see the movie theater at least once."
 
-> "Yeah. Since school's done for the day, I wanted to go, too."
+"Yeah. Since school's done for the day, I wanted to go, too."
 
 "Oh, yeah! I've wanted to go as well, but haven't gotten around to it yet. Karuizawa-san, have you gone to any special places on dates?"
 
 Kushida started to organize us into three groups, just as I'd expect of her. No matter how hard I tried, I could never have done something like that. Also, as a nice bonus, she occasionally turned and smiled sweetly at me. I didn't expect that.
 
-I tried not to talk unnecessarily, as I felt that would just be a hassle. I tried to look at Kushida in a way that showed I wasn't
+I tried not to talk unnecessarily, as I felt that would just be a hassle. I tried to look at Kushida in a way that showed I wasn't ignoring her. If Kushida couldn't read the room, and merely liked being the constant center of attention, then the message probably wouldn't reach her.
 
-ignoring her. If Kushida couldn't read the room, and merely liked being the constant center of attention, then the message probably wouldn't reach her.
-
-However, there are people who will lash out and say something like, "Why can't you read the situation?" to a friend after he refuses to do karaoke, even though they *know* that friend said he didn't want to sing. There are, after all, self-absorbed, simple-minded people who assume that because karaoke is fun for them, that means everyone will love it. They simply cannot comprehend that some people dislike singing.
+However, there are people who will lash out and say something like, "Why can't you read the situation?" to a friend after he refuses to do karaoke, even though they know that friend said he didn't want to sing. There are, after all, self-absorbed, simple-minded people who assume that because karaoke is fun for them, that means everyone will love it. They simply cannot comprehend that some people dislike singing.
 
 While I'd been mulling over this venomous topic, my surroundings had changed. Apparently, we'd stopped at a clothing store on campus. More precisely, it was a boutique. Everyone seemed to have come to this store a few times already, so we entered without hesitation. Generally, I wore my uniform on weekdays, and since I usually stayed in my dorm on my days off, I hadn't bought any clothes for going out.
 
 There were many students inside, though few upperclassmen. The majority appeared to be first-year students. Perhaps it was because of my newness, but I felt really inexperienced and anxious in this atmosphere. We checked out many different items on the racks and, afterward, went to a nearby café. Hirata carried the clothes that Karuizawa had purchased, which cost about 30,000 points.
 
-> "Have you all gotten used to this school yet?"
+"Have you all gotten used to this school yet?"
 
 "At first, I was really perplexed, but now I've settled in perfectly. It's like living in a dream. I don't ever want to graduate!"
 
@@ -2656,7 +2494,7 @@ There were many students inside, though few upperclassmen. The majority appeared
 
 "Do you mean you'll lose your sense of money management? Yeah, that does sound pretty scary, actually."
 
-> Everyone felt differently about our monthly allowance.
+Everyone felt differently about our monthly allowance.
 
 Karuizawa and Ike both wanted more points, while Hirata and Kushida were terrified of what would happen when our life of luxury ended.
 
@@ -2666,7 +2504,7 @@ At that point, I'd only intended to listen, but Kushida asked me my thoughts.
 
 "Hmm, well, I don't really fully understand it yet. I'm not sure," I replied.
 
-> "What's that supposed to mean?"
+"What's that supposed to mean?"
 
 "I think I understand what you're getting at, Ayanokouji- kun. This is honestly completely different from any normal school. It's hard to understand it without really knowing all the details."
 
@@ -2676,17 +2514,17 @@ In fact, yesterday I went out and bought some new clothes." Ike lived a positive
 
 "Kushida-chan and Hirata aside, Ike, you and Karuizawa also managed to get into this place. Aren't you guys pretty dumb, though?"
 
-> "You don't strike me as being very smart either, Yamauchi."
+"You don't strike me as being very smart either, Yamauchi."
 
 "Huh? I'll have you know that I scored 900 points on the APEC."
 
-> "What's the APEC?"
->
-> "You don't even know? It's a super tough test for English." "Um, don't you mean the TOEIC, not APEC?"
+"What's the APEC?"
+
+"You don't even know? It's a super tough test for English." "Um, don't you mean the TOEIC, not APEC?"
 
 Kushida gently brought Yamauchi back down to earth. APEC actually stood for Asia-Pacific Economic Partnership.
 
-> "Th-they're related though, aren't they?" he asked. They were as far apart as it's possible to get.
+"Th-they're related though, aren't they?" he asked. They were as far apart as it's possible to get.
 
 "Well, this school's mission is to nurture young people who will pave the way to the future, right? So, they probably don't choose people solely on their test scores. Honestly, if this school only took in people based on standardized tests, I wouldn't have taken the entrance exam."
 
@@ -2694,11 +2532,11 @@ Kushida gently brought Yamauchi back down to earth. APEC actually stood for Asia
 
 Despite being the premier institution in Japan, with stellar rates of advancement into higher education and employment, this school didn't appear to determine the criteria for passing or failing through test scores. If that was the case, then how in the world did it select potential students? I found myself suddenly curious.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1593.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1594.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1595.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1596.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1597.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1270.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1271.png){width="1.117361111111111in" height="0.3055555555555556in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1603.png){width="0.21666666666666667in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1604.png){width="0.21666666666666667in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1605.png){width="0.21666666666666667in" height="0.22708333333333333in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1609.png){width="1.4638888888888888in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1610.png){width="1.4638888888888888in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1611.png){width="1.4638888888888888in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1612.png){width="1.4638888888888888in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1613.png){width="1.4638888888888888in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1614.png){width="1.4638888888888888in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1615.png){width="1.4638888888888888in" height="0.23680555555555555in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1623.png){width="0.2951388888888889in" height="0.24027777777777778in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1624.png){width="0.2951388888888889in" height="0.24027777777777778in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1627.png){width="0.45694444444444443in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1628.png){width="0.45694444444444443in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1629.png){width="0.45694444444444443in" height="0.23541666666666666in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1633.png){width="0.6020833333333333in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1634.png){width="0.6020833333333333in" height="0.23541666666666666in"}
+**Chapter 7: Classroom of the Elite**
 
-**O**n May 1, the morning bell rang for our very first day of class. Soon afterward, Chiyabashira-sensei strode into the room, holding a rolled-up poster. Her expression today was even more stern than usual. Had she started menopause, I wondered? If I made that joke out loud, I think she would have swung an iron bat at my face with full force.
+On May 1, the morning bell rang for our very first day of class. Soon afterward, Chiyabashira-sensei strode into the room, holding a rolled-up poster. Her expression today was even more stern than usual. Had she started menopause, I wondered? If I made that joke out loud, I think she would have swung an iron bat at my face with full force.
 
-> "Hey, sensei, did you start menopause or something?"
+"Hey, sensei, did you start menopause or something?"
 
 Unbelievably, Ike actually let that joke fly. Honestly, it was more shocking that I'd thought the same thing as Ike.
 
@@ -2708,19 +2546,19 @@ Unbelievably, Ike actually let that joke fly. Honestly, it was more shocking tha
 
 "Hondou, I already explained this before, didn't I? Points are deposited on the first day of the month. I've confirmed that points were wired this month without any issues."
 
-> "Um, but...nothing was deposited into my account, though."
+"Um, but...nothing was deposited into my account, though."
 
 Hondou and Yamauchi exchanged glances. Ike appeared too shocked to notice them looking at each other. I'd checked my point balance that morning as well, but saw that it had remained unchanged from the day before. No more points had been deposited into my account. I'd simply thought that the points would be wired later.
 
-> "Are you kids really that dumb?"
+"Are you kids really that dumb?"
 
 Was she angry or delighted? I was getting an ominous vibe from Chiyabashira-sensei.
 
-> "Dumb? What?"
+"Dumb? What?"
 
 As Hondou stupidly repeated her words, Chiyabashira-sensei looked at him sharply.
 
-> "Sit down, Hondou. I'll explain once more," she said. "S-Sae-chan-sensei?"
+"Sit down, Hondou. I'll explain once more," she said. "S-Sae-chan-sensei?"
 
 Hondou, taken aback by her unusually strict tone, slumped in his seat.
 
@@ -2730,7 +2568,7 @@ To think so is ludicrous. Understood?"
 
 "Well, even if I tell you that we understand, we haven't received any points..."
 
-> Hondou, still perplexed, began to look dissatisfied.
+Hondou, still perplexed, began to look dissatisfied.
 
 Supposing that what Chiyabashira-sensei said was true and that points had been wired to us, then that meant...
 
@@ -2744,8 +2582,6 @@ He propped his feet up on his desk and smugly pointed toward Hondou.
 
 "Huh? What are you talking about? They said that we'd get 100,000 points every month---"
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1637.png){width="0.33541666666666664in" height="0.17222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1638.png){width="0.33541666666666664in" height="0.17222222222222222in"}
-
 "I don't remember hearing that, though. Do you?" Chuckling, Kouenji boldly pointed at Chiyabashira-sensei.
 
 "While he certainly has an attitude problem, Kouenji is exactly right. For crying out loud, barely anyone seems to have noticed the hint I gave you. How deplorable."
@@ -2754,19 +2590,17 @@ In response to this sudden turn of events, the classroom exploded in an uproar.
 
 "Sensei, may I please ask you a question? I'm afraid I still don't understand." Hirata raised his hand. He appeared to ask on behalf of his classmates rather than out of selfish concern. Just as I'd expect of the de facto class leader. Even now, he took the initiative.
 
-> "Can you please tell us why we didn't receive any points?
+"Can you please tell us why we didn't receive any points?
 
 We won't completely understand otherwise." That was certainly true.
 
-"A total of ninety-eight absences and late arrivals. Three hundred ninety-one incidences of talking or using a cell phone in class. That is quite a few infractions over one month. In this school, *your class's results are reflected in the points that you receive*. As a result, you wasted all of the 100,000 points that you should have received. That's what happened."
+"A total of ninety-eight absences and late arrivals. Three hundred ninety-one incidences of talking or using a cell phone in class. That is quite a few infractions over one month. In this school, your class's results are reflected in the points that you receive. As a result, you wasted all of the 100,000 points that you should have received. That's what happened."
 
 "I should have explained this all to you on the day of the entrance ceremony. This school measures its students' true abilities. This time, you were evaluated as being worth nothing. That's all."
 
 Chiyabashira-sensei spoke in a robotic fashion, devoid of any emotion. The doubts I'd had since coming to this school were finally confirmed, though, in the worst way possible. Even though we'd started with the huge advantage of 100,000 points, Class D had lost it in just a single month.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1641.png){width="0.2746325459317585in" height="0.16874890638670167in"}
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1642.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1643.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1644.png){width="8.260416666666666in" height="11.69375in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image57.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image58.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image59.png){width="8.260416666666666in" height="11.69375in"}
 
 I heard a pencil moving against paper. Horikita seemed to be tallying the number of absences, tardy arrivals, and instances of talking in class down in her notebook, perhaps trying to make sense of the situation.
 
@@ -2780,15 +2614,13 @@ I heard a pencil moving against paper. Horikita seemed to be tallying the number
 
 However, didn't you all learn in elementary school not to be late or talk in class? Was that not taught throughout your elementary and junior high schools?"
 
-> "Well, that's---"
+"Well, that's---"
 
 "I'm sure that in nine years of compulsory education, you learned that being late and talking in class are bad things. And now you say that you can't understand this because I haven't explained it to you? I'm afraid your reasoning is flimsy. If you had simply acted properly, then your points would not have dropped all the way to zero. This comes down to you taking personal responsibility."
 
 There was no way for anyone to refute her perfectly sound argument. Everyone knew that bad behavior didn't pay.
 
 "Having just entered your first year of high school, did you honestly think you'd receive 100,000 points every month with no strings attached? At a school established by the Japanese government for the express purposes of training gifted people?
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1648.png){width="0.31875in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1649.png){width="0.31875in" height="0.17847222222222223in"}
 
 That's unthinkable. Try using some common sense. Why would you leave it to chance?"
 
@@ -2804,19 +2636,17 @@ From another perspective, you could say no matter how times you're late or absen
 
 "Tch..." Hirata's expression darkened. Her explanation was so counterproductive that it had the opposite effect; some students seemed incapable of understanding what she meant. The students who thought they could improve their situation by remedying bad behavior had their hopes dashed. That was probably Chiyabashira-sensei's, or rather, this school's, intention.
 
-> The bell rang, signaling the end of homeroom.
+The bell rang, signaling the end of homeroom.
 
 "It looks like we spent too much time yammering. I hope that you understood the gist of it. Well, it's about time that we switch to our main topic."
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1652.png){width="0.33541666666666664in" height="0.1701388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1653.png){width="0.33541666666666664in" height="0.1701388888888889in"}
 
 From the tube she carried, she removed a white rolled-up poster and spread it out. She stuck the poster to the blackboard with some magnets. The still-confused students stared blankly at the poster.
 
 "Are these...the results for each class?" Horikita tentatively took a guess. She was probably right. Class A through Class D were listed. To the side was a row of numbers that went up to a maximum of four digits. Class D had zero. Class C had 490. Class B had 650. And at the top was Class A, with a total of 940. In this case, 1000 points would mean 100,000 yen, wouldn't it? Every class had apparently lost points.
 
-> "Isn't something about this odd?" "Yeah. The numbers look too even."
->
-> Horikita and I had both noticed something strange.
+"Isn't something about this odd?" "Yeah. The numbers look too even."
+
+Horikita and I had both noticed something strange.
 
 "You've all been doing whatever you pleased this past month. The school has no intention of preventing you from doing what you want. Your actions, such as being late or talking during class, only affect the points you receive. The same goes for how you use your points. How you choose to spend is entirely up to you. We have not put any restrictions on point usage."
 
@@ -2828,8 +2658,6 @@ Yamauchi wailed in incredible agony. He'd already used up all of his points...
 
 "B-but, how do the other classes still have points left? That's weird..."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1656.png){width="0.32013888888888886in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1657.png){width="0.32013888888888886in" height="0.1736111111111111in"}
-
 "I've already told you, there's nothing unfair about it. All of the classes were scored using the same rules. Despite that, they didn't lose as many as you. That's the truth."
 
 "But...why is there such a difference in our point values?" Hirata also seemed to have noticed that the numbers were too tidy.
@@ -2838,7 +2666,7 @@ Yamauchi wailed in incredible agony. He'd already used up all of his points...
 
 "The reason why we were placed in Class D? Weren't we simply accepted into this school?"
 
-> "Huh? But classes are *normally* divided up like this, right?" Students exchanged glances.
+"Huh? But classes are normally divided up like this, right?" Students exchanged glances.
 
 "In this school, students are sorted by their level of excellence. The superior students are sorted into Class A, the least capable in Class D. It's the same system you'd find in the major cram schools. In other words, Class D is akin to the last bastion for failures. You are the worst of the worst. You're defective. This is just the result of you being defective."
 
@@ -2850,8 +2678,6 @@ I, on the other hand, was glad. This meant I couldn't go any lower.
 
 "However, I have to say, this year's Class D was the first to ever spend all of their points in a single month. I am impressed by how much you indulged yourselves. Wonderful, just wonderful."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1660.png){width="0.3333333333333333in" height="0.20555555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1661.png){width="0.3333333333333333in" height="0.20555555555555555in"}
-
 Chiyabashira-sensei's false applause echoed throughout the classroom.
 
 "So, does that mean that once we reach zero points, we'll always stay there?"
@@ -2860,13 +2686,13 @@ Chiyabashira-sensei's false applause echoed throughout the classroom.
 
 Although we knew that it was possible to get by with the bare minimum, a lot of students weren't comforted by that fact. After all, we'd lived a life of luxury this past month. To suddenly restrain yourself after that would prove seriously difficult.
 
-> "Won't the other classes make fun of us?"
+"Won't the other classes make fun of us?"
 
-Sudou kicked the legs of his desk with a loud *thwack*. After hearing that the classes were divided based on merit, everyone else would probably believe that Class D was full of morons. Despair wasn't unreasonable.
+Sudou kicked the legs of his desk with a loud thwack. After hearing that the classes were divided based on merit, everyone else would probably believe that Class D was full of morons. Despair wasn't unreasonable.
 
 "What? You're still worried about your dignity, Sudou? Well then, work to make your class into the best one."
 
-> "Huh?"
+"Huh?"
 
 "Your class's points aren't just linked to the amount of money that you receive each month. They're also indicative of your class rank."
 
@@ -2876,21 +2702,19 @@ In other words...should we get to 500 points, then Class D would be promoted to 
 
 She stuck another sheet of paper up on the board. It listed the names of everyone in class. A number stood next to everyone's name.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1664.png){width="0.32013888888888886in" height="0.1701388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1665.png){width="0.32013888888888886in" height="0.1701388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1560.png){width="0.32013888888888886in" height="0.1701388888888889in"}
-
 "Judging from these, I can see that we've quite a few idiots in this class." As her heels clacked against the floor, she glanced at us. "These are the results of the short test you took a while ago.
 
-Your sensei was *so happy* after your *excellent* performance. Come on, what in the world did you all study when you were in junior high?"
+Your sensei was so happy after your excellent performance. Come on, what in the world did you all study when you were in junior high?"
 
-With the exception of a few high scores, almost everyone tested below a sixty. Even if you ignored Sudou's *wonderful* score of fourteen points, there was Ike, scoring a little above him at twenty-four points. The average score was sixty-five.
+With the exception of a few high scores, almost everyone tested below a sixty. Even if you ignored Sudou's wonderful score of fourteen points, there was Ike, scoring a little above him at twenty-four points. The average score was sixty-five.
 
 "I'm so glad. If this were an actual test, then seven of you would've had to drop out."
 
-> "D-drop out? What do you mean?"
+"D-drop out? What do you mean?"
 
 "Oh, what, did I not explain this to you? If you fail on a midterm or final exam in this school, then you have to drop out. If we applied that rule to this test, anyone who scored below thirty- two points would be out. You guys really are stupid, aren't you?"
 
-> "Wh-what?!" wailed Ike and the other failures.
+"Wh-what?!" wailed Ike and the other failures.
 
 There was a red line drawn on the paper, separating the seven people in question from the rest of the class. Among those seven people, Kikuchi had scored highest, with thirty-one points. Anyone with a score equal to or lower than Kikuchi's had failed.
 
@@ -2898,19 +2722,13 @@ There was a red line drawn on the paper, separating the seven people in question
 
 "Frankly, I'm also at a loss," the teacher said. "These are the school rules. You should prepare for the worst."
 
-"The teacher's right. There do seem to be a lot of morons here." Kouenji wore a smug grin while he polished his nails, his legs propped on the desk.
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1668.png){width="0.33541666666666664in" height="0.20833333333333334in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1669.png){width="0.33541666666666664in" height="0.20833333333333334in"}
-
-too!"
+"The teacher's right. There do seem to be a lot of morons here." Kouenji wore a smug grin while he polished his nails, his legs propped on the desk. too!"
 
 "What the hell, Kouenji? You scored below the red line,
 
-"Pah. Where exactly are *you* looking, boy? Look again." "Huh? Kouenji is...huh?"
+"Pah. Where exactly are you looking, boy? Look again." "Huh? Kouenji is...huh?"
 
-Starting from the bottom of the page, Sudou scanned
-
-upward, and there he found Kouenji Rokosuke's name. Unbelievably, Kouenji had tied for the top spot, scoring ninety points. That meant he'd been able to solve one of those super difficult problems.
+Starting from the bottom of the page, Sudou scanned upward, and there he found Kouenji Rokosuke's name. Unbelievably, Kouenji had tied for the top spot, scoring ninety points. That meant he'd been able to solve one of those super difficult problems.
 
 "I never thought that Sudou was an idiot like me!" cried Ike, a mixture of wonder and sarcasm in his voice.
 
@@ -2920,15 +2738,13 @@ Well, naturally. This school boasted the highest rates of advancement in the who
 
 "However, nothing comes easy in this world. Mediocre people such as yourselves would have to be naive to think that you could easily get into the college or workplace of your choice."
 
-> Chiyabashira-sensei's words carried throughout the room.
+Chiyabashira-sensei's words carried throughout the room.
 
 "In other words, you're saying that if we want to get into the company or college of our choice, we must, at minimum, surpass Class C?" Hirata asked.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1672.png){width="0.3333333333333333in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1673.png){width="0.3333333333333333in" height="0.17847222222222223in"}
-
 "You're wrong. To make your dreams of a bright future come true, your only option is to overtake Class A. This school guarantees nothing for any other students."
 
-> "Th-that's...absurd! We didn't hear anything about that!"
+"Th-that's...absurd! We didn't hear anything about that!"
 
 A bespectacled student named Yukimura stood up. He'd tied with Kouenji for the top score, indicating that there were no issues with his academic abilities.
 
@@ -2944,13 +2760,9 @@ A bespectacled student named Yukimura stood up. He'd tied with Kouenji for the t
 
 After all, I am 100 percent positive that the school would come crying to take me back."
 
-> That certainly sounded like something Kouenji would say.
+That certainly sounded like something Kouenji would say.
 
-Was it being macho? Or narcissism? It's true that if you didn't care about the school's classification of students, then it really wasn't a big deal. If you considered Kouenji's impressive intellect and physical ability, it was difficult to imagine that all of the students
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1676.png){width="0.31875in" height="0.175in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1677.png){width="0.31875in" height="0.175in"}
-
-in Class A could be better than him. Perhaps he'd been assigned to Class D because of his personality rather than his ability.
+Was it being macho? Or narcissism? It's true that if you didn't care about the school's classification of students, then it really wasn't a big deal. If you considered Kouenji's impressive intellect and physical ability, it was difficult to imagine that all of the students in Class A could be better than him. Perhaps he'd been assigned to Class D because of his personality rather than his ability.
 
 "Besides, I don't care in the slightest if the school does or doesn't assist me to higher education or the workforce. It's been decided that I will lead the Kouenji conglomerate group. Whether I'm in Class D or Class A is a trivial matter."
 
@@ -2960,21 +2772,19 @@ It was true that for a man whose future was already decided, getting into Class 
 
 Chiyabashira-sensei exited the room, closing the door with some force for added emphasis. The students marked in red were left dejected. Even the normally proud Sudou clicked his tongue and hung his head in shame.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1680.png){width="0.2581266404199475in" height="0.17208333333333334in"}
+**7.1**
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1681.png){width="0.31666666666666665in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1682.png){width="0.31666666666666665in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1683.png){width="0.31666666666666665in" height="0.22708333333333333in"}
->
-> **"I**f we don't get any more points, what I am gonna do?" "I used up all of my points yesterday..."
+"If we don't get any more points, what I am gonna do?" "I used up all of my points yesterday..."
 
 During the break, the classroom erupted into an uproar...or rather, chaos.
 
-"Forget about the points. What the hell about this *class*? Why was *I* put into Class D?!" Yukimura cried resentfully. A thin layer of sweat covered his forehead.
+"Forget about the points. What the hell about this class? Why was I put into Class D?!" Yukimura cried resentfully. A thin layer of sweat covered his forehead.
 
-> "Wait, does this mean that we can't get into college now?
+"Wait, does this mean that we can't get into college now?
 
 Why did we even go to this school? Does Sae-chan-sensei hate us or something?"
 
-> None of the other students could hide their confusion.
+None of the other students could hide their confusion.
 
 "I understand that you're all confused right now, but everyone needs to calm down." Hirata, sensing the classroom tipping toward crisis, stood and attempted to rein everyone in.
 
@@ -2990,39 +2800,33 @@ Why did we even go to this school? Does Sae-chan-sensei hate us or something?"
 
 "Calm down, you two, okay? I'm sure that the teacher talked to us harshly so we'd be inspired to do better, right?"
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1687.png){width="0.3034722222222222in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1688.png){width="0.3034722222222222in" height="0.1736111111111111in"}
-
 That was Kushida. She slipped between the two and separated them, gently taking Yukimura's balled fist. Just as anyone would expect, Yukimura didn't try to hurt her and reflexively took half a step back.
 
 "Besides, it's only been one month since we started here, right? Like Hirata-kun said, it's better if we all do our best together. Do you think that I'm wrong about that?"
 
-"N-no, it's... Well, I certainly wouldn't say you're *wrong*, but..."
+"N-no, it's... Well, I certainly wouldn't say you're wrong, but..."
 
 Yukimura's anger had almost completely vanished. Kushida looked at everyone in class, and it was almost as if her eyes reflected a sincere wish for us to work together.
 
 "Yeah, it's better for us to band together. Right? There's no need for you to fight, Yukimura. Hirata."
 
-> "I'm sorry. I lost my cool," Yukimura said.
+"I'm sorry. I lost my cool," Yukimura said.
 
 "It's all right. I should have chosen my words a little more carefully."
 
 Kushida Kikyou's presence brought everyone together. I took out my cell phone and snapped a picture of the paper with the class point totals. Horikita, taking notice, looked at me with a puzzled expression.
 
-> "What are you doing?" she asked.
+"What are you doing?" she asked.
 
 "I haven't been able to figure out how points are calculated yet. You've also been taking notes, haven't you?"
 
 If I could figure out how many points were deducted by being late or talking in class, it'd be easier to come up with countermeasures.
 
-"Wouldn't it be difficult to figure out those details at this stage? Besides, I don't think you can resolve this simply by
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1691.png){width="0.3020833333333333in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1692.png){width="0.3020833333333333in" height="0.17847222222222223in"}
-
-investigating. Everyone in our class arrived late and talked too often."
+"Wouldn't it be difficult to figure out those details at this stage? Besides, I don't think you can resolve this simply by investigating. Everyone in our class arrived late and talked too often."
 
 As Horikita had said, it certainly was difficult to conclude anything based on the current information. Also, Horikita's usually cool, composed attitude was gone. She seemed rather impatient.
 
-> "Are you trying to get into college, too?" I wondered. "Why do you ask?"
+"Are you trying to get into college, too?" I wondered. "Why do you ask?"
 
 "Well, when we learned about the differences between A and D, you looked shocked."
 
@@ -3036,21 +2840,21 @@ Well, she was right about that. There was probably a lot of discontented grumbli
 
 If you thought about it that way, it'd be a relief for the students who'd lost all of their points.
 
-> "'Won't hinder our lives here at school,' huh?"
->
-> If you wanted to simply get by, this wouldn't be a problem.
+"'Won't hinder our lives here at school,' huh?"
+
+If you wanted to simply get by, this wouldn't be a problem.
 
 However, there were many things you could only obtain with points. Entertainment, for example. If the lack of entertainment options wasn't a problem, then it'd be fine, but...
 
 "About how many points did you spend last month, Ayanokouji-kun?"
 
-> "Hm? Oh, my points? I spent about 20,000, approximately."
+"Hm? Oh, my points? I spent about 20,000, approximately."
 
 This was tragic for the students who'd used up their points. Like Yamauchi, who was ranting and raving at his desk. Ike had also spent almost all of his points.
 
 "While unfortunate, they've simply reaped what they've sown," Horikita said.
 
-It was certainly true that indiscriminately spending all 100,000 points in a single month was a *slight* problem.
+It was certainly true that indiscriminately spending all 100,000 points in a single month was a slight problem.
 
 "They baited us into spending all our points over the course of this one month, and we fell for it."
 
@@ -3058,25 +2862,23 @@ One hundred thousand points per month. Even though everyone had thought it too g
 
 "Attention, everyone. Before class begins, I want you to listen seriously for a moment. Especially you, Sudou-kun." The class was still in an uproar, but Hirata claimed everyone's attention when he stood at the teacher's podium.
 
-> "Tch, what is it?" Sudou grumbled.
+"Tch, what is it?" Sudou grumbled.
 
 "We didn't get any points this month. This is a serious problem, and one that will have an enormous impact on our daily lives moving forward. It's impossible for us to make it to graduation with zero points, right?"
 
 "You're absolutely right!" shouted one of the female students, her voice full of despair.
 
-> Hirata gave a kind nod in response, sympathizing with her.
+Hirata gave a kind nod in response, sympathizing with her.
 
-"Of course. Therefore, we must earn points next month. To do that, we all need to cooperate with each other. So, please, take
+"Of course. Therefore, we must earn points next month. To do that, we all need to cooperate with each other. So, please, take care not to be late to class or to talk during the lecture. Also, the use of cell phones during class is prohibited, of course."
 
-care not to be late to class or to talk during the lecture. Also, the use of cell phones during class is prohibited, of course."
-
-"Huh? And why do *you* get to tell us what to do? Besides, that's supposing our points will increase. If they don't change at all, then it's useless."
+"Huh? And why do you get to tell us what to do? Besides, that's supposing our points will increase. If they don't change at all, then it's useless."
 
 "As long as we continue talking during class and being late, our points won't increase for sure. Although we can't go below zero points, disruption will, without a doubt, count as strikes against us."
 
 "I'm still not convinced. Besides, even if we get serious and work hard in class, our points won't necessarily go up." Sudou snorted and crossed his arms in defiance. Kushida took notice of this and commented on it.
 
-"Well, the teacher *did* say that the being late and talking in class were obviously bad, right?"
+"Well, the teacher did say that the being late and talking in class were obviously bad, right?"
 
 "Yeah, I agree with Kushida-san. It's only natural to avoid doing those things."
 
@@ -3090,13 +2892,13 @@ As if being in the room made him feel uncomfortable, he left immediately. I had 
 
 "Sudou-kun really can't read the room. He's the one who was late to class the most. Couldn't we still get some points even without Sudou-kun?"
 
-> "Yeah. He really is the worst. Why is he in our class?"
+"Yeah. He really is the worst. Why is he in our class?"
 
 Hmm. Until now, everyone had been enjoying their lives of luxury to the absolute fullest. No one had previously complained about Sudou. Hirata stepped down from the podium and, strangely, stopped right in front of my desk.
 
 "Horikita-san, Ayanokouji-kun, do you have a moment? I want to speak with you about how we can increase our points. I'd like you to join me. Can you?"
 
-> "Why do you want us?" I asked.
+"Why do you want us?" I asked.
 
 "I want to hear everyone's voices. However, if I ask for everyone to weigh in, I think more than half of the class probably won't take it seriously."
 
@@ -3106,11 +2908,9 @@ So, he wanted to ask us individually? I doubted I'd be able to come up with any 
 
 "We wouldn't force you to speak up. If you could help think of something, that would be good. Simply being there would be enough," Hirata said.
 
-> "I'm sorry, but I have no interest in something meaningless."
->
-> "This is the first trial we're facing together as a united Class
+"I'm sorry, but I have no interest in something meaningless."
 
-D. So then---"
+"This is the first trial we're facing together as a united Class D. So then---"
 
 "I refuse. I won't participate." Her words were stern, yet composed. While she'd considered Hirata's position, she refused him once again.
 
@@ -3118,11 +2918,11 @@ D. So then---"
 
 Horikita had already stopped looking at Hirata, who withdrew dejectedly.
 
-> "What about you, Ayanokouji-kun?" he asked.
+"What about you, Ayanokouji-kun?" he asked.
 
 Honestly, I'd be glad to participate. I'd thought that most of the class would be involved. However, if Horikita was the only one absent, then she might be treated the same as Sudou.
 
-> "Ah...I'll pass. I'm sorry."
+"Ah...I'll pass. I'm sorry."
 
 "No, I'm sorry for bothering you. If you change your mind, please let me know."
 
@@ -3132,21 +2932,21 @@ Hirata probably understood what I was thinking. I hadn't rejected him strongly. 
 
 "That's one perspective, yes. If we could easily solve this by talking, then that'd be fine. However, if an unintelligent student tries to lead the discussion, the group will fall further into chaos, to the point where there's no hope of salvaging anything. Besides, I can't meekly accept my current situation."
 
-> "You can't accept what now? What do you mean?"
+"You can't accept what now? What do you mean?"
 
 Horikita didn't answer my question. She fell completely silent.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1699.png){width="0.375in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1700.png){width="0.375in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1701.png){width="0.375in" height="0.22708333333333333in"}
+**7.2**
 
-**C**lass had ended for the day. Hirata stood at the podium, using the blackboard to prepare for our big discussion. Because of Hirata's powerful charisma, almost everyone in our class had shown, with the exception of a few like Horikita and Sudou.
+Class had ended for the day. Hirata stood at the podium, using the blackboard to prepare for our big discussion. Because of Hirata's powerful charisma, almost everyone in our class had shown, with the exception of a few like Horikita and Sudou.
 
 When I looked around, I noticed that they'd already left the room. I decided to leave before the discussion got into full swing, as well.
 
-> "Ayanokouji!"
+"Ayanokouji!"
 
 Yamauchi suddenly appeared from under my desk, his expression deathlike.
 
-> "Whoa! Wh-what? What's wrong?"
+"Whoa! Wh-what? What's wrong?"
 
 "Hey, buy this from me for 20,000 points. I can't buy anything!" he cried.
 
@@ -3154,9 +2954,9 @@ Yamauchi placed the game console he'd purchased the other day on my desk. Frankl
 
 "But if you sell that to me, who am I supposed to play with?" I asked.
 
-"How the heck should *I* know? Come on, it's good, right? It's special, so it's a good deal."
+"How the heck should I know? Come on, it's good, right? It's special, so it's a good deal."
 
-> "I'll buy it from you for 1,000 points." "Ayanokouji! Come on, you're my only hope!" "Why am *I* the only one? I can't afford it, anyway."
+"I'll buy it from you for 1,000 points." "Ayanokouji! Come on, you're my only hope!" "Why am I the only one? I can't afford it, anyway."
 
 Yamauchi looked at me all teary-eyed, which grossed me out. I looked the other way. He must have realized I wasn't biting, so he immediately switched to a new target.
 
@@ -3166,7 +2966,7 @@ He was trying to get the Professor to buy it and had shamelessly increased the p
 
 "Things must be really tough for the people who used up their points," remarked Kushida as she observed Yamauchi.
 
-> "What about you, Kushida? Do you have enough points?
+"What about you, Kushida? Do you have enough points?
 
 Girls have a lot of necessities, after all."
 
@@ -3174,23 +2974,21 @@ Girls have a lot of necessities, after all."
 
 "It's got to be hard not to spend money when you're so popular. I've barely used any of my points, to be honest. I haven't really needed to buy anything."
 
-> "Because you don't have friends?" she asked. "Hey..."
+"Because you don't have friends?" she asked. "Hey..."
 
 "Ah, sorry, sorry. I didn't mean to offend," Kushida apologized with a giggle. She was too cute when she did that.
 
 "Hey, Kushida-san, do you have a minute?" Karuizawa asked.
 
-> "What's up, Karuizawa-san?"
+"What's up, Karuizawa-san?"
 
 "Honestly, I've spent way too many points, and I'm seriously running low. Some of the other girls in class have lent me a few points, but I was wondering if you could help me out, too. We're friends, right? I only need, like, 2,000 points from you."
 
 Karuizawa didn't seem all that earnest, laughing breezily while she hit up Kushida. In such a case, rejection should be the knee-jerk reaction.
 
-> "Okay, sure."
+"Okay, sure."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1705.png){width="0.33194444444444443in" height="0.16875in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1706.png){width="0.33194444444444443in" height="0.16875in"}
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1709.png){width="0.273332239720035in" height="0.16833333333333333in"}*Sure?!* I repeated silently, but it wasn't my business. This was a problem for the friends in question. Kushida had decided to help Karuizawa without even a hint of reluctance.
+Sure?! I repeated silently, but it wasn't my business. This was a problem for the friends in question. Kushida had decided to help Karuizawa without even a hint of reluctance.
 
 "Thank you! This is really what friends are for, huh? By the way, here's my number. Okay, see you later. Ah, Inogashira-san! Hey, to tell you the truth, I used up too many of my points..."
 
@@ -3202,7 +3000,7 @@ Karuizawa turned away just like that and went in pursuit of her next target.
 
 "I think using up 100,000 points is kind of her own fault, though."
 
-> "Wait, how do you transfer points?" Kushida asked.
+"Wait, how do you transfer points?" Kushida asked.
 
 "Karuizawa gave you her phone number, didn't she? You should be able to do it with your cell phone."
 
@@ -3214,39 +3012,43 @@ The loudspeaker came alive with a soothing sound effect, and a robotic voice iss
 
 "Ayanokouji-kun, from first-year Class D. Please come see Chiyabashira-sensei in the faculty office."
 
-> "Looks like the teacher wants to see you."
+"Looks like the teacher wants to see you."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1710.png){width="0.31666666666666665in" height="0.16875in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1711.png){width="0.31666666666666665in" height="0.16875in"}I was sure I hadn't done anything to get me called to the office. Exiting the classroom, I could feel my classmates' stares drilling a hole into the back of my head. Timid as a rabbit, I found the faculty office and entered. I looked all around, but I didn't find Chiyabashira-sensei anywhere. Baffled, I called out to a teacher inspecting her appearance in a mirror.
+"Yeah... Sorry, Kushida, Gotta go "
 
-> "Excuse me, is Chiyabashira-sensei here?"
->
-> "Hmm? Sae-chan? Oh, she was just here a moment ago."
+I was sure I hadn't done anything to get me called to the office. Exiting the classroom, I could feel my classmates' stares drilling a hole into the back of my head. Timid as a rabbit, I found the faculty office and entered. I looked all around, but I didn't find Chiyabashira-sensei anywhere. Baffled, I called out to a teacher inspecting her appearance in a mirror.
+
+"Excuse me, is Chiyabashira-sensei here?"
+
+"Hmm? Sae-chan? Oh, she was just here a moment ago."
 
 The teacher had wavy, shoulder-length hair, which made her look mature. The way she said Chiyabashira-sensei's name made them sound close. They were near in age and probably friends.
 
 "She must have stepped away for a minute. Do you want to wait here?"
 
-> "No, thank you. I'll wait in the hall."
+"No, thank you. I'll wait in the hall."
 
 I didn't like being in the faculty office. I hated attention, so the hall would do just as well. However, the young teacher unexpectedly followed me.
 
 "I'm Hoshinomiya Chie, in charge of Class B. Sae and I have been best friends since high school. That's why we call each other Sae-chan and Chie-chan."
 
-> That information seemed kind of superfluous.
+That information seemed kind of superfluous.
 
 "Hey, why did Sae-chan call you? Huh? Huh? Why?" she asked.
 
-> "No idea."
+"No idea."
 
 "I don't understand. You were called to the office without a reason? Hmm? What's your name?"
 
 An onslaught of questions. She scanned me from top to bottom, as if sizing me up.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1714.png){width="0.31527777777777777in" height="0.21388888888888888in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1715.png){width="0.31527777777777777in" height="0.21388888888888888in"}"Ayanokouji-kun, huh? Oh, wow, that's a cool name. You're pretty popular, aren't you?"
+"My name Ayanokouji" I said
 
-What was *with* this overly friendly teacher? She acted more like a student. If this were an all-boy school, she would have immediately captured every student's heart.
+"Ayanokouji-kun, huh? Oh, wow, that's a cool name. You're pretty popular, aren't you?"
 
-> "Hey, do you already have a girlfriend?" she asked. "No... I'm, uh, not especially popular."
+What was with this overly friendly teacher? She acted more like a student. If this were an all-boy school, she would have immediately captured every student's heart.
+
+"Hey, do you already have a girlfriend?" she asked. "No... I'm, uh, not especially popular."
 
 I tried to seem reluctant, but Hoshinomiya-sensei kept pushing herself onto me. She grabbed my arms with slender, delicate hands.
 
@@ -3254,25 +3056,25 @@ I tried to seem reluctant, but Hoshinomiya-sensei kept pushing herself onto me. 
 
 She caressed my cheeks. I had no idea what to do. She'd probably stop if I licked her fingers, but I had a feeling that'd get me expelled.
 
-> "What are you doing, Hoshinomiya?"
+"What are you doing, Hoshinomiya?"
 
-Chiyabashira-sensei appeared out of nowhere. With a loud *thud*, she smacked Hoshinomiya-sensei on the head with her clipboard. Hoshinomiya-sensei crouched and gripped her skull in apparent pain.
+Chiyabashira-sensei appeared out of nowhere. With a loud thud, she smacked Hoshinomiya-sensei on the head with her clipboard. Hoshinomiya-sensei crouched and gripped her skull in apparent pain.
 
-> "Ouch! What was that for?" she cried.
->
-> "For getting involved with one of my students."
+"Ouch! What was that for?" she cried.
+
+"For getting involved with one of my students."
 
 "I was only keeping him company while he waited for you, Sae-chan."
 
 "It would have been better if you just left him alone. Thanks for waiting, Ayanokouji. Let's go into the office."
 
-> "The guidance office?" I asked. "Did I do something wrong?
->
-> "A good answer. Come."
+"The guidance office?" I asked. "Did I do something wrong?
+
+"A good answer. Come."
 
 While I wondered what this was all about, I followed Chiyabashira-sensei. Hoshinomiya-sensei remained by my side, smiling widely. Chiyabashira-sensei noticed and turned, her face much like a demon's.
 
-> "You stay," she ordered.
+"You stay," she ordered.
 
 "Come on, don't be so cold! It won't be the end of the world if I listen, right? Besides Sae-chan, you're definitely not the type to give one-on-one guidance. Pulling a new student like Ayanokouji- kun into the guidance room out of nowhere... Are you after something, I wonder?"
 
@@ -3280,15 +3082,15 @@ Grinning, Hoshinomiya-sensei scooted behind me and placed her hands on my should
 
 "So, Sae-chan, are you looking to be dominated by a younger man?"
 
-> Dominated by a younger man? What did *that* mean?
->
-> "Don't say such stupid things. That wouldn't be possible." "Hee, you're certainly right. It wouldn't be possible for *you*,
+Dominated by a younger man? What did that mean?
+
+"Don't say such stupid things. That wouldn't be possible." "Hee, you're certainly right. It wouldn't be possible for you,
 
 Sae-chan," Hoshinomiya-sensei muttered, her words laced with a double meaning.
 
-> "Why are you following us? This is a Class D matter."
->
-> "Huh? I can't go to the guidance room? That's not okay?
+"Why are you following us? This is a Class D matter."
+
+"Huh? I can't go to the guidance room? That's not okay?
 
 Come on, I can give advice, too."
 
@@ -3296,9 +3098,7 @@ As Hoshinomiya-sensei continued to follow, a female student came up to us, a bea
 
 "Hoshinomiya-sensei, do you have a moment? The student council wishes to discuss something with you." She glanced at me, but quickly returned her attention to Hoshinomiya-sensei.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1718.png){width="0.33194444444444443in" height="0.20555555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1719.png){width="0.33194444444444443in" height="0.20555555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1720.png){width="0.33194444444444443in" height="0.20555555555555555in"}
-
-"All right, you have someone who needs you. Get to it." *Slap!* Chiyabashira-sensei smacked Hoshinomiya-sensei on the butt with her clipboard.
+"All right, you have someone who needs you. Get to it." Slap! Chiyabashira-sensei smacked Hoshinomiya-sensei on the butt with her clipboard.
 
 "Aw! She'll get mad at me if I hang around any longer. See you later, Ayanokouji-kun! All right, Ichinose-san. Let's go to the faculty office."
 
@@ -3306,27 +3106,25 @@ With that, she turned on her heel and left with the beautiful Ichinose.
 
 Chiyabashira-sensei lightly scratched her head while she watched Hoshinomiya-sensei leave. Soon after, we entered the guidance room, which stood beside the faculty office.
 
-> "So. Why did you call me here?" I asked.
->
-> "Well, about that... Before we begin, please come here."
+"So. Why did you call me here?" I asked.
+
+"Well, about that... Before we begin, please come here."
 
 She briefly glanced at a clock hanging on the wall, which gave the time as nine o'clock, and opened the door. Inside was a small office kitchenette. She placed a kettle on top of a stove.
 
-> "I'm going to make tea. Is roasted green okay?" she asked. I picked up the container with the tea powder.
+"I'm going to make tea. Is roasted green okay?" she asked. I picked up the container with the tea powder.
 
 "Don't make any unnecessary moves. Shut up and get in here. Understand? Don't make a sound and stay until I tell you it's okay to come out. If you don't do as I say, you'll be expelled," she said.
 
-> "Huh? What do you mean by---"
+"Huh? What do you mean by---"
 
 She closed the door to the kitchenette without explanation, leaving me in there. What in the world was she scheming? I did as I was told and waited. Soon after, I heard the outer door to the guidance room open.
 
 "Ah, come in. So, what did you want to talk to me about, Horikita?" I heard Chiyabashira-sensei say.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1724.png){width="0.31666666666666665in" height="0.20833333333333334in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1725.png){width="0.31666666666666665in" height="0.20833333333333334in"}
+Apparently Horikita was in need of guidance.
 
-> Apparently Horikita was in need of guidance.
->
-> "I will be frank. Why was I sorted into Class D?" "That's quite frank."
+"I will be frank. Why was I sorted into Class D?" "That's quite frank."
 
 "Today, you told us that the school sorted superior students into Class A. You said that Class D was filled with the leftovers, the last bastion of delinquents."
 
@@ -3334,7 +3132,7 @@ She closed the door to the kitchenette without explanation, leaving me in there.
 
 I wondered how Horikita would respond. I'd bet she'd confidently object.
 
-> "I solved nearly every problem on the entrance examination.
+"I solved nearly every problem on the entrance examination.
 
 I made no substantial mistakes on the interview, either. At the very least, I shouldn't have been sorted into Class D."
 
@@ -3348,17 +3146,15 @@ Looks like I would have won that bet. Horikita was definitely the type to think 
 
 And you're right: We found no particular problems in your interview. On the contrary, we evaluated you quite highly."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1728.png){width="0.33055555555555555in" height="0.16875in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1729.png){width="0.33055555555555555in" height="0.16875in"}
+"Thank you very much. So then...why?"
 
-> "Thank you very much. So then...why?"
->
-> "Before I answer, why are you dissatisfied with Class D?" "Who could be happy with an incorrect evaluation?
+"Before I answer, why are you dissatisfied with Class D?" "Who could be happy with an incorrect evaluation?
 
 Furthermore, the class rankings greatly impact our future prospects. Of course I'm dissatisfied."
 
 "Incorrect evaluation? Perhaps your self-evaluation is far too high." Chiyabashira-sensei snickered, or rather, laughed outright. "I acknowledge that your academic ability is excellent. You're certainly very smart. However, who decided that smart people are categorically superior? We never said that."
 
-> "But...that's just common sense."
+"But...that's just common sense."
 
 "Common sense? Didn't common sense create our current, flawed society? Before, Japan relied solely on test scores to separate the superior and inferior. As a result, the incompetents at the top tried desperately to kick down the truly superior students. In the end, we settled on a system of hereditary succession."
 
@@ -3366,17 +3162,15 @@ A system of hereditary succession meant that things like social standing, presti
 
 "You're a capable student. I don't deny that. However, this school's goal is to produce superior people. If you believe academics alone place you into a higher class, you are mistaken. That was the very first thing we explained to you. Besides, think rationally. Would we have admitted someone like Sudou if we decided superiority based solely on academic merit?"
 
-> "Tch..."
+"Tch..."
 
 Despite the fact that this was one of the country's leading preparatory schools, this place allowed students to enroll for purposes other than academics.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1732.png){width="0.31666666666666665in" height="0.20555555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1733.png){width="0.31666666666666665in" height="0.20555555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1734.png){width="0.31666666666666665in" height="0.20555555555555555in"}
-
 "Furthermore, you may be too hasty in proclaiming that no one would be happy to be incorrectly evaluated. Take Class A, for instance. They are under incredible pressure from the school, and also the target of extreme envy from the lower classes. Competing every day with that kind of pressure bearing down upon you is far more difficult than you might imagine. There are some students who are happy to be incorrectly evaluated at a lower level."
 
-> "You're joking, right? I can't understand such a person."
->
-> "Is that so? I think that Class D boasts some of those people.
+"You're joking, right? I can't understand such a person."
+
+"Is that so? I think that Class D boasts some of those people.
 
 Strange students who would happily be set at a low level." It was almost as if she were talking to me.
 
@@ -3398,29 +3192,25 @@ Apparently, she wasn't going to give up. Horikita had merely determined that her
 
 "Well...I suppose that's enough for now. Excuse me. But know that I'm not yet convinced I was sorted correctly."
 
-> "Understood. I will keep that in mind."
+"Understood. I will keep that in mind."
 
 A chair squeaked against the floor, signaling that the discussion was over.
 
 "Oh, that reminds me. I've summoned another person to the guidance room. It's someone relevant to you."
 
-> "Relevant to me? No, you can't mean... bro---" "Come on out, Ayanokouji," the teacher said.
->
-> This was a bad time to reveal myself. Maybe I just wouldn't
+"Relevant to me? No, you can't mean... bro---" "Come on out, Ayanokouji," the teacher said.
 
-go.
+This was a bad time to reveal myself. Maybe I just wouldn't go.
 
 "If you don't come out, I'll have you expelled."
 
-Jeez. A teacher shouldn't casually wield expulsion like a
+Jeez. A teacher shouldn't casually wield expulsion like a weapon.
 
-weapon.
-
-> "How long do you intend to keep me waiting?"
+"How long do you intend to keep me waiting?"
 
 With a sigh, I entered the room. Naturally, Horikita appeared surprised and perplexed.
 
-> "Were you listening to our conversation?" she asked me.
+"Were you listening to our conversation?" she asked me.
 
 "Listening? I know you guys were talking, but I didn't really hear anything. The walls are surprisingly thick."
 
@@ -3430,11 +3220,11 @@ With a sigh, I entered the room. Naturally, Horikita appeared surprised and perp
 
 "Because I deemed it necessary. Now then, Ayanokouji, I'll explain why I called you here." Chiyabashira-sensei dismissed Horikita's concerns and shifted her attention to me.
 
-> "Well then, if you'll excuse me..." Horikita muttered.
+"Well then, if you'll excuse me..." Horikita muttered.
 
 "Wait, Horikita. It would be in your best interest to stay and listen. It may provide you with a hint on how to reach Class A."
 
-> Horikita stopped dead in her tracks and sat back down. "Please keep it brief," she said.
+Horikita stopped dead in her tracks and sat back down. "Please keep it brief," she said.
 
 Chiyabashira-sensei chuckled as she glanced over her clipboard. "You're an interesting student, Ayanokouji."
 
@@ -3446,15 +3236,13 @@ If you looked all over the country for another person with the surname of Chiyab
 
 "Well, when I read over the entrance exam's results, your scores piqued my interest. I was shocked."
 
-> On her clipboard, I saw a rather familiar answer sheet.
+On her clipboard, I saw a rather familiar answer sheet.
 
 "Fifty points in Japanese. Fifty points in mathematics. Fifty points in English. Fifty points in social studies. Fifty points in science. You even scored Fifty points on the recent short test. Do you know what this means?"
 
 A stunned Horikita looked over my test paper and then shifted her focus to me. "This is a rather frightening coincidence," she said.
 
 "Oh? You believe that getting 50s all across the board was a coincidence? He did it intentionally."
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1742.png){width="0.31666666666666665in" height="0.17222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1743.png){width="0.31666666666666665in" height="0.17222222222222222in"}
 
 "It's a coincidence. There's no evidence that it's not. Besides, what would I gain by manipulating my scores in the first place? If I were intelligent enough to achieve high marks, I would've tried to get perfect scores."
 
@@ -3468,29 +3256,25 @@ However, you solved it perfectly, and used a complex formula to do so. However, 
 
 "For crying out loud! I respect your frank attitude, but it'll cause problems for you in the future," the teacher said.
 
-> "I'll think about that when the time comes."
+"I'll think about that when the time comes."
 
-Chiyabashira-sensei shot Horikita a glance that seemed to say, *What do* you *think?*
+Chiyabashira-sensei shot Horikita a glance that seemed to say, What do you think?
 
-> "Why do you pretend not to know?" she asked.
+"Why do you pretend not to know?" she asked.
 
 "Like I said, it was a coincidence. It's not like I'm hiding that I'm a genius or anything."
 
-"I wonder. He may be even more intelligent than *you*, Horikita."
+"I wonder. He may be even more intelligent than you, Horikita."
 
-> Horikita flinched. *Please don't say anything unnecessary, Chiyabashira-sensei.*
+Horikita flinched. Please don't say anything unnecessary, Chiyabashira-sensei.
 
 "I don't like studying, and I don't plan to try hard. That's why I get those scores."
 
-"A student who chose this school wouldn't say something like that. However, some students may have different reasons for
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1746.png){width="0.25643482064741907in" height="0.16874890638670167in"}
-
-getting in. You, for example, and Kouenji as well. I think you're fine with being in either D or A."
+"A student who chose this school wouldn't say something like that. However, some students may have different reasons for getting in. You, for example, and Kouenji as well. I think you're fine with being in either D or A."
 
 This school wasn't the only abnormal thing. The teachers were weird, too. Moments earlier, Chiyabashira-sensei had upset Horikita with just her words. It was almost as if the teachers knew every student's secrets.
 
-> "What other reasons do you have?" Horikita asked. "You want me to explain it to you in detail?"
+"What other reasons do you have?" Horikita asked. "You want me to explain it to you in detail?"
 
 I noticed the sharp gleam in Chiyabashira-sensei's eyes. It was almost as if she wanted to provoke Horikita.
 
@@ -3498,53 +3282,47 @@ I noticed the sharp gleam in Chiyabashira-sensei's eyes. It was almost as if she
 
 "If you did that, Ayanokouji, I would demote you to E Class."
 
-> "Wait, there's an E Class?"
+"Wait, there's an E Class?"
 
 "Certainly. Of course, the 'E' stands for 'expelled.' As in, you'd be kicked out of school. Well, I suppose our conversation has ended. Enjoy your lives."
 
-> What incredible sarcasm.
->
-> "I'm leaving, too. It's almost time for the faculty meeting.
+What incredible sarcasm.
+
+"I'm leaving, too. It's almost time for the faculty meeting.
 
 I'm going to close the door, so please step outside."
 
 She pushed us into the hallway. Why had Chiyabashira- sensei called both of us in together? She didn't seem like the type to do meaningless things.
 
-> "Well. Should we head back?" I asked.
+"Well. Should we head back?" I asked.
 
 Horikita didn't respond, and I walked away. Probably best if we weren't together right now.
 
 "Wait." Horikita called out, but I didn't stop. If I managed to keep away from her until I got to the dorms, I'd be home free.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1747.png){width="0.3020833333333333in" height="0.1701388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1748.png){width="0.3020833333333333in" height="0.1701388888888889in"}
-
-> "Was your score...really just a coincidence?" she asked.
+"Was your score...really just a coincidence?" she asked.
 
 "I already said so, didn't I? Or do you have any proof that I got that score on purpose?"
 
 "I don't, but...I also don't understand, Ayanokouji-kun. You said that you like to avoid trouble, but you don't seem to be interested in Class A."
 
-> "You have an extraordinary fixation on Class A."
+"You have an extraordinary fixation on Class A."
 
 "Should I not? I'm simply striving to improve my future prospects."
 
-> "Oh, absolutely. You should. It's perfectly natural."
+"Oh, absolutely. You should. It's perfectly natural."
 
 "When I entered this school, I thought graduation was my only goal. But the reality is different. I'm not even at the starting line."
 
-> Horikita sped up and started walking next to me. "So, why are you aiming for Class A?"
+Horikita sped up and started walking next to me. "So, why are you aiming for Class A?"
 
-"First, I want to ascertain this school's true motives. Why was *I* put into Class D? Chiyabashira-sensei said I'd been deemed a Class D student, but why? When I discover the answer, I'll aim for A. No, I will definitely make it to A."
+"First, I want to ascertain this school's true motives. Why was I put into Class D? Chiyabashira-sensei said I'd been deemed a Class D student, but why? When I discover the answer, I'll aim for A. No, I will definitely make it to A."
 
 "That's going to be difficult. You'll have to rehabilitate the problem children. You have Sudou's continued tardiness and class cutting, everyone else talking in class, and, of course, the test scores. Even if you manage all of that, you're still at zero points."
 
 "I know that. I still think the school made a mistake with my placement."
 
-Anxiety had replaced Horikita's previously overflowing confidence. Did she really know that was the case? The only conclusion I could draw from today was that "despair" was a two- syllable word. If you followed the fundamental school rules, you could avoid losing points. However, it was still unclear how to
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1751.png){width="0.3in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1752.png){width="0.3in" height="0.17847222222222223in"}
-
-turn those losses into gains. Class A had had only had a small number of points subtracted.
+Anxiety had replaced Horikita's previously overflowing confidence. Did she really know that was the case? The only conclusion I could draw from today was that "despair" was a two- syllable word. If you followed the fundamental school rules, you could avoid losing points. However, it was still unclear how to turn those losses into gains. Class A had had only had a small number of points subtracted.
 
 Even if we somehow found an efficient way to increase our points, the other classes might also find a way to do the same.
 
@@ -3554,9 +3332,9 @@ Since we'd started out with such a substantial difference in points, we'd have t
 
 "I see. I suppose you could think that. So, you'll try to take care of this situation by yourself?" I asked.
 
-> "Yes."
->
-> "Don't act so proud."
+"Yes."
+
+"Don't act so proud."
 
 A hand chopped my side. Horikita ignored my pained expression.
 
@@ -3572,31 +3350,31 @@ A hand chopped my side. Horikita ignored my pained expression.
 
 The short test we'd taken had contained a few difficult questions, but overall it had been pretty easy. Even at that level, some students had failed. Honestly, their chances of passing the midterm exam were slim.
 
-> "I need your help, Ayanokouji-kun." "Help?"
->
-> Horikita glared at me.
+"I need your help, Ayanokouji-kun." "Help?"
+
+Horikita glared at me.
 
 "What if I refuse? Like how you refused Hirata this morning."
 
-> "Do you want to refuse?" she asked. "What if I said I'd gladly help?"
+"Do you want to refuse?" she asked. "What if I said I'd gladly help?"
 
-"I never would've thought you'd do it gladly, but I doubt you'd refuse. If you *did* refuse to work with me, then that would be the end of it. No matter what I said about our future, I'd be powerless if you refused. So, will you help me or not?"
+"I never would've thought you'd do it gladly, but I doubt you'd refuse. If you did refuse to work with me, then that would be the end of it. No matter what I said about our future, I'd be powerless if you refused. So, will you help me or not?"
 
-I wanted to say what she'd said before, when she'd silenced Hirata... What was it, again? Well, it wasn't as though I would just bluntly refuse someone who asked for my help. Then again, if I told her I *would* help, she'd probably run me into the ground until graduation. I needed the heart of a demon.
+I wanted to say what she'd said before, when she'd silenced Hirata... What was it, again? Well, it wasn't as though I would just bluntly refuse someone who asked for my help. Then again, if I told her I would help, she'd probably run me into the ground until graduation. I needed the heart of a demon.
 
-> "I refuse," I said.
->
-> "I always knew you'd help, Ayanokouji-kun. I'm grateful." "I didn't say that! I turned you down!"
+"I refuse," I said.
+
+"I always knew you'd help, Ayanokouji-kun. I'm grateful." "I didn't say that! I turned you down!"
 
 "No, I heard the voice inside your head. You said you'd help."
 
-> Terrifying! It was like she could read my thoughts.
+Terrifying! It was like she could read my thoughts.
 
 "I don't even know how I could help you, though." Besides being an exemplary student, Horikita was incredibly quick-witted. She probably didn't need my skills.
 
 "Don't worry. I don't require your brain power, Ayanokouji- kun. Leave the planning to me, and act as I tell you."
 
-> "Huh? What do you mean by act?"
+"Huh? What do you mean by act?"
 
 "Doesn't our lack of points trouble you, Ayanokouji-kun? If you follow my instructions, I promise you we'll see a point increase. I would never lie."
 
@@ -3610,7 +3388,7 @@ If she reached out to him, they'd probably become good friends.
 
 "He's no good. Even if he has some talent and ability, I can't use him. To use an analogy, think about the pieces in shogi. Right now, I don't need a gold or silver general. I want a pawn."
 
-> *So, you just called me a pawn?* That's *what you called me?*
+So, you just called me a pawn? That's what you called me?
 
 "So, if a pawn were to cooperate, he could become a gold general?"
 
@@ -3618,39 +3396,37 @@ If she reached out to him, they'd probably become good friends.
 
 She'd shot me down with precisely the right brand of ammunition. If I were a normal person, my feelings would've been hurt.
 
-> "Sorry, but I can't help you. I'm not suitable for this," I said.
+"Sorry, but I can't help you. I'm not suitable for this," I said.
 
 "Well, contact me once you've given it some thought. I look forward to hearing from you."
 
 Horikita wasn't paying attention to what I'd said in the slightest.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1759.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1760.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1761.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1762.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1763.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1270.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1764.png){width="1.117361111111111in" height="0.3055555555555556in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1771.png){width="0.23541666666666666in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1772.png){width="0.23541666666666666in" height="0.22708333333333333in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1775.png){width="0.5138888888888888in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1776.png){width="0.5138888888888888in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1777.png){width="0.5138888888888888in" height="0.23541666666666666in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1781.png){width="1.6284722222222223in" height="0.23333333333333334in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1782.png){width="1.6284722222222223in" height="0.23333333333333334in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1783.png){width="1.6284722222222223in" height="0.23333333333333334in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1784.png){width="1.6284722222222223in" height="0.23333333333333334in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1785.png){width="1.6284722222222223in" height="0.23333333333333334in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1786.png){width="1.6284722222222223in" height="0.23333333333333334in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1787.png){width="1.6284722222222223in" height="0.23333333333333334in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1795.png){width="0.2951388888888889in" height="0.24027777777777778in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1796.png){width="0.2951388888888889in" height="0.24027777777777778in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1799.png){width="1.0805555555555555in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1800.png){width="1.0805555555555555in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1801.png){width="1.0805555555555555in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1802.png){width="1.0805555555555555in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1803.png){width="1.0805555555555555in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1804.png){width="1.0805555555555555in" height="0.23541666666666666in"}
+**Chapter 8: The Association of Failures**
 
-**M**ay 1 came and went, and before we knew it, the school week was over. Ike and the others had started listening to the teacher. Only Sudou kept unashamedly falling asleep in class, but no one tried to reprimand him. Because we hadn't yet found a method to increase our points, he'd apparently decided not to fix his habits. However, many of our classmates grew to disdain him.
+May 1 came and went, and before we knew it, the school week was over. Ike and the others had started listening to the teacher. Only Sudou kept unashamedly falling asleep in class, but no one tried to reprimand him. Because we hadn't yet found a method to increase our points, he'd apparently decided not to fix his habits. However, many of our classmates grew to disdain him.
 
 I was a little sleepy, myself. It was hard to stay awake just before lunchtime. Also, I'd stayed up late last night watching an online video. Ah, sleep would feel so nice...
 
-> "Ah?!"
+"Ah?!"
 
 Just as my head started to bob, sudden pain shot through my right arm.
 
 "What's the matter, Ayanokouji? You cried out. Have you started your rebellious phase or something?"
 
-> "N-no. Sorry, Chiyabashira-sensei. I got some dirt in my
+"N-no. Sorry, Chiyabashira-sensei. I got some dirt in my eye."
 
-eye."
-
-> Normally, the other students would have started whispering.
+Normally, the other students would have started whispering.
 
 But, wary of potentially losing points, they instead shot me pained glances. As I rubbed the sting on my arm, I glared at my neighbor. Horikita brandished her mathematical compass. This was insane. Why did she even have a compass ready in the first place? You didn't even really need one of those for this school. After class, I immediately went over to her.
 
 "Certain things are off limits! It's dangerous to stab someone!"
 
-> "Are you angry with me?" she asked. "You put a hole in my arm! A hole!"
+"Are you angry with me?" she asked. "You put a hole in my arm! A hole!"
 
 "What? When did I stab with you a compass needle, Ayanokouji-kun?"
 
-> "You're holding a dangerous weapon right now."
+"You're holding a dangerous weapon right now."
 
 "So, just because I'm holding something means I stabbed you?"
 
@@ -3658,17 +3434,17 @@ I'd spent most of the class wide-eyed, not because of the lecture, but the pain.
 
 "Be careful. If you get caught sleeping, that would undoubtedly lead to a loss in points."
 
-Horikita had started to take action within Class D. Her protests to the school had gone nowhere. *Ah, that hurt!* Damn it, if Horikita ever fell asleep in class, I'd return the favor. When everyone got up for lunch, Hirata spoke.
+Horikita had started to take action within Class D. Her protests to the school had gone nowhere. Ah, that hurt! Damn it, if Horikita ever fell asleep in class, I'd return the favor. When everyone got up for lunch, Hirata spoke.
 
 "Chiyabashira-sensei mentioned that the midterm is coming up soon. Remember that if you fail, you'll be expelled. Therefore, I think it would be a good idea to form a study group."
 
-> Apparently, the hero of Class D had started another project.
+Apparently, the hero of Class D had started another project.
 
 "If you neglect your studies, you'll get a failing grade and be expelled on the spot. I want to avoid that. However, studying won't just prevent expulsion; it may also help earn points. If we receive high marks, our class's assessment should improve as a result. I asked some of the students who scored high on the test to help prepare a study plan. So, I would like people who are anxious to come join our group. Everyone is welcome, of course."
 
 Hirata stared directly at Sudou while making his grand speech.
 
-> "Tch."
+"Tch."
 
 Sudou averted his gaze, crossed his arms, and closed his eyes. Ever since Sudou had stomped all over Hirata's introduction game, their relationship had been rocky.
 
@@ -3676,47 +3452,39 @@ Sudou averted his gaze, crossed his arms, and closed his eyes. Ever since Sudou 
 
 Immediately after he'd finished speaking, several of the failing students got up and went over. There were three people with failing grades who didn't rush to Hirata, though: Sudou, Ike, and Yamauchi. Ike and Yamauchi seemed unsure of what to do for a moment, but in the end, they stayed in their seats. I couldn't tell whether they were afraid Sudou might lose his temper, or because they were jealous of Hirata's popularity.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1811.png){width="0.3333333333333333in" height="0.17222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1812.png){width="0.3333333333333333in" height="0.17222222222222222in"}
+**8.1**
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1815.png){width="0.3333333333333333in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1816.png){width="0.3333333333333333in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1817.png){width="0.3333333333333333in" height="0.22708333333333333in"}
->
-> **"A**re you free for lunch? Do you want to eat together?" During our break, Horikita came up and invited me out. "It's unusual to get an invitation from you. I feel nervous."
+"Are you free for lunch? Do you want to eat together?" During our break, Horikita came up and invited me out. "It's unusual to get an invitation from you. I feel nervous."
 
 "There's no reason to be. I can treat you to the vegetable meal set, if that's okay with you."
 
-> Wait, wasn't that the free meal?
->
-> "I'm joking. Seriously, whatever you want to eat is on me." "Now I'm *definitely* scared. Is there some kind of catch?"
+Wait, wasn't that the free meal?
+
+"I'm joking. Seriously, whatever you want to eat is on me." "Now I'm definitely scared. Is there some kind of catch?"
 
 An invitation from Horikita was suspicious enough. The suddenness of the request also gave me pause.
 
 "If people can't honestly accept kindness, then mankind will meet its end, won't it?" she asked.
 
-> "Well, I suppose so, but..."
+"Well, I suppose so, but..."
 
 With no other plans, I decided to follow Horikita to the cafeteria, where I chose one of the most expensive special meal sets. Together, we sat down.
 
 "Well then, shall we eat?" she asked. Horikita started at me intently, as if she were waiting for me to begin.
 
-> "What's the matter, Ayanokouji-kun? Aren't you going to
-
-eat?"
+"What's the matter, Ayanokouji-kun? Aren't you going to eat?"
 
 "Oh."
 
-There was definitely a catch, no doubt about it. Nevertheless,
-
-I couldn't just sit here and not eat. Letting the food get cold would be a waste. I hesitantly bit into my croquette.
+There was definitely a catch, no doubt about it. Nevertheless, I couldn't just sit here and not eat. Letting the food get cold would be a waste. I hesitantly bit into my croquette.
 
 "I know this is rather sudden, but I want to talk to you about something."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1821.png){width="0.27382108486439194in" height="0.16927055993000875in"}
-
-> "I have a bad feeling about this..."
+"I have a bad feeling about this..."
 
 Just as I was preparing to flee, she grabbed my hand. "Ayanokouji-kun, I'll ask once again. Will you listen to me?"
 
-> "Ugh..."
+"Ugh..."
 
 "Ever since Chiyabashira-sensei's warning, fewer people have arrived late or talked in class. When I say we eliminated more than half of the reasons our class got into trouble, I'm not exaggerating."
 
@@ -3726,7 +3494,7 @@ Just as I was preparing to flee, she grabbed my hand. "Ayanokouji-kun, I'll ask 
 
 "The study groups, huh? Well, I suppose that a study group certainly could help. Only..."
 
-> "Only what? It sounds like you're implying something.
+"Only what? It sounds like you're implying something.
 
 What's the problem?"
 
@@ -3734,17 +3502,11 @@ What's the problem?"
 
 "I can't truly imagine failing a test. However, it's true that some students in this world can do just that."
 
-> "Sudou and the others, you mean? You're vicious as ever, I
-
-see."
+"Sudou and the others, you mean? You're vicious as ever, I see."
 
 "I'm just telling the truth."
 
-Because students couldn't leave campus, contact anyone on
-
-the outside, or even attend cram schools, their only option was to help one another.
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1822.png){width="0.31875in" height="0.1701388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1823.png){width="0.31875in" height="0.1701388888888889in"}
+Because students couldn't leave campus, contact anyone on the outside, or even attend cram schools, their only option was to help one another.
 
 "I'm relieved that Hirata-kun set up a study group. However, Sudou-kun, Ike-kun, and Yamauchi-kun didn't join, did they?
 
@@ -3768,17 +3530,15 @@ I wasn't actually surprised, though. Horikita was doing this all for her own ben
 
 "That's why I'm asking you. Fortunately, you're already friendly with these people, right?"
 
-> "Huh? Hey, wait. You couldn't mean..."
+"Huh? Hey, wait. You couldn't mean..."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1826.png){width="0.31666666666666665in" height="0.21666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1827.png){width="0.31666666666666665in" height="0.21666666666666667in"}
-
-"It'll be quicker if *you* try to convince them. It shouldn't be a problem; they're happy to say that you're friends, right? Bring them to the library, and I'll tutor them."
+"It'll be quicker if you try to convince them. It shouldn't be a problem; they're happy to say that you're friends, right? Bring them to the library, and I'll tutor them."
 
 "This is insane. Do you honestly think someone who does his best to lead an utterly harmless and inoffensive life would be able to do something that requires actual social skills?"
 
-> "It's not a matter of can or can't. Just do it," she said. Was I her pet dog or something?
->
-> "You can aim for Class A, but don't involve me."
+"It's not a matter of can or can't. Just do it," she said. Was I her pet dog or something?
+
+"You can aim for Class A, but don't involve me."
 
 "You ate the food I treated you to, right? Lunch. The special set. A wonderful, delicious meal."
 
@@ -3786,7 +3546,7 @@ I wasn't actually surprised, though. Horikita was doing this all for her own ben
 
 "Unfortunately, that wasn't out of goodwill. I had an ulterior motive."
 
-"Sorry, I didn't hear a word you said. Here, have some points, my *treat*. Now we're even."
+"Sorry, I didn't hear a word you said. Here, have some points, my treat. Now we're even."
 
 "I refuse to stoop so low as to accept handouts from others," she said.
 
@@ -3794,15 +3554,11 @@ I wasn't actually surprised, though. Horikita was doing this all for her own ben
 
 "So what will you do? Cooperate? Or make me your enemy?"
 
-> "It almost feels like you're holding a gun to my head."
+"It almost feels like you're holding a gun to my head."
 
-"No, not 'almost.' I really *am* threatening you," replied Horikita.
+"No, not 'almost.' I really am threatening you," replied Horikita.
 
-The power of violence certainly was effective. Well...if all I did was gather them together, there wasn't anything particularly
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1830.png){width="0.3333333333333333in" height="0.20833333333333334in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1831.png){width="0.3333333333333333in" height="0.20833333333333334in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1720.png){width="0.3333333333333333in" height="0.20833333333333334in"}
-
-wrong with cooperating. After all, due to Horikita's stance against friendship, she wouldn't be effective at diplomacy.
+The power of violence certainly was effective. Well...if all I did was gather them together, there wasn't anything particularly wrong with cooperating. After all, due to Horikita's stance against friendship, she wouldn't be effective at diplomacy.
 
 Furthermore, it'd taken a lot of time and trouble to become friends with Sudou and Ike. I'd hate for them to have to drop out so quickly. Sensing my hesitation, Horikita pressed me.
 
@@ -3810,53 +3566,49 @@ Furthermore, it'd taken a lot of time and trouble to become friends with Sudou a
 
 "You said you wouldn't blame me. Bringing that up is unfair."
 
-> "I said that to Kushida-san. I don't remember saying that to
+"I said that to Kushida-san. I don't remember saying that to
 
-*you*, Ayanokouji-kun." "Wow. You play dirty."
+you, Ayanokouji-kun." "Wow. You play dirty."
 
-> "If you want my forgiveness, cooperate with me."
+"If you want my forgiveness, cooperate with me."
 
 It looked as though I'd never had an escape route in the first place. At this juncture, the only way to avoid a hassle would be to help her.
 
-> "I can't guarantee anything. Are you okay with that?"
+"I can't guarantee anything. Are you okay with that?"
 
 "I believe you'll find a way. Oh, here's my phone number and email. If something happens, contact me."
 
 Although the circumstances were unusual, I'd gotten a girl's contact information for the first time in my high school life. It was Horikita's, though, so I wasn't particularly happy.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1834.png){width="0.31875in" height="0.21180555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1835.png){width="0.31875in" height="0.21180555555555555in"}
+**8.2**
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1838.png){width="0.39166666666666666in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1839.png){width="0.39166666666666666in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1840.png){width="0.39166666666666666in" height="0.22708333333333333in"}
-
-**I** glanced around the classroom. What was I supposed to do now? If I said, "Hey, want to study with me after class?" would anyone even come?
+I glanced around the classroom. What was I supposed to do now? If I said, "Hey, want to study with me after class?" would anyone even come?
 
 Sudou and I were close enough that he might, but I wasn't sure about the others. Well, with nothing to lose, I decided to try.
 
 "Hey, Sudou. Have a minute?" I called as he headed back to the classroom after lunch. He was sweating and a bit short of breath. Probably played some basketball during his lunch break.
 
-> "What are you going to do about the midterm?"
+"What are you going to do about the midterm?"
 
 "Oh, that. I don't know. I've never really studied seriously before," he said.
 
 "Oh, yeah? Well, I have just the thing. I wanted to form a study group to meet every day after class, starting today. Want to join?"
 
-> Sudou stared at me, his mouth slightly agape.
+Sudou stared at me, his mouth slightly agape.
 
-"You serious? If the lessons are a pain in my ass, why would studying *after* class be any better? Besides, I have club activities, so it's pointless. Plus, *you're* going to be tutoring? Your scores weren't great, either."
+"You serious? If the lessons are a pain in my ass, why would studying after class be any better? Besides, I have club activities, so it's pointless. Plus, you're going to be tutoring? Your scores weren't great, either."
 
-> "Don't worry about that part. Horikita's the tutor."
+"Don't worry about that part. Horikita's the tutor."
 
 "Horikita? I don't really know anything about her. Sounds fishy; I'll pass. I'll be fine cramming for the test the night before."
 
 Sudou had refused to join, just as I'd guessed. If I persisted, it'd fall on deaf ears. Damn, was it really useless? If I tried to press him further, he might punch me. Perhaps there was no helping it. Maybe I should start with someone more manageable. I called out to Ike, who was playing on his phone.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1844.png){width="0.33194444444444443in" height="0.17222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1845.png){width="0.33194444444444443in" height="0.17222222222222222in"}
-
-> "Hey, Ike, h---"
+"Hey, Ike, h---"
 
 "Pass! I heard you talking with Sudou. Study group? No way. Not my thing."
 
-> "You do know you'll be expelled if you fail, right?"
+"You do know you'll be expelled if you fail, right?"
 
 "Well, yeah. I might have gotten failing grades before, but I'm doing much better now. I'll just cram the night before with Sudou."
 
@@ -3870,9 +3622,9 @@ Was he really fine with that? He didn't seem to grasp the danger of this situati
 
 He waved me off, completely focused on texting with some girl. Ever since Hirata had managed to get a girlfriend, Ike was desperate to find a girl of his own. My shoulders slumped as I returned to my seat. Maybe if I told Horikita I'd tried my best, she'd forgive me.
 
-> "No good," she said.
->
-> "Uh, what do you mean by that?" I asked.
+"No good," she said.
+
+"Uh, what do you mean by that?" I asked.
 
 "I said 'no good.' You really didn't think it would be that simple, did you?"
 
@@ -3880,65 +3632,59 @@ Damn it. She'd completely ignored my appeal. How shameless.
 
 "No, of course not. I still have 425 plans remaining," I grumbled.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1848.png){width="0.31875in" height="0.20833333333333334in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1849.png){width="0.31875in" height="0.20833333333333334in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1734.png){width="0.31875in" height="0.20833333333333334in"}
-
 I looked around the room. Contrary to the tension of class, lunch had a friendlier, albeit noisier, atmosphere.
 
 I needed a method to get reluctant students to buckle down and work. Also, I needed a way to get them to study during free time, not during class. Normally I wouldn't involve myself, but they were in danger of expulsion.
 
 I was sure that Sudou would participate if given the chance. Now I had no choice but to find some kind of incentive. I needed him to think there'd be a juicy bonus he'd get by studying. I'd require something concrete and easy to understand. Something effective.
 
-> And then it hit me!
+And then it hit me!
 
 Blessed with a divine revelation, I turned, wide-eyed, to Horikita.
 
 "Even though you're the tutor, getting Sudou and Ike to study is no easy feat. I'll need more of your abilities. Can you help me?" I asked.
 
-> "'More of my abilities'? What exactly am I supposed to do?"
+"'More of my abilities'? What exactly am I supposed to do?"
 
 "How about this? If they get a perfect score, you agree to be their girlfriend or something. They'll definitely jump at the chance if we offer that kind of incentive. Girls are great motivation for guys."
 
-> "Do you want to die?" she asked. "No, I'd rather live."
+"Do you want to die?" she asked. "No, I'd rather live."
 
 "I listened because I thought you had a serious plan. I was an idiot to think so."
 
 No, I truly believed that'd be effective. It'd be the biggest impetus to study they'd ever had in their entire lives. However, Horikita clearly didn't understand men.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1852.png){width="0.3333333333333333in" height="0.1701388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1853.png){width="0.3333333333333333in" height="0.1701388888888889in"}
-
 "Okay, how about a kiss? If they get a perfect score, you give them a kiss."
 
-> "So, you really *do* want to die?"
->
-> "No, living would still be preferable."
->
-> Something sharp jabbed the back of my neck. Damn it.
+"So, you really do want to die?"
+
+"No, living would still be preferable."
+
+Something sharp jabbed the back of my neck. Damn it.
 
 Horikita definitely didn't acknowledge the value of my methods. It would be exceptionally effective, though. Well, that meant I had to go back to the drawing board. As I considered this, I noticed someone quite conspicuous. It wasn't Hirata, but another person who might easily rally the class around her: Kushida Kikyou.
 
 She looked great, of course, and she was bright and energetic. She was so sociable that anyone, regardless of gender, could chat with her freely. Also, Ike was madly in love with Kushida, while Sudou and the others at least had a good impression of her. On top of that, her test scores were relatively high. She was absolutely perfect.
 
-> "Hey!"
+"Hey!"
 
 Just as I called out, I remembered that Horikita didn't want to be friends with Kushida. I stopped there.
 
-> "What is it?" Kushida asked. "Oh, uh...it's nothing."
->
-> Horikita fundamentally disliked mingling with other people.
+"What is it?" Kushida asked. "Oh, uh...it's nothing."
+
+Horikita fundamentally disliked mingling with other people.
 
 When Kushida and I had tried to enact Operation Friendship, it had made Horikita furious. Horikita probably wouldn't approve of Kushida's involvement. I'd put my plan on hold until Horikita returned to the dorms.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1856.png){width="0.33194444444444443in" height="0.21666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1857.png){width="0.33194444444444443in" height="0.21666666666666667in"}
+**8.3**
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1860.png){width="0.3902777777777778in" height="0.28680555555555554in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1861.png){width="0.3902777777777778in" height="0.28680555555555554in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1862.png){width="0.3902777777777778in" height="0.28680555555555554in"}
-
-**B**efore I knew it, class had ended for the day. Horikita quickly departed and went straight home. The time had come to enact my plan. I needed to capture Kushida.
+Before I knew it, class had ended for the day. Horikita quickly departed and went straight home. The time had come to enact my plan. I needed to capture Kushida.
 
 "Hey, do you have a minute?" I called out as she prepared to head back to the dorm. Kushida turned around.
 
 "Oh, it's unusual for you to come talk to me, Ayanokouji- kun. Do you need something?" she asked.
 
-> "Yeah. If it's okay with you, could we talk outside?"
+"Yeah. If it's okay with you, could we talk outside?"
 
 "Well, I was going to meet up with my friends, so I don't really have much time, but...okay."
 
@@ -3946,9 +3692,9 @@ Smiling, she followed me, not a trace of unpleasantness to be found. After we tu
 
 "Rejoice, Kushida. You've been selected as an ambassador of goodwill. Tomorrow, your hard work begins."
 
-> "Uh, what? I'm sorry, but what do you mean?" she asked.
+"Uh, what? I'm sorry, but what do you mean?" she asked.
 
-*Etc., etc., etc.* I basically explained to her that I wanted to form a study group to save Sudou and the others. Of course, I also told her that Horikita would be tutoring.
+Etc., etc., etc. I basically explained to her that I wanted to form a study group to save Sudou and the others. Of course, I also told her that Horikita would be tutoring.
 
 "I thought that you could use this study group as a way to get closer to Horikita. What do you think?" I asked.
 
@@ -3956,21 +3702,17 @@ Smiling, she followed me, not a trace of unpleasantness to be found. After we tu
 
 This girl was just way too good. She seemed to truly want to prevent Ike and Sudou's expulsion.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1866.png){width="0.33194444444444443in" height="0.18055555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1867.png){width="0.33194444444444443in" height="0.18055555555555555in"}
-
 "Are you really okay with this? If not, I won't force you to join," I said.
 
 "Ah, I'm sorry. I didn't hesitate because I disliked the idea. I hesitated because I was happy."
 
-> Kushida leaned against the wall, gently kicking it.
+Kushida leaned against the wall, gently kicking it.
 
 "It's cruel to expel someone for getting a bad grade. Isn't it awful to have to say goodbye after you've worked to become friends with everyone? When Hirata-kun told us that he was holding a study group, I greatly admired him. But you could say that Horikita has been much more observant than I. She noticed Sudou and those other guys, after all. It's like Horikita is now starting to think of her classmates as friends. I'll do anything I can to be useful!"
 
 Kushida took my hand and smiled. Whoa, she was seriously way too cute! There wasn't a man alive who wouldn't fall for that smile.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1870.png){width="0.2718963254593176in" height="0.1773950131233596in"}
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1871.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1872.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1873.png){width="8.260416666666666in" height="11.69375in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image63.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image64.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image65.png){width="8.260416666666666in" height="11.69375in"}
 
 I couldn't afford to get carried away, though. I tried to look safe and inoffensive.
 
@@ -3978,17 +3720,17 @@ I couldn't afford to get carried away, though. I tried to look safe and inoffens
 
 "Ah, but there's just one thing I want to ask you. I want to participate in the study group, too," Kushida said.
 
-> "Huh? Really?"
->
-> "Yes. I want to study with everyone."
+"Huh? Really?"
+
+"Yes. I want to study with everyone."
 
 My wishes had all come true. Kushida's presence would brighten our study group, which would otherwise be pretty glum. However, since she didn't get bad grades, there really wasn't a reason for her to be there.
 
-> "So then, when do we start?" she asked.
->
-> "We plan on starting tomorrow." In my mind, I added,
->
-> *Horikita does, at least*.
+"So then, when do we start?" she asked.
+
+"We plan on starting tomorrow." In my mind, I added,
+
+Horikita does, at least.
 
 "I see. Then I'll have to talk to everyone by the end of the day. I'll contact you later, okay?"
 
@@ -3996,65 +3738,55 @@ My wishes had all come true. Kushida's presence would brighten our study group, 
 
 "It's okay. I already have it. The only people whose numbers I don't have are you and Horikita-san, actually..."
 
-> Well, I hadn't known that.
+Well, I hadn't known that.
 
 "This might be too forward, but are you two already dating?" Kushida asked.
 
 "Wh-where did you hear that? Horikita and I are friends...no, just neighbors."
 
-> "It's a big rumor among the girls in our class, you know.
+"It's a big rumor among the girls in our class, you know.
 
-They say that even though Horikita-san is always alone, she only
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1877.png){width="0.31527777777777777in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1878.png){width="0.31527777777777777in" height="0.17847222222222223in"}
-
-seems to get along really well with you, Ayanokouji-kun. And you guys eat together, after all."
+They say that even though Horikita-san is always alone, she only seems to get along really well with you, Ayanokouji-kun. And you guys eat together, after all."
 
 Hmm, so the girls had already started spreading rumors about us.
 
 "That's a shame, because, unfortunately, there's nothing going on like that between me and Horikita."
 
-> "So, there's no problem swapping phone numbers, right?" "Not at all."
->
-> And so, I got another girl's number.
+"So, there's no problem swapping phone numbers, right?" "Not at all."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1881.png){width="0.33194444444444443in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1882.png){width="0.33194444444444443in" height="0.17847222222222223in"}
+And so, I got another girl's number.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1885.png){width="0.41180555555555554in" height="0.27708333333333335in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1886.png){width="0.41180555555555554in" height="0.27708333333333335in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1887.png){width="0.41180555555555554in" height="0.27708333333333335in"}
+**8.4**
 
-**I** WAS LAZING AROUND my room that night when I received a text message from Kushida.
+I WAS LAZING AROUND my room that night when I received a text message from Kushida.
 
-> *Yamauchi-kun and Ike-kun said okay! (*・*w*・*)b That was fast.*
+Yamauchi-kun and Ike-kun said okay! (・w・)b That was fast.
 
 Ike had waved me off when I'd tried to invite him earlier. A girl's presence had likely played a large part in changing his mind. Lust held unlimited power.
 
-> *I just contacted Sudou right now, but I have a good feeling about it!*
->
-> *(\^w\^)*
->
-> Another text message. Wow. At this rate, we'd probably get
+I just contacted Sudou right now, but I have a good feeling about it!
+
+(\^w\^)
+
+Another text message. Wow. At this rate, we'd probably get
 
 everyone together tomorrow. Because of these speedy developments, I thought it'd be a good idea to relay information to Horikita. I wrote a message basically saying I had Kushida's help, that Ike and Yamauchi had agreed to come, and that Kushida would also be participating. Then I sent the message to Horikita.
 
-> "All right. Time to take a bath, I think."
->
-> The moment I rose from my bed, Horikita called. "Hello?" I answered.
->
-> "I don't quite understand the message you just sent me," she
+"All right. Time to take a bath, I think."
+
+The moment I rose from my bed, Horikita called. "Hello?" I answered.
+
+"I don't quite understand the message you just sent me," she
 
 said.
 
-> "What do you mean you don't understand? I wrote it all out
+"What do you mean you don't understand? I wrote it all out
 
 plain as day, didn't I? I said those three guys would probably come tomorrow."
 
 "Not that part. The part about Kushida. I didn't know about that."
 
-"I asked her a little while ago. Having someone like Kushida on our side increases the odds of getting everyone together. So I
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1877.png){width="0.31666666666666665in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1891.png){width="0.31666666666666665in" height="0.17847222222222223in"}
-
-asked her, and now Sudou and Ike and Yamauchi are coming. Okay?"
+"I asked her a little while ago. Having someone like Kushida on our side increases the odds of getting everyone together. So I asked her, and now Sudou and Ike and Yamauchi are coming. Okay?"
 
 "I don't remember giving you permission to do that. Her grades aren't even failing."
 
@@ -4062,15 +3794,15 @@ asked her, and now Sudou and Ike and Yamauchi are coming. Okay?"
 
 "I don't like it. Shouldn't you have sought my approval first?"
 
-> "I understand that you hate outgoing people like Kushida.
+"I understand that you hate outgoing people like Kushida.
 
 But isn't this just a means to an end? Or would you prefer trying to gather everyone yourself?"
 
-> "Well..."
+"Well..."
 
 Horikita seemed to finally understand that getting Kushida on board was a good thing. But, being prideful, she couldn't simply agree to it.
 
-> "We don't have much time until the test, either.
+"We don't have much time until the test, either.
 
 Understand?"
 
@@ -4082,49 +3814,45 @@ Come to think of it, we really didn't have much time to make Horikita's plan wor
 
 "I will not allow her into our study group. I refuse to budge on this."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1893.png){width="0.33055555555555555in" height="0.21388888888888888in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1894.png){width="0.33055555555555555in" height="0.21388888888888888in"}
-
 "Is this about what happened at the café? Are you just getting back at Kushida for deceiving you?"
 
-> "This has nothing to do with that. She didn't fail the test.
+"This has nothing to do with that. She didn't fail the test.
 
 Inviting extra people will only mean more time spent and greater confusion."
 
 Although her argument sounded logical, I doubted that was her real reason for excluding Kushida.
 
-> "Do you openly dislike Kushida?" I asked.
+"Do you openly dislike Kushida?" I asked.
 
-"Don't *you* feel uncomfortable sitting next to someone you hate?"
+"Don't you feel uncomfortable sitting next to someone you hate?"
 
-> "Huh?"
+"Huh?"
 
 I didn't really understand what Horikita meant. Kushida had tried harder than anyone to befriend Horikita. I couldn't imagine why Horikita actually hated Kushida.
 
-> "Suppose the guys decide not to come if Kushida's out?"
+"Suppose the guys decide not to come if Kushida's out?"
 
 "Sorry, reviewing these test materials is taking longer than I expected. I'm ending the call here. Goodnight."
 
-> "Hey, wait!"
+"Hey, wait!"
 
 She hung up on me, as expected of a misanthrope. However, if we wanted to reach Class A, compromise was necessary. I plugged my phone into my charger and lay down, thinking through everything that had happened since the entrance ceremony.
 
-> "Defective product, huh?"
+"Defective product, huh?"
 
 That was what that second-year student had called us on our first day. In other words, we weren't just defective; we were fundamentally failing to serve our purpose. Those were the words they'd used to ridicule us. Even Horikita, who appeared flawless, probably had some defects of her own. I could kind of understand why she'd been angry today.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1897.png){width="0.31666666666666665in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1898.png){width="0.31666666666666665in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1588.png){width="0.31666666666666665in" height="0.17847222222222223in"}
-
-> "What should I do?"
+"What should I do?"
 
 Should I try to force Horikita? In the worst-case scenario, she'd leave. If Horikita didn't tutor the study group, it'd waste everyone's time. With a heavy heart, I called Kushida.
 
-> "Hello?"
->
-> I heard something like a strong wind blowing into the phone.
+"Hello?"
+
+I heard something like a strong wind blowing into the phone.
 
 It quickly died down, though.
 
-> "Were you drying your hair or something?" I asked. "Oh, sorry. Did you hear that? I just finished up, so don't
+"Were you drying your hair or something?" I asked. "Oh, sorry. Did you hear that? I just finished up, so don't
 
 worry."
 
@@ -4142,37 +3870,37 @@ I hadn't implied that, but Kushida had managed to pick up on it. "It has nothing
 
 "It's okay. I'm not particularly angry. Horikita seems to really dislike me, so I expected she'd refuse."
 
-> You could call it a woman's intuition.
+You could call it a woman's intuition.
 
 "Anyway, I'm sorry. It's my bad, since I came to you for help and all."
 
-> "It's okay. You don't have to apologize, Ayanokouji-kun.
+"It's okay. You don't have to apologize, Ayanokouji-kun.
 
 But, I...don't think that Horikita-san will be able to bring Sudou- kun and the others together by herself."
 
-> I couldn't deny it.
+I couldn't deny it.
 
 "Hey, what did Horikita-san say, though? Was she against me gathering people, or did she not want me to join the study group?"
 
 Kushida was so dead-on, it was like she'd been standing next to me when Horikita called.
 
-> "The latter. I'm really sorry to hurt your feelings."
+"The latter. I'm really sorry to hurt your feelings."
 
 "Ahh, it's okay. Really, don't apologize, Ayanokouji-kun. Horikita-san has this kind of impenetrable aura around her, like she won't let people get close to her. I expected this."
 
-> She was way too perceptive.
+She was way too perceptive.
 
 "Everyone agreed to join because I said I'd participate, though... Couldn't you have just lied and told me that I couldn't join? I'm worried that if they know I'm not coming now, the guys will probably get mad at Horikita-san..."
 
-> Kushida scared me a bit. Nothing escaped her. "Could you leave things to me this time?" she asked. "Leave it to you?"
+Kushida scared me a bit. Nothing escaped her. "Could you leave things to me this time?" she asked. "Leave it to you?"
 
 "I'll bring everyone over tomorrow. Of course, I'll be coming along, too."
 
-> "That's---" I started.
+"That's---" I started.
 
 "It'll be okay. Or can you solve all of these problems, Ayanokouji-kun? You know, gather everyone together without me?"
 
-> Unfortunately, such a thing was probably impossible.
+Unfortunately, such a thing was probably impossible.
 
 "I understand. I'll leave it to you, then. I don't really know what's going to happen, though."
 
@@ -4184,13 +3912,11 @@ Horikita relentlessly opposed anyone she didn't like, regardless of who they wer
 
 I decided to stop thinking about tomorrow. No matter how much I agonized over it, tomorrow would come, and it would eventually end. Things would work out, somehow.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1905.png){width="0.3638888888888889in" height="0.13541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1906.png){width="0.3638888888888889in" height="0.13541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1907.png){width="0.3638888888888889in" height="0.13541666666666666in"}
+**8.5**
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1911.png){width="0.3902777777777778in" height="0.28194444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1912.png){width="0.3902777777777778in" height="0.28194444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1913.png){width="0.3902777777777778in" height="0.28194444444444444in"}
+Horikita had been sullen all morning. It would've been nice if she got adorable when she was angry. If she puffed out her reddened cheeks, she'd be cute enough to make any man would swoon. However, she remained expressionless and silent, refusing to acknowledge my existence. If I were to ignore her, though, she'd probably take out her compass. After an especially long day, we finally finished class.
 
-**H**orikita had been sullen all morning. It would've been nice if she got adorable when she was angry. If she puffed out her reddened cheeks, she'd be cute enough to make any man would swoon. However, she remained expressionless and silent, refusing to acknowledge my existence. If I were to ignore her, though, she'd probably take out her compass. After an especially long day, we finally finished class.
-
-> "Have you gathered everyone in the study group?"
+"Have you gathered everyone in the study group?"
 
 Her first words to me included "study group." She was most definitely implying something.
 
@@ -4198,11 +3924,11 @@ Her first words to me included "study group." She was most definitely implying s
 
 "Kushida-san, hmm? I thought I specified that she wasn't allowed to participate..."
 
-> Satisfied, Horikita left for the library, and I followed.
+Satisfied, Horikita left for the library, and I followed.
 
 Kushida gave me a too-cute wink as I left. Together, Horikita and I secured a long table at the far end of the library and waited for the others.
 
-> "I've brought everyone!"
+"I've brought everyone!"
 
 Kushida came over to where we were seated. Behind her was...
 
@@ -4210,9 +3936,7 @@ Kushida came over to where we were seated. Behind her was...
 
 Ike, Yamauchi, and Sudou had all shown up. However, they'd brought an unexpected visitor, a boy named Okitani.
 
-> "Huh? Okitani, you failed, too?" I asked.
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1917.png){width="0.3055555555555556in" height="0.13541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1918.png){width="0.3055555555555556in" height="0.13541666666666666in"}
+"Huh? Okitani, you failed, too?" I asked.
 
 "Oh, n-no. Not exactly. I was just really close to failing, so I was worried... Is it not, er, okay for me to join you? It's a little difficult to join Hirata's group..." Okitani looked up at me, puffing out his cute, slightly reddened cheeks. He was slender, with blue hair cut in a short bob. A boy attracted to anything feminine might have shouted "I'm in love!" right away. If Okitani weren't a man, it would have been dangerous.
 
@@ -4220,27 +3944,27 @@ Ike, Yamauchi, and Sudou had all shown up. However, they'd brought an unexpected
 
 "As long as you're worried about failing, I don't mind. But you need to be serious," Horikita said.
 
-> "Oh, okay."
+"Oh, okay."
 
 Okitani sat down, seemingly happy. Kushida tried to sit next to him, which Horikita certainly noticed.
 
-> "Kushida-san, did Ayanokouji-kun not tell you? You---" "I'm also worried about getting a bad grade," Kushida said. "You...didn't score badly on the small test."
+"Kushida-san, did Ayanokouji-kun not tell you? You---" "I'm also worried about getting a bad grade," Kushida said. "You...didn't score badly on the small test."
 
 "Yes, but to tell you the truth, I was lucky. There were lots of multiple-choice questions, you know? So I guessed about half of them. In truth, I just barely passed."
 
-> Kushida giggled adorably, lightly scratching her cheek.
+Kushida giggled adorably, lightly scratching her cheek.
 
 "I think that I'm about on the same level as Okitani-kun, if not slightly worse. So I want to join the study group to avoid getting a bad grade. That's okay, right?"
 
-I couldn't hide my surprise at Kushida's unexpected scheme. She'd first confirmed that Okitani could join the study group, then turned the tables on Horikita. Now Horikita would *have* to permit her to join.
+I couldn't hide my surprise at Kushida's unexpected scheme. She'd first confirmed that Okitani could join the study group, then turned the tables on Horikita. Now Horikita would have to permit her to join.
 
-> "Fine," Horikita growled.
+"Fine," Horikita growled.
 
 "Thank you." Kushida smiled, bowed, and took her seat. Bringing Okitani had probably been part of her plan all along. She'd effectively used him to justify joining the group.
 
 "Scoring lower than thirty-two means failing. Do you fail if you get exactly thirty-two points, though?" Sudou asked.
 
-> "No, you're safe if you score at least thirty-two points.
+"No, you're safe if you score at least thirty-two points.
 
 Sudou, you can manage that, right?" Ike said.
 
@@ -4248,7 +3972,7 @@ Even Ike was worried about Sudou. Of course those guys would want to know the ex
 
 "It doesn't really matter. My goal is for everyone to score fifty," Horikita said.
 
-> "Gah, isn't that going to be too tough?"
+"Gah, isn't that going to be too tough?"
 
 "Aiming to just skate by is dangerous. The fact that you can't easily reach that threshold troubles me."
 
@@ -4264,19 +3988,19 @@ A problem with simultaneous equations, huh? The first test question should have 
 
 "Try thinking about it. If you give up right at the beginning, you won't get anywhere."
 
-> "Look, I don't know how to study at all," Sudou said. "Everyone got into this school."
+"Look, I don't know how to study at all," Sudou said. "Everyone got into this school."
 
 This school didn't accept people based solely on test scores, though. Sudou had most likely been accepted because of his exceptional physical ability. If you looked at it that way, wouldn't he likely be expelled because of bad grades?
 
 "Ugh, I don't get it either." Ike, equally bewildered, scratched his head.
 
-> "Do you understand, Okitani-kun?" Horikita asked.
+"Do you understand, Okitani-kun?" Horikita asked.
 
 "Let's see... A plus B plus C is 2,150 yen. So, A equals B plus 120. Then..." Okitani started writing out a series of equations. Kushida, seated next to him, glanced over her shoulder.
 
-> "Yeah, yeah, that looks right. Then what?"
->
-> You could certainly call Kushida bold, or even audacious.
+"Yeah, yeah, that looks right. Then what?"
+
+You could certainly call Kushida bold, or even audacious.
 
 She'd claimed to have just barely avoided failing, and she was now teaching Okitani.
 
@@ -4286,21 +4010,17 @@ She'd claimed to have just barely avoided failing, and she was now teaching Okit
 
 "Like Horikita-san said, it'll be bad if you get tripped up here. The math problems on the short test were about this difficult, but the last problems were really tough. I didn't understand how to solve them," Okitani said.
 
-"Listen up. This can be easily solved using a system of simultaneous equations." Without hesitation, Horikita picked up
+"Listen up. This can be easily solved using a system of simultaneous equations." Without hesitation, Horikita picked up her pen and got to work. Unfortunately, it looked like only Kushida and Okitani understood.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1927.png){width="0.3638888888888889in" height="0.17222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1928.png){width="0.3638888888888889in" height="0.17222222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1929.png){width="0.3638888888888889in" height="0.17222222222222222in"}
+"What even are simultaneous equations?" asked Ike. "Are you seriously asking me that?" said Horikita.
 
-her pen and got to work. Unfortunately, it looked like only Kushida and Okitani understood.
-
-> "What even *are* simultaneous equations?" asked Ike. "Are you seriously asking me that?" said Horikita.
->
-> Wow, these guys had really never studied at all, it seemed.
+Wow, these guys had really never studied at all, it seemed.
 
 Sudou threw his mechanical pencil onto the desk. "Stop. I'm done. This isn't going to work."
 
 Sudou had quit before we could even begin. Horikita quietly seethed at this pitiful display.
 
-"W-wait, everyone. Let's give it a shot. If you learn how to solve *these* problems, you can apply what you learn to the questions on the test. Okay? Okay?" Kushida said.
+"W-wait, everyone. Let's give it a shot. If you learn how to solve these problems, you can apply what you learn to the questions on the test. Okay? Okay?" Kushida said.
 
 "Well, if Kushida-chan says so, I guess I can try. But if Kushida-chan were teaching, I'd probably try even harder."
 
@@ -4310,13 +4030,13 @@ Sudou had quit before we could even begin. Horikita quietly seethed at this piti
 
 Quickly, she wrote down three equations. It looked like the others were trying their best, but it still seemed hopeless. This was more like detention than a study group. They didn't seem to understand her methods in the slightest.
 
-> "So, the answer I got is 710 yen. What did you get?"
+"So, the answer I got is 710 yen. What did you get?"
 
 Kushida, confident in Sudou's ability to follow along, flashed him a smile.
 
-> "Um, so you used this to get the answer? How?" he asked.
->
-> "Uh..." Kushida immediately realized what had happened.
+"Um, so you used this to get the answer? How?" he asked.
+
+"Uh..." Kushida immediately realized what had happened.
 
 None of them understood.
 
@@ -4330,7 +4050,7 @@ None of them understood.
 
 "Academics will be useless in the future? That's an interesting argument. How do you justify that?"
 
-> "I don't care if I can't solve this problem. Studying's useless.
+"I don't care if I can't solve this problem. Studying's useless.
 
 Aiming to become a pro basketball player will help me a lot more."
 
@@ -4344,7 +4064,7 @@ Aiming to become a pro basketball player will help me a lot more."
 
 Furthermore, even if you managed to become a professional player, I doubt you'd earn an annual income sufficient to live on. You're a fool to have such unreasonable aspirations."
 
-> "You!"
+"You!"
 
 It was clear that Sudou was on the brink of losing control. If he raised his fist, I'd have to wrestle him down.
 
@@ -4352,9 +4072,9 @@ It was clear that Sudou was on the brink of losing control. If he raised his fis
 
 "Hmph. That's just fine. I'll quit, but it's not because it's difficult. I took a day off from my club activities for this, and it ended up being a complete waste of time. Later!" Sudou said.
 
-"What an odd thing to say. Studying *is* difficult." Horikita took a parting shot at Sudou. If Kushida weren't there, Sudou probably would have smacked Horikita. He stuffed his textbooks into his bag, not even hiding his irritation.
+"What an odd thing to say. Studying is difficult." Horikita took a parting shot at Sudou. If Kushida weren't there, Sudou probably would have smacked Horikita. He stuffed his textbooks into his bag, not even hiding his irritation.
 
-> "Hey, are you okay?"
+"Hey, are you okay?"
 
 "I don't care. It's pointless to care about someone who lacks any motivation whatsoever. Even though he's facing expulsion, he has no will to fight."
 
@@ -4362,43 +4082,41 @@ It was clear that Sudou was on the brink of losing control. If he raised his fis
 
 "So, you lack the courage to hit me? Don't use my gender as an excuse," Horikita said.
 
-> The newly assembled study group was already falling apart.
+The newly assembled study group was already falling apart.
 
 "I'm quitting, too. Partly 'cause I can't deal with studying, but mostly 'cause I'm annoyed. You might be smart, Horikita-san, but that doesn't mean you can act like you're better than us." Ike, clearly fed up, threw in the towel as well.
 
 "I don't care if you get expelled. Do what you want," Horikita shot back.
 
-> "Well, I'll just pull an all-nighter."
->
-> "Interesting. Didn't you come here because you can't study?" "Tch..." Even the typically easygoing Ike stiffened under the
+"Well, I'll just pull an all-nighter."
+
+"Interesting. Didn't you come here because you can't study?" "Tch..." Even the typically easygoing Ike stiffened under the
 
 sting of Horikita's barbed comments. Yamauchi started putting his textbook away as well. Finally, the easily influenced Okitani got out of his seat.
 
-> "I-Is this really okay, everyone?" he stammered. "Let's go, Okitani."
+"I-Is this really okay, everyone?" he stammered. "Let's go, Okitani."
 
 Ike left the library, trailed by the hesitant Okitani. Now only Kushida, Horikita, and I remained. Soon, even Kushida would probably reach her limit and leave.
 
 "Horikita-san, we're not going to be able to study with anyone if things continue like this..." Kushida murmured.
 
-"I was certainly mistaken. Even if I'd helped them avoid failure this time, we would've faced a similar dilemma soon after. We'd have to go through this irritation all over again. Eventually,
+"I was certainly mistaken. Even if I'd helped them avoid failure this time, we would've faced a similar dilemma soon after. We'd have to go through this irritation all over again. Eventually, they'll fail. I finally understand how unproductive this was. I don't have the time for it."
 
-they'll fail. I finally understand how unproductive this was. I don't have the time for it."
+"Wait, what do you mean?"
 
-> "Wait, what do you mean?"
->
-> "I mean that it's better to get rid of the dead weight."
+"I mean that it's better to get rid of the dead weight."
 
 That was Horikita's ultimate conclusion. If the failing students were expelled, then the class's average test scores would go up, and we wouldn't have to expend any extra effort.
 
 "So, that's... H-hey, Ayanokouji-kun. Can you say something?" Kushida murmured.
 
-> "If that's Horikita's answer, then isn't it fine?" "You think so too, Ayanokouji-kun?"
+"If that's Horikita's answer, then isn't it fine?" "You think so too, Ayanokouji-kun?"
 
 "Well, I don't want to toss them to the wolves or anything, but I'm not the tutor. There's nothing I can do about it." In the end, I felt similarly to Horikita.
 
 "Okay. I see." Kushida grabbed her bag and stood up, her expression darkening. "I'm going to do something. Well, I'll try. I definitely don't want everything to fall apart so quickly."
 
-> "Kushida-san. Do you really feel that way?"
+"Kushida-san. Do you really feel that way?"
 
 "Is it wrong? I don't want to abandon Sudou-kun, Ike-kun, and Yamauchi-kun."
 
@@ -4406,29 +4124,25 @@ That was Horikita's ultimate conclusion. If the failing students were expelled, 
 
 "What? I don't understand. Why do you say things like that, Horikita-san? Why do you try to antagonize people? That's...very sad."
 
-> Kushida hung her head briefly, then looked back up at us.
+Kushida hung her head briefly, then looked back up at us.
 
 She met our eyes.
 
-> "Well then. I'll see you two tomorrow," she whispered.
+"Well then. I'll see you two tomorrow," she whispered.
 
 With that, Kushida left. Suddenly, it was just the two of us again. We sat in the complete silence of the library.
 
-> "Well, that was painful. The study group's already over," I
-
-said.
+"Well, that was painful. The study group's already over," I said.
 
 "Looks that way."
 
 The quiet grew almost oppressive.
 
-"I suppose you were the only one who understood me,
+"I suppose you were the only one who understood me, Ayanokouji-kun. You're at least somewhat better than those worthless idiots. If there's some subject you're struggling with, I could teach you."
 
-Ayanokouji-kun. You're at least somewhat better than those worthless idiots. If there's some subject you're struggling with, I could teach you."
+"I'll pass, thank you."
 
-> "I'll pass, thank you."
->
-> "Are you going back to your dorm?" she asked.
+"Are you going back to your dorm?" she asked.
 
 "I'm going to find Sudou and the others and have a chat with them."
 
@@ -4438,55 +4152,47 @@ Ayanokouji-kun. You're at least somewhat better than those worthless idiots. If 
 
 "How incredibly selfish. You call them your friends, yet you simply stand by and watch as they're expelled. From my point of view, you're cruel."
 
-> Well, I certainly couldn't deny that. Horikita wasn't wrong.
+Well, I certainly couldn't deny that. Horikita wasn't wrong.
 
 In the end, studying was just the test of an individual's self- motivation.
 
-"I won't deny what you've said. I can also understand why you'd call someone like Sudou stupid. However, Horikita, shouldn't you try to understand Sudou's situation? If he only hoped to become a professional basketball player, then choosing this school in the first place makes little sense. Don't you think
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1939.png){width="0.3138888888888889in" height="0.13541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1918.png){width="0.3138888888888889in" height="0.13541666666666666in"}
-
-you'd understand him better if you considered his reasons for enrolling?"
+"I won't deny what you've said. I can also understand why you'd call someone like Sudou stupid. However, Horikita, shouldn't you try to understand Sudou's situation? If he only hoped to become a professional basketball player, then choosing this school in the first place makes little sense. Don't you think you'd understand him better if you considered his reasons for enrolling?"
 
 "Not interested." Horikita dismissed me and returned to her textbook. Alone.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1941.png){width="0.25555555555555554in" height="0.1284722222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1942.png){width="0.25555555555555554in" height="0.1284722222222222in"}
+**8.6**
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1945.png){width="0.4083333333333333in" height="0.22847222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1946.png){width="0.4083333333333333in" height="0.22847222222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1947.png){width="0.4083333333333333in" height="0.22847222222222222in"}
-
-**I** left the library and chased after Kushida. I wanted to thank for her working so hard to get the study group together, and to apologize. Besides, I wanted to do everything possible to get along with such a cute girl, you know?
+I left the library and chased after Kushida. I wanted to thank for her working so hard to get the study group together, and to apologize. Besides, I wanted to do everything possible to get along with such a cute girl, you know?
 
 Whipping out my cell phone, I pulled up Kushida's contact information. Although it was my second time calling, I felt nervous contacting her. The phone rang twice, then three times. However, she didn't pick up. Did she not notice me calling? Or was she refusing to answer it?
 
-Kushida wasn't around campus, so I continued to search for her. When I got inside the school, I glimpsed someone who looked like Kushida from behind. It was already around six PM, so the only people here should've been involved in club activities. Well, this *was* Kushida we were talking about. She was probably waiting for one of her good friends to finish club stuff.
+Kushida wasn't around campus, so I continued to search for her. When I got inside the school, I glimpsed someone who looked like Kushida from behind. It was already around six PM, so the only people here should've been involved in club activities. Well, this was Kushida we were talking about. She was probably waiting for one of her good friends to finish club stuff.
 
 I decided to keep up the chase. If she were busy, I'd talk to her again later. Bearing that in mind, I pressed on. I took out a pair of indoor shoes from the cubicles in the hallway, but didn't see Kushida. Had I lost her? I thought I had, until I heard the faint clack of shoes.
 
 I followed her up the stairs to the second floor. The sound of footsteps continued up to the third floor. The next level after that was the roof, wasn't it? Students were free to use the roof during lunchtime, but it should've been locked after class. While I thought it strange, I went up the stairs, trying to hide my presence as best I could in case she was meeting with someone. Then, I stopped partway.
 
-> Someone was up there.
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1951.png){width="0.2986111111111111in" height="0.1284722222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1952.png){width="0.2986111111111111in" height="0.1284722222222222in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1953.png){width="0.2986111111111111in" height="0.1284722222222222in"}
+Someone was up there.
 
 I gently leaned against the handrail and peeked through a crack in the rooftop door. Through the opening, I glimpsed Kushida. No one else was with her. Was she waiting for someone?
 
 A rendezvous at such a secluded place... Could she possibly be waiting for her boyfriend? If that were the case, I could end up cornered on all sides. While I agonized over how to sneak away, Kushida slowly set her bag down on the ground.
 
-> And then...
->
-> "Ahhh, so annoying!"
->
-> Her voice was so low that it didn't sound at all like Kushida. "She's seriously annoying! God, how irritating. It'd be better
->
-> if she just *died*..."
+And then...
+
+"Ahhh, so annoying!"
+
+Her voice was so low that it didn't sound at all like Kushida. "She's seriously annoying! God, how irritating. It'd be better
+
+if she just died..."
 
 She grumbled to herself, as if chanting the words to some kind of spell or curse.
 
-> "Ugh, I hate stuck-up, snobby girls who think they're so cute.
+"Ugh, I hate stuck-up, snobby girls who think they're so cute.
 
 Why is she such a harpy? A rotten girl like her couldn't possibly tutor me."
 
-> Was Kushida annoyed with...Horikita?
+Was Kushida annoyed with...Horikita?
 
 "Ah, she's the worst! She's just the worst, the worst, the worst! Horikita, you're so annoying! You're so damn annoying!"
 
@@ -4494,29 +4200,27 @@ I felt like I'd glimpsed another side of this gentle girl, the most popular pers
 
 However, an odd question arose. Why had she agreed to work with me if she felt such hatred toward Horikita? Kushida should have understood Horikita's personality and behavior perfectly well by now. She could have refused to help, or just left the study group to Horikita, or otherwise washed her hands of involvement.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1957.png){width="0.2972222222222222in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1958.png){width="0.2972222222222222in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1959.png){width="0.2972222222222222in" height="0.17847222222222223in"}
-
 Why force herself into the study group? Did she want to get along with Horikita? Or did she want to become closer to another participant?
 
-> None of it made sense. I couldn't explain her reasoning.
+None of it made sense. I couldn't explain her reasoning.
 
 No. She may have shown signs of this from the very beginning. I hadn't really thought about it before, but considering the state she was in right now, I had a hunch. Perhaps, Kushida and Horikita were...
 
 At any rate, I needed to get away from there. Kushida probably didn't want anyone else to hear her diatribe. Still hiding, I quickly tried to leave.
 
-> *Thump*!
+Thump!
 
 I'd kicked the door much louder than I'd anticipated. It'd been unexpectedly loud, really. Kushida tensed and stopped breathing. I'd instantly become her enemy. Turning, Kushida set her sights on me. I'd been seen.
 
 After a brief silence, Kushida coldly asked, "What...are you...doing here?"
 
-> "I got a little lost. Sorry. My bad, my bad. I'll be going now."
+"I got a little lost. Sorry. My bad, my bad. I'll be going now."
 
 Kushida looked straight at me, clearly seeing through my obvious lie. I'd never seen such an intense gaze before.
 
-> "Did you hear?" she asked.
->
-> "Would you believe me if I said I didn't?" I replied. "I see..."
+"Did you hear?" she asked.
+
+"Would you believe me if I said I didn't?" I replied. "I see..."
 
 Kushida briskly walked down the stairs. She placed her left forearm against the base of my throat, and pushed me up against the wall. Her tone of voice, her actions, everything about her was completely unlike the Kushida I knew. This new Kushida wore a terrifying expression, one that I could almost compare to Horikita's.
 
@@ -4524,11 +4228,9 @@ Kushida briskly walked down the stairs. She placed her left forearm against the 
 
 Her words were ice, and I didn't think they were an idle threat.
 
-> "And if I did tell?"
->
-> "In that case, I would tell everyone that you raped me," she
+"And if I did tell?"
 
-said.
+"In that case, I would tell everyone that you raped me," she said.
 
 "That's a false charge, you know." "That's okay. It wouldn't be false."
 
@@ -4540,19 +4242,19 @@ As she spoke, Kushida grabbed my right wrist and slowly opened my hand. She push
 
 "Your fingerprints are on my clothes. That's evidence of my claim. I'm being serious. Understand?"
 
-> "I understand. I really do. So let go of my hand."
+"I understand. I really do. So let go of my hand."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1967.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1968.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1969.png){width="8.260416666666666in" height="11.69375in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image69.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image70.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image71.png){width="8.260416666666666in" height="11.69375in"}
 
 "I'm going to leave this uniform in my room without washing it. If you betray me, I'll hand it over to the police."
 
 I glared at Kushida for a while as she kept my hand pressed against her.
 
-> "It's a promise," she said.
+"It's a promise," she said.
 
 Kushida stepped away from me. Even though this was the first time I had felt a girl's breasts, I found I couldn't remember the sensation.
 
-> "Hey, Kushida. Which is the real you?" "That's none of your business."
+"Hey, Kushida. Which is the real you?" "That's none of your business."
 
 "I see. Well, I was wondering something. If you hate Horikita, then you don't need to involve yourself with her, right?"
 
@@ -4560,19 +4262,17 @@ I knew she probably wouldn't like that question, but I was curious about her mot
 
 "Is it bad to want everyone to like you? Do you understand how difficult it is to accomplish that? You can't know, can you?" she asked.
 
-> "Well, I don't have that many friends, so I guess not."
+"Well, I don't have that many friends, so I guess not."
 
 Ever since the first day of school, Kushida had made an effort to exchange contact information with, invite out, and, of course, talk with the pessimistic Horikita. One could easily imagine how difficult and time-consuming that would be.
 
 "At least on the surface, I wanted to appear to get along with Horikita."
 
-> "But the stress of that just kept building, huh?"
+"But the stress of that just kept building, huh?"
 
 "Yeah. That's what I want out of life, though. That way, my existence has meaning." She answered without hesitation.
 
 Kushida had a singular way of thinking. Her own internal rules demanded she get close to Horikita.
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1973.png){width="0.2986111111111111in" height="0.1701388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1964.png){width="0.2986111111111111in" height="0.1701388888888889in"}
 
 "Let me tell you something, while I have the chance. I absolutely despise gloomy, ordinary guys like you."
 
@@ -4582,31 +4282,31 @@ However, I felt like Kushida was both telling the truth and lying right now.
 
 "I'm just speculating, but did you and Horikita know each other before this year? Maybe you both attended the same school in the past?"
 
-> The instant I said it, Kushida shuddered in response.
+The instant I said it, Kushida shuddered in response.
 
 "What the... I don't know what you mean. Did Horikita-san say something about me?" she snapped.
 
 "No, I had the impression that this was the first time you'd met. But something seemed strange."
 
-> "Strange?"
->
-> I recalled the first time Kushida had spoken to me.
+"Strange?"
+
+I recalled the first time Kushida had spoken to me.
 
 "You learned my name only when I first introduced myself, right?"
 
-> "So what?" Kushida responded flatly.
+"So what?" Kushida responded flatly.
 
 "Well, where did you learn Horikita's name? Back then, she hadn't introduced herself to anyone yet. The only person who knew was Sudou, but I doubt you'd met him by then."
 
 In other words, Kushida wouldn't have had the chance to learn Horikita's name.
 
-> "You got close to me so you could spy on her, right?"
->
-> "Just shut up. Hearing you talk irritates me, Ayanokouji-kun.
+"You got close to me so you could spy on her, right?"
+
+"Just shut up. Hearing you talk irritates me, Ayanokouji-kun.
 
 I only want to know one thing. Do you swear you'll never tell anyone what you learned here today?"
 
-> "I swear. Even if I did, it's not like anyone would believe me.
+"I swear. Even if I did, it's not like anyone would believe me.
 
 Right?"
 
@@ -4614,19 +4314,19 @@ The entire class trusted and loved Kushida. The difference between us was like n
 
 "Okay. I believe you, Ayanokouji-kun." Kushida closed her eyes and slowly exhaled. "Horikita-san is rather unusual, isn't she?"
 
-> "Yes, I'd say she's really unusual."
+"Yes, I'd say she's really unusual."
 
 "Other people don't influence her, or rather, she keeps her distance from everyone else. She's the complete opposite of me."
 
-> Kushida and Horikita really *were* polar opposites.
+Kushida and Horikita really were polar opposites.
 
 "You know, Ayanokouji-kun, you're the only one that Horikita-san opens up to."
 
-> "Wait a minute. She doesn't open up to me. Absolutely not."
+"Wait a minute. She doesn't open up to me. Absolutely not."
 
 "Even so, she seems to trust you more than anyone else. Out of all the people I've ever met, Horikita seems the most wary of others and yet also the most self-confident. She certainly wouldn't trust anyone worthless, even if they were unbelievably kind."
 
-> "So, you think she has good instincts for people?"
+"So, you think she has good instincts for people?"
 
 "That's why I said I believed you. Ayanokouji-kun, you're fundamentally indifferent to other people, aren't you?"
 
@@ -4642,109 +4342,105 @@ Ah, so that's what she was talking about. She'd picked up on what was happening 
 
 "Well, that's... I was really flustered. I panicked for a second."
 
-> Her stern expression melted into one of impatience.
+Her stern expression melted into one of impatience.
 
 "So, Kushida, would I be right to think of you as the kind of girl who lets guys touch her breasts?"
 
 She kicked my thigh as hard she could. Panicking, I grabbed the railing.
 
-> "Hey, watch it! I could've fallen and gotten seriously hurt!"
+"Hey, watch it! I could've fallen and gotten seriously hurt!"
 
 "I kicked you because you said something stupid!" Kushida snapped, her face flushed from anger.
 
-> "Hey, wait a minute."
+"Hey, wait a minute."
 
 She still looked furious. Kushida tromped back up the stairs, grabbed her bag, then returned wearing a huge grin.
 
-> "Let's head back together," she said brightly. "Oh. Sure."
+"Let's head back together," she said brightly. "Oh. Sure."
 
-Her attitude had drastically changed, like something out of *Dr. Jekyll & Mr. Hyde*. It was so drastic that I wondered whether I'd had a bad dream. She was her usual sunny self once more. I couldn't tell which Kushida was the real one.
+Her attitude had drastically changed, like something out of Dr. Jekyll & Mr. Hyde. It was so drastic that I wondered whether I'd had a bad dream. She was her usual sunny self once more. I couldn't tell which Kushida was the real one.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1979.png){width="0.35in" height="0.13541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1980.png){width="0.35in" height="0.13541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1981.png){width="0.35in" height="0.13541666666666666in"}
+**8.7**
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1985.png){width="0.39166666666666666in" height="0.27708333333333335in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1986.png){width="0.39166666666666666in" height="0.27708333333333335in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1987.png){width="0.39166666666666666in" height="0.27708333333333335in"}
+I wondered what was going to happen with Class D. Honestly, part of me felt like these were other people's problems. Back in my room, I started to watch some kind of variety show with a feeling of complete apathy. Glancing at my phone, I saw I had a message from the group chat.
 
-**I** wondered what was going to happen with Class D. Honestly, part of me felt like these were other people's problems. Back in my room, I started to watch some kind of variety show with a feeling of complete apathy. Glancing at my phone, I saw I had a message from the group chat.
+The message read, Satou's joining the group. Satou was a particularly high-spirited girl in our class.
 
-> The message read, *Satou's joining the group.* Satou was a particularly high-spirited girl in our class.
->
-> *Hiya! Ike-kun invited me to join when we were talking earlier.*
+Hiya! Ike-kun invited me to join when we were talking earlier.
 
 With nothing to contribute, I didn't respond and continued reading.
 
-> *I heard about what happened today. Horikita is really frustrating,*
->
-> *huh?*
->
-> *I was really pissed at her. Sudou was super mad. He almost lost it. I*
->
-> *think he would've hit her.*
->
-> *If I see her tomorrow,* I *might hit her. I was really annoyed with her today.*
->
-> *Aha ha ha, it'll be a big problem if you hit her lol. That would be overkill!*
->
-> *Hey, I have an idea. Starting tomorrow, how about we completely ignore her?*
->
-> *Ha, I've always ignored her (lol)*
->
-> *I kind of want to hit her with some payback. Bully her a little and make her cry, you know? Do something like hide her shoes.*
->
-> *Ha ha, what are you, kids? Lol lol lol but I do kind of want to see her squirm.*
+I heard about what happened today. Horikita is really frustrating, huh?
+
+I was really pissed at her. Sudou was super mad. He almost lost it. I
+
+think he would've hit her.
+
+If I see her tomorrow, I might hit her. I was really annoyed with her today.
+
+Aha ha ha, it'll be a big problem if you hit her lol. That would be overkill!
+
+Hey, I have an idea. Starting tomorrow, how about we completely ignore her?
+
+Ha, I've always ignored her (lol)
+
+I kind of want to hit her with some payback. Bully her a little and make her cry, you know? Do something like hide her shoes.
+
+Ha ha, what are you, kids? Lol lol lol but I do kind of want to see her squirm.
 
 Soon after Satou joined the group chat, Horikita became the main topic of discussion.
 
-> *Hey, Ayanokouji-kun, you want in on bullying Horikita lol*
->
-> *Nah, Ayanokouji-kun is all obsessed with her, so he probably can't. Hey, whose side are you on? Ours or Horikita's?*
->
-> I supposed everyone's irritation with Horikita was inevitable.
+Hey, Ayanokouji-kun, you want in on bullying Horikita lol
+
+Nah, Ayanokouji-kun is all obsessed with her, so he probably can't. Hey, whose side are you on? Ours or Horikita's?
+
+I supposed everyone's irritation with Horikita was inevitable.
 
 If you treated others the way Horikita did, you'd inevitably be disliked. But hitting her would be going too far, and I couldn't understand how anyone might condone ignoring her or hiding her things. That was bullying, and acting like that would leave little difference between them and Horikita.
 
-> *Hey, you're reading the chat, right? Hey! Ayanokouji-kun, whose side are you on?*
->
-> *I'm on no one's side. If you guys want to bully her, I won't stop you. So, you're neutral. That's the craftiest answer lol.*
->
-> *Think whatever you want, but you won't gain anything from this. If the school learns you're bullying her, it'll cause trouble for you. Keep that in mind.*
->
-> *So, you're sticking up for Horikita, huh? Ha ha.*
+Hey, you're reading the chat, right? Hey! Ayanokouji-kun, whose side are you on?
+
+I'm on no one's side. If you guys want to bully her, I won't stop you. So, you're neutral. That's the craftiest answer lol.
+
+Think whatever you want, but you won't gain anything from this. If the school learns you're bullying her, it'll cause trouble for you. Keep that in mind.
+
+So, you're sticking up for Horikita, huh? Ha ha.
 
 Because we couldn't see each other face to face, it was easier for them to be jerks. If Ike and I were having this conversation in person, I doubted he'd act this way.
 
 However, by focusing their anger on Horikita, the others were building solidarity. It would be a waste of time to continue pointlessly chatting like this. I decided to bring this conversation to a halt.
 
-> *If Kushida heard about this, she'd probably hate you. Lol.*
+If Kushida heard about this, she'd probably hate you. Lol.
 
 After I sent that message, I closed my phone. I received an immediate response but left it alone. Those guys probably wouldn't do anything stupid, and Satou likely wouldn't do anything without the others' cooperation.
 
-I opened my window, listening to the insects buzzing from the nearby trees. Did the *kubikirigisu* grasshoppers make that high- pitched chirping, I wondered? The gentle night breeze rattled my window.
+I opened my window, listening to the insects buzzing from the nearby trees. Did the kubikirigisu grasshoppers make that high- pitched chirping, I wondered? The gentle night breeze rattled my window.
 
 I'd met Horikita on the day of the entrance ceremony. We'd just so happened to be placed in the same class, and then I was assigned the seat next to hers. Before I knew it, I'd become friends with Sudou and Ike. On top of that, I'd been caught in the school's trap and knocked all the way down to rock bottom. Horikita had tried to help repair our situation, but her personality had ruined everything, further pushing her into isolation. Now, other people grew excited at the thought of bullying her.
 
 I should've been at the center of this situation, and yet I felt like I was drifting past it.
 
-> No, drifting's the wrong word. It wasn't a pleasant situation.
+No, drifting's the wrong word. It wasn't a pleasant situation.
 
 I felt like I was in a haze, because I didn't know the urgency of near-expulsion. This was everyone else's problem, not mine, so it just didn't register as important.
 
-> "Only a fool wouldn't use his innate abilities." Those words stuck in my head.
->
-> "A fool, huh? I wonder if that's what I am, after all."
+"Only a fool wouldn't use his innate abilities." Those words stuck in my head.
+
+"A fool, huh? I wonder if that's what I am, after all."
 
 As I closed the window, the television's cacophonous laughter pierced my ears.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1995.png){width="0.41180555555555554in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1996.png){width="0.41180555555555554in" height="0.22708333333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1997.png){width="0.41180555555555554in" height="0.22708333333333333in"}
+**8.8**
 
-**I** couldn't get to sleep, so I got up and left. I bought some juice from the lobby's vending machine and headed back for the elevator.
+I couldn't get to sleep, so I got up and left. I bought some juice from the lobby's vending machine and headed back for the elevator.
 
-> "Hmm?"
->
-> I could see that the elevator had stopped on the seventh floor.
+"Hmm?"
+
+I could see that the elevator had stopped on the seventh floor.
 
 Curious, I decided to check out the CCTV, which showed what was happening inside the elevator car. I saw Horikita, still dressed in her school uniform.
 
-> "Well, I don't really need to hide, but..."
+"Well, I don't really need to hide, but..."
 
 Seeing her might be awkward right now, so I hid behind the vending machine. Horikita arrived at the first floor.
 
@@ -4752,27 +4448,23 @@ Looking wary of her surroundings, she exited the building. After she'd vanished 
 
 Horikita stopped in her tracks. I sensed another person was with her.
 
-> "Suzune. I didn't think you'd follow me this far," he said.
->
-> Had she left in the dead of night to rendezvous with some
+"Suzune. I didn't think you'd follow me this far," he said.
 
-guy?
+Had she left in the dead of night to rendezvous with some guy?
 
-> "Hmph. I'm far different from the useless girl you once
+"Hmph. I'm far different from the useless girl you once
 
 knew, niisan. I came here to catch you." "Catch me, hmm?"
 
 Niisan? In the dark, I couldn't see the person she was talking to. Was she meeting her older brother?
 
-"I heard you were placed in Class D. I suppose nothing has really changed in the last three years. You've always been fixated
-
-on following me, and as a result you don't notice your own flaws. Choosing to come to this school was a mistake."
+"I heard you were placed in Class D. I suppose nothing has really changed in the last three years. You've always been fixated on following me, and as a result you don't notice your own flaws. Choosing to come to this school was a mistake."
 
 "That's... You're wrong about that. I'll show you. I'll reach Class A right away, then---"
 
 "It's pointless. You will never reach Class A. In fact, your class will fall apart soon enough. Things at this school aren't as simple as you think."
 
-> "I will definitely, definitely reach---"
+"I will definitely, definitely reach---"
 
 "I told you, it's pointless. You really are a disobedient little sister."
 
@@ -4786,7 +4478,7 @@ It was Student Council President Horikita. He displayed no hint of emotion. It w
 
 "How incredibly stupid. Do you want to relive the pain of the past?"
 
-> "Niisan, I..."
+"Niisan, I..."
 
 "You possess neither the abilities nor the qualities needed to reach Class A. Get that through your head."
 
@@ -4796,43 +4488,43 @@ Before he knew I was there, I grabbed his right arm, which he was using to pin h
 
 "What? You..." He stared at his arm and slowly turned to me with a sharp gleam in his eye.
 
-> "A-Ayanokouji-kun?!" Horikita cried.
+"A-Ayanokouji-kun?!" Horikita cried.
 
 "You were about to throw your sister to the ground, weren't you? You do realize the floor here is concrete, right? You might be siblings, but you should know the difference between right and wrong."
 
-> "Eavesdropping is not an admirable quality," he said. "Fine. Then let go."
->
-> "That's *my* line."
->
-> We glared at each other in complete silence.
->
-> "Stop it, Ayanokouji-kun," said Horikita, her voice strained.
+"Eavesdropping is not an admirable quality," he said. "Fine. Then let go."
+
+"That's my line."
+
+We glared at each other in complete silence.
+
+"Stop it, Ayanokouji-kun," said Horikita, her voice strained.
 
 I'd never heard her voice like that before.
 
 Reluctantly, I released her brother. Instantly, he tried to backhand me in the face. I instinctively took a step back to avoid it. For such a lightly built guy, he was a nasty attacker. He then aimed a sharp kick at my unguarded spot.
 
-> "Watch it!"
->
-> He had enough power to knock me out with one blow.
+"Watch it!"
+
+He had enough power to knock me out with one blow.
 
 Looking slightly confused, he exhaled deeply, extended his right arm, and opened his hand.
 
-> If I grabbed his hand, he'd probably throw me to the ground.
+If I grabbed his hand, he'd probably throw me to the ground.
 
 Instead, I slapped his hand away.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2001.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2002.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2003.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2004.png){width="8.260416666666666in" height="11.69375in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image75.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image76.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image77.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image78.png){width="8.260416666666666in" height="11.69375in"}
 
 "Good reflexes. I didn't imagine you could evade all of my blows so quickly. Also, you seemed to understand quite well what I was trying to do. Have you been taught?"
 
-> After the attacks stopped, the questions began.
+After the attacks stopped, the questions began.
 
 "Yes, I was taught piano and calligraphy. Also, when I was in elementary school, I won a national music competition," I said.
 
 "You're in Class D, too, aren't you? What a unique boy, Suzune."
 
-> After he let go of his younger sister, he turned to face me. "No. Unlike Horikita, I'm pretty incompetent." "Suzune, is this boy your friend? I'm honestly surprised."
+After he let go of his younger sister, he turned to face me. "No. Unlike Horikita, I'm pretty incompetent." "Suzune, is this boy your friend? I'm honestly surprised."
 
 "He's...not my friend. Just my classmate." Horikita faced her brother fully, as if denying him.
 
@@ -4842,41 +4534,41 @@ He walked past me and disappeared into the night. So, that was the distinguished
 
 "I'm going to drag myself up to Class A even if it kills me," she said.
 
-> With her brother gone, the night was silent once more.
+With her brother gone, the night was silent once more.
 
 Horikita sat up against the wall, her head hanging low. Maybe I'd made things worse by getting involved. I was about to return to the dorms when Horikita called out to me.
 
-> "Did you hear everything? Or was it just a coincidence?"
+"Did you hear everything? Or was it just a coincidence?"
 
 "Oh. Uh, it was half coincidence, I'd say. I saw you when I bought some juice from the vending machine. I was kind of curious, so I followed you. However, I really didn't mean to meddle in your business."
 
-> Horikita fell silent once again.
+Horikita fell silent once again.
 
 "Your older brother is really strong. He doesn't lack ferocity."
 
-> "He's ranked fifth dan in karate and fourth dan in aikido."
+"He's ranked fifth dan in karate and fourth dan in aikido."
 
-Whew, he was *really* strong. If I hadn't pulled away, it would've ended badly for me.
+Whew, he was really strong. If I hadn't pulled away, it would've ended badly for me.
 
-> "You also practice martial arts, don't you, Ayanokouji-kun?
+"You also practice martial arts, don't you, Ayanokouji-kun?
 
 You must hold a dan rank."
 
-> "I told you, didn't I? Just piano and tea ceremony." "You said calligraphy before."
->
-> "I...did calligraphy in addition to those, yes."
+"I told you, didn't I? Just piano and tea ceremony." "You said calligraphy before."
+
+"I...did calligraphy in addition to those, yes."
 
 "You purposefully get lower test scores, and you say that you studied piano and calligraphy. I really don't understand you."
 
 "My scores were a coincidence. I really did do piano, tea ceremony, and calligraphy." If there were a piano here, I could at least have performed "Für Elise."
 
-> "You saw a strange side of me."
->
-> "On the contrary, I always thought of you as a normal girl.
+"You saw a strange side of me."
+
+"On the contrary, I always thought of you as a normal girl.
 
 Well, not really."
 
-> Horikita glared at me.
+Horikita glared at me.
 
 "Let's go back. If anyone saw us out here, they'd probably get ideas."
 
@@ -4884,7 +4576,7 @@ She was certainly right about that. Rumors about a boy and a girl hanging out al
 
 Not to mention the fact that our relationship seemed to be intensifying.
 
-> Horikita got up slowly and walked toward the dorm.
+Horikita got up slowly and walked toward the dorm.
 
 "Hey. Were you really okay with how the study group went?" I asked.
 
@@ -4898,31 +4590,31 @@ If I didn't broach the subject now, I'd likely never get the chance again.
 
 "Sudou and the others don't much like Hirata. I doubt they'll participate in his study group."
 
-> "That's their decision, which has nothing to do with me.
+"That's their decision, which has nothing to do with me.
 
 Besides, if they're facing expulsion, they shouldn't grumble about trivial nonsense. If they don't get closer to Hirata-kun, then they'll be expelled. Of course, my goal is to have Class D reach Class A status. However, that's for my own sake and no one else's. I don't care about anyone else. Really, if we dump the failures on this next midterm, then the better students will be left. That's what I need, correct? In that case, attaining a higher rank will be simple. Everything will work out perfectly."
 
 She wasn't wrong about that. Our conversation continued; Horikita was strangely talkative tonight.
 
-> "Horikita, isn't that way of thinking flawed?"
+"Horikita, isn't that way of thinking flawed?"
 
 "Flawed? What's flawed? You're not going to give me some gibberish about how there's no future for someone who would abandon her classmates, are you?
 
-"Relax. I understand you well enough to know that you don't really understand *me*."
+"Relax. I understand you well enough to know that you don't really understand me."
 
 "Then what is it? There's no strategic advantage to helping failures."
 
-> "There are probably very few advantages, certainly.
+"There are probably very few advantages, certainly.
 
 However, it does help prevent a setback." "Demerit?"
 
-> "Do you really think that the school hasn't considered this?
+"Do you really think that the school hasn't considered this?
 
 They've deducted points for students arriving late or playing around during class time. Let's say these students are expelled because no one helped them. How many points do you think they'll deduct from us then?"
 
-> "That's---" she began.
->
-> "Of course, we don't have any proof that's how it works.
+"That's---" she began.
+
+"Of course, we don't have any proof that's how it works.
 
 However, isn't it possible? 100 points? 1,000 points? They might even deduct 10,000 or 100,000 points. If that happens, it'll be very difficult for you to reach Class A."
 
@@ -4930,15 +4622,13 @@ However, isn't it possible? 100 points? 1,000 points? They might even deduct 10,
 
 "There's no guarantee that'd be the case. There could be penalties we just don't see yet. Do you really think it's okay to take such a dangerous risk? Well. I'm sure that someone as smart as you must have thought about that already. Otherwise, you would never have suggested creating a study group in the first place. You would've just abandoned the failures from the very beginning."
 
-> I was starting to sound worked up, or perhaps I was actually
+I was starting to sound worked up, or perhaps I was actually
 
-*feeling* worked up. Maybe because I'd started to, rather selfishly,
-
-consider her a friend. I didn't want Horikita to come to regret her decision.
+feeling worked up. Maybe because I'd started to, rather selfishly, consider her a friend. I didn't want Horikita to come to regret her decision.
 
 "Even if there are potential unknown negatives, it's better for the future of our class to abandon the failing students. Wouldn't you regret not abandoning them when we do finally increase our points? Right now, it's a risk that we should take."
 
-> "Do you really think so?" I asked.
+"Do you really think so?" I asked.
 
 "Yes. Really. I'm at a complete loss as to why you're so desperate to save them."
 
@@ -4948,7 +4638,7 @@ As Horikita was about to board the elevator, I grabbed her wrist.
 
 "You're quite talkative. I never thought you'd be so loquacious."
 
-> "What... That's just because you were being insistent."
+"What... That's just because you were being insistent."
 
 If she were acting like her normal self, there was no way she would have allowed me to keep talking. Normally, stopping her in this way would earn me a sharp strike. However, her refusal to hit me indicated that Horikita felt the way I did. Of course, she probably didn't even realize it herself.
 
@@ -4966,13 +4656,13 @@ If she were acting like her normal self, there was no way she would have allowed
 
 "No, I don't think you're wrong. I think the same thing," I replied.
 
-> "So then---"
+"So then---"
 
 "If you keep to that belief, you'll need to maintain a broad perspective on life. You're so angry and dissatisfied, you can't see what's in front of you."
 
 "Who do you think you are? Do you even have the ability to find fault with me?"
 
-> "I don't know what abilities I have, but I see what you don't.
+"I don't know what abilities I have, but I see what you don't.
 
 It's the one flaw of the seemingly perfect person known as Horikita Suzune."
 
@@ -4982,7 +4672,7 @@ Horikita gave an amused snort. It was as if she was saying, "If you think I have
 
 "It's almost as if you're saying I'm the same as Sudou-kun and his group," she muttered.
 
-> "Are you saying that you aren't equal?"
+"Are you saying that you aren't equal?"
 
 "Yes. It's obvious if you look at our test scores. That's proof enough that they're mere baggage for our class to carry."
 
@@ -4990,7 +4680,7 @@ Horikita gave an amused snort. It was as if she was saying, "If you think I have
 
 However, we know that this school doesn't only focus on intelligence. Suppose that the next exam was related to sports. The results would be different then. Am I wrong?"
 
-> "That's---"
+"That's---"
 
 "You're physically capable. From your swimming, I can tell you're one of the most capable girls in the class. Superior.
 
@@ -5012,51 +4702,49 @@ Horikita looked into my eyes. She still didn't seem to grasp our current situati
 
 "You're rather talkative today, too. It's odd for someone who likes to avoid trouble to talk so much."
 
-> "You're probably right about that."
->
-> "It's frustrating, but what you said was basically correct.
+"You're probably right about that."
+
+"It's frustrating, but what you said was basically correct.
 
 You've persuaded me; I have to concede that point. However, I still don't understand you. What do you want? What is this school to you? Why did you work so hard to convince me?"
 
-> "I see. So that's what you think."
+"I see. So that's what you think."
 
 "If someone lacks persuasiveness, he or she won't be able to make others believe in their cunning theories." She clearly wanted to know why I was so desperate to persuade her that Sudou and the others' expulsion was bad. "Cut the crap. I want to know the real reason. Is it for points? To rise up, even by one class level? Or is it to save your friends?"
 
 "Because I want to know what a person with true merit looks like. What is equality?"
 
-> "Merit, equality..."
+"Merit, equality..."
 
 "I came to this school to find answers to those questions." The words freely spilled out of me before I could collect my thoughts.
 
-> "Could you let me go?" Horikita asked.
+"Could you let me go?" Horikita asked.
 
 "Oh, sorry." I released my grip. She turned around and looked directly at me.
 
 "There's no way that you could fool me into believing you, Ayanokouji-kun," she said.
 
-> After she said that, Horikita extended her arm.
+After she said that, Horikita extended her arm.
 
 "I'll look after Sudou-kun and the others, but for my own sake. I'll make sure that they don't get left behind, but only as a strategic means of securing an advantage for our future. Okay?"
 
-> "Don't worry. I didn't think you'd do it any differently.
+"Don't worry. I didn't think you'd do it any differently.
 
 That's just like you, Horikita."
 
-> "We've come to an arrangement, then."
+"We've come to an arrangement, then."
 
 I took Horikita's hand. However, I would soon realize that I'd just made a deal with the devil.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2019.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2020.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2021.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2022.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2023.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2024.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2025.png){width="1.117361111111111in" height="0.3055555555555556in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2033.png){width="0.23194444444444445in" height="0.2388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2034.png){width="0.23194444444444445in" height="0.2388888888888889in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2037.png){width="0.5138888888888888in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2038.png){width="0.5138888888888888in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2039.png){width="0.5138888888888888in" height="0.23541666666666666in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2043.png){width="1.0819444444444444in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2044.png){width="1.0819444444444444in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2045.png){width="1.0819444444444444in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2046.png){width="1.0819444444444444in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2047.png){width="1.0819444444444444in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2048.png){width="1.0819444444444444in" height="0.23541666666666666in"}
+**Chapter 9: The Failures Mobilize Once Again**
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2055.png){width="1.2020833333333334in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2056.png){width="1.2020833333333334in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2057.png){width="1.2020833333333334in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2058.png){width="1.2020833333333334in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2063.png){width="0.7104166666666667in" height="0.22361111111111112in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2064.png){width="0.7104166666666667in" height="0.22361111111111112in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2065.png){width="0.7104166666666667in" height="0.22361111111111112in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2066.png){width="0.7104166666666667in" height="0.22361111111111112in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2071.png){width="0.8034722222222223in" height="0.31180555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2072.png){width="0.8034722222222223in" height="0.31180555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2073.png){width="0.8034722222222223in" height="0.31180555555555556in"}
+The air was rich with the aroma of new tea. (I'm grateful for your continued patience and cooperation, dear reader.) A month and a half had already gone by since I started high school. For the most part, my days had passed without incident.
 
-**T**he air was rich with the aroma of new tea. (I'm grateful for your continued patience and cooperation, dear reader.) A month and a half had already gone by since I started high school. For the most part, my days had passed without incident.
-
-> "Hey, can you hear me? Is your head okay?"
+"Hey, can you hear me? Is your head okay?"
 
 Horikita rudely smacked my forehead, then touched a hand to her own head.
 
-> "You don't seem to have a fever," she said.
+"You don't seem to have a fever," she said.
 
 "Of course I don't! I was just lost in thought, that's all." I let out a deep sigh, already regretting that I'd told Horikita I'd help her. I suppose there was no use crying over spilled milk. I'd offered to help as a means of encouragement, but, thinking back, it really struck me as being out of character.
 
@@ -5064,25 +4752,25 @@ Horikita rudely smacked my forehead, then touched a hand to her own head.
 
 "Let's see. Obviously, we'll need to persuade Sudou-kun and the others to participate once again. That means you'll need to grovel and beg for them to return."
 
-"Why should *I* have to do that? You're the reason the group split in the first place."
+"Why should I have to do that? You're the reason the group split in the first place."
 
 "The reason we split was because they couldn't take studying seriously. Don't get that twisted."
 
-> Jeez. Did she even intend to help Sudou and the others?
+Jeez. Did she even intend to help Sudou and the others?
 
 "We'll never get them back without Kushida's help. You understand that, right?"
 
-> "I understand. Sacrifices are inevitable," she grumbled.
+"I understand. Sacrifices are inevitable," she grumbled.
 
 She appeared to hate the idea of Kushida's involvement. Still, she agreed despite her dissatisfaction. This was a major compromise for Horikita, who didn't want Kushida getting close to her at all.
 
 "Okay. Can you get Kushida-san to help us immediately?" she asked.
 
-> "Me?"
+"Me?"
 
 "Of course. We made a deal. You agreed to be my workhorse until we reach Class A, so you have to do as I command."
 
-> I didn't remember making *that* kind of deal. "Here, look at this written contract."
+I didn't remember making that kind of deal. "Here, look at this written contract."
 
 Wow, a real contract. It had my name and my seal on it and everything.
 
@@ -5102,21 +4790,21 @@ That was the scene of Horikita's previous anger, when I'd invited her under fals
 
 "What's your reason for doing this? Is it really for Sudou-kun and the others?" Kushida clearly understood that Horikita likely wasn't doing this out of altruism.
 
-> "No. This is for me."
->
-> "I see. So, you look out for yourself as usual, Horikita-san." "You won't help someone whose motives are selfish?" "You're free to think whatever you like. I just didn't want
+"No. This is for me."
+
+"I see. So, you look out for yourself as usual, Horikita-san." "You won't help someone whose motives are selfish?" "You're free to think whatever you like. I just didn't want
 
 you to try to lie to me. I'm glad you were honest. Okay, I'll help. We're classmates, after all. Right, Ayanokouji-kun?"
 
-> "Y-yeah. You're really helping us," I muttered.
+"Y-yeah. You're really helping us," I muttered.
 
 "There's something I want to ask you though, Horikita-san. You're not doing this for your friends or to get points. It's so you can get to Class A, right?"
 
-> "Yes."
+"Yes."
 
 "I can't believe that, though. I mean, isn't it impossible? Oh, I'm not saying you're stupid, Horikita-san. How do I put this, though? More than half of the class has given up, you see."
 
-> "Because the gulf between us and Class A is so vast?"
+"Because the gulf between us and Class A is so vast?"
 
 "Yes. To be perfectly honest, I can't imagine how we'd catch up. I'm not sure we can even get any points next month. It's disheartening."
 
@@ -5124,17 +4812,17 @@ Horikita smacked the table. "I'm going to do it. Definitely," she said.
 
 "Ayanokouji-kun, are you aiming for Class A, too?" Kushida asked.
 
-> "Yes. He's working as my assistant."
->
-> Horikita had given me a title without asking me.
->
-> "Hmm. I understand. I want in, Horikita-san." "To help us with the study group."
+"Yes. He's working as my assistant."
+
+Horikita had given me a title without asking me.
+
+"Hmm. I understand. I want in, Horikita-san." "To help us with the study group."
 
 "No, not for that. I want to work on getting into Class A with you. I want to help with everything else you'll be doing."
 
-> "Huh? But..."
->
-> "So, you don't want me to join?" Kushida asked.
+"Huh? But..."
+
+"So, you don't want me to join?" Kushida asked.
 
 She looked at Horikita with wide eyes, prompting her to answer.
 
@@ -5154,13 +4842,11 @@ She extended her left and right arms toward us. A bit perplexed, Horikita and I 
 
 I felt a little overwhelmed by how quickly Horikita and Kushida were moving.
 
-Kushida took out her cell phone, ready to leap into action immediately. Soon after, Ike and Yamauchi arrived, looking like
-
-they were on cloud nine after receiving Kushida's invitation. As soon as they saw Horikita and me, though, they looked me square in the eye. They seemed to silently ask, *Did you tell her about the chat?!* I thought it'd be better to keep quiet. Their guilt might help in getting them to fall in line.
+Kushida took out her cell phone, ready to leap into action immediately. Soon after, Ike and Yamauchi arrived, looking like they were on cloud nine after receiving Kushida's invitation. As soon as they saw Horikita and me, though, they looked me square in the eye. They seemed to silently ask, Did you tell her about the chat?! I thought it'd be better to keep quiet. Their guilt might help in getting them to fall in line.
 
 "I'm sorry for calling you two over. I have something to ask you, or rather, Horikita-san does."
 
-> "Wh-what is it? What do you want from us?!" What an overreaction. They backed away in fright.
+"Wh-what is it? What do you want from us?!" What an overreaction. They backed away in fright.
 
 "Are you two joining Hirata-kun's study group?" Horikita asked.
 
@@ -5178,9 +4864,7 @@ Yamauchi nodded at Ike's words. They were counting on an all-nighter to save the
 
 "C-calm down, Sudou. Okay?" Ike was acting like he didn't know what they'd said in the chat.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2077.png){width="0.30694444444444446in" height="0.1701388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1964.png){width="0.30694444444444446in" height="0.1701388888888889in"}
-
-> "Sudou-kun, won't you try studying with me one more time?
+"Sudou-kun, won't you try studying with me one more time?
 
 You might manage to squeak by if you pull an all-nighter, but if that fails, you won't be able to play basketball here anymore.
 
@@ -5190,7 +4874,7 @@ Right?" Horikita asked.
 
 Although Sudou probably realized the danger he was in, he couldn't dismiss Horikita's insults. Of course, Horikita would never give him an apology. No one could ever take pride in saying something that untrue.
 
-> "I hate you, Sudou-kun." "What?!"
+"I hate you, Sudou-kun." "What?!"
 
 Instead of apologizing, she spat harsh words at Sudou, throwing fuel on the fire.
 
@@ -5212,7 +4896,7 @@ Also, I understand that taking time away from your hobbies will only add to your
 
 "What kind of sorcery did you use to come up with that? All right, tell me the plan."
 
-He could make time for studying *and* club activities. Sudou, believing such a thing to be impossible, snorted in amusement.
+He could make time for studying and club activities. Sudou, believing such a thing to be impossible, snorted in amusement.
 
 "The test's two weeks from today. You'll all study every day during class like your life depends on it."
 
@@ -5220,19 +4904,17 @@ I couldn't believe what Horikita had said. No one else could, either.
 
 "You three don't usually work seriously during class, do you?" she asked.
 
-> "You can't know that about us," Ike objected. "So, you work seriously?"
->
-> "Well... No, we don't. We just sit around 'til class is over."
+"You can't know that about us," Ike objected. "So, you work seriously?"
+
+"Well... No, we don't. We just sit around 'til class is over."
 
 "So, in other words, you waste six hours a day doing nothing. Rather than struggling to study for the one or two hours available after class, we're wasting a far larger and more precious period of time. We must use this time better."
 
 "Well, certainly... Theoretically that would work, but...isn't that unreasonable?"
 
-Kushida was right to be worried. They wasted time precisely because they couldn't study normally. If they couldn't manage to
+Kushida was right to be worried. They wasted time precisely because they couldn't study normally. If they couldn't manage to discipline themselves during class, I doubted they'd be able to understand the problems by themselves.
 
-discipline themselves during class, I doubted they'd be able to understand the problems by themselves.
-
-> "I can't even keep up with class at all."
+"I can't even keep up with class at all."
 
 "I know. So we'll hold a short study session during our free time."
 
@@ -5250,25 +4932,23 @@ If we used this system, we might just be able to make them understand in short b
 
 "It's just a matter of explaining the answers. You two can handle it, right?" Horikita asked.
 
-> "But I still don't think we can do it in that little time.
+"But I still don't think we can do it in that little time.
 
 Studying's so hard."
 
-> "One class period covers surprisingly little content.
+"One class period covers surprisingly little content.
 
-Typically, there'll be one page of notes, two at the most. If you narrow it down to only the things that will be on the test, you can probably whittle it down to a half a page of information. If we
+Typically, there'll be one page of notes, two at the most. If you narrow it down to only the things that will be on the test, you can probably whittle it down to a half a page of information. If we somehow end up not having enough time, we can always use our lunch period. I'm not saying that you have to understand the material. I just want you to memorize it. During class, you must focus on the teacher's voice and what's written on the blackboard. Forget about taking notes for right now."
 
-somehow end up not having enough time, we can always use our lunch period. I'm not saying that you have to understand the material. I just want you to memorize it. During class, you must focus on the teacher's voice and what's written on the blackboard. Forget about taking notes for right now."
-
-> "So, you're telling us *not* to take notes?"
+"So, you're telling us not to take notes?"
 
 "Trying to memorize things is surprisingly difficult when you're writing down notes."
 
 She was probably right about that. A focus on note-taking would simply waste precious time. At any rate, Horikita had laid out a plan that didn't use up any time after school.
 
-> "Just try. Give it a go before you say no."
+"Just try. Give it a go before you say no."
 
-"I don't want to. I'd rather spend my time differently than a bookworm like you. Besides, I don't even think I *could* learn to study with such a simple, cheap trick." Horikita had carefully come up with a plan tailored to the three of them, and yet Sudou still wouldn't agree.
+"I don't want to. I'd rather spend my time differently than a bookworm like you. Besides, I don't even think I could learn to study with such a simple, cheap trick." Horikita had carefully come up with a plan tailored to the three of them, and yet Sudou still wouldn't agree.
 
 "It seems you've misunderstood. There are no shortcuts or cheap tricks when it comes to studying. You just have to spend your time carefully. That applies not only to studying, but to everything else as well. Or are you telling me there are shortcuts and cheap tricks in something like basketball?"
 
@@ -5276,7 +4956,7 @@ She was probably right about that. A focus on note-taking would simply waste pre
 
 "For people who can't focus or work seriously, it's impossible. However, you put all of your effort into basketball. I want you to apply some of that effort to studying, even if it's just a fraction of what you have. Put in the effort so that you can continue to play basketball at this school. Don't throw away your own potential."
 
-> Horikita's compromise was small, but real. Sudou hesitated.
+Horikita's compromise was small, but real. Sudou hesitated.
 
 However, his pride still got in the way. He seemed incapable of agreeing to the plan.
 
@@ -5290,11 +4970,11 @@ Normally I'd stay out of it, but this called for drastic action. "Hey, Kushida. 
 
 "If I can get fifty points on the test, will you go out with me?" I extended my hand to her.
 
-"Huh?! Wh-what are you saying, Ayanokouji! No, date *me*, Kushida! I'll get fifty-one points!" Ike cried.
+"Huh?! Wh-what are you saying, Ayanokouji! No, date me, Kushida! I'll get fifty-one points!" Ike cried.
 
 "No, no, me! Go on a date with me! I'll show you! I'll get fifty-two points!" Yamauchi said.
 
-> Kushida immediately understood my plan.
+Kushida immediately understood my plan.
 
 "H-how embarrassing... I don't just judge people based on something like test scores, you know?" she said.
 
@@ -5304,27 +4984,27 @@ Normally I'd stay out of it, but this called for drastic action. "Hey, Kushida. 
 
 "Whoa! Yes! I'll do it! I'll do it!" Ike and Yamauchi breathed heavily in their excitement. I called out to Sudou.
 
-> "Hey, Sudou. What about you? This might be your chance."
->
-> That was a bit subtler than yelling, *Do you want to date Kushida?*
+"Hey, Sudou. What about you? This might be your chance."
+
+That was a bit subtler than yelling, Do you want to date Kushida?
 
 I generally understood Sudou's personality, but it was still difficult to predict whether he'd agree. So I had to find some common ground.
 
 "A date, huh? That doesn't sound too bad. Jeez, guess I don't have a choice. All right, I'll join," Sudou said, his voice small. He didn't turn around.
 
-> Kushida sighed deeply in relief.
->
-> "Remember, boys are the simplest creatures on earth."
+Kushida sighed deeply in relief.
+
+"Remember, boys are the simplest creatures on earth."
 
 Horikita probably agreed with me. We welcomed Sudou to our group.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2085.png){width="0.33194444444444443in" height="0.2388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2086.png){width="0.33194444444444443in" height="0.2388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2087.png){width="0.33194444444444443in" height="0.2388888888888889in"}
->
-> **T**he study group seemed to have gotten off to a good start.
+**9.1**
+
+The study group seemed to have gotten off to a good start.
 
 Of course, no one suddenly loved studying or found great joy in it. However, they all did their part to avoid expulsion so they could continue to spend time with their friends. The Idiot Trio started changing their behavior. They frantically repeated everything written on the blackboard, wracking their brains to understand the problems.
 
-> Sudou occasionally came close to passing out during class.
+Sudou occasionally came close to passing out during class.
 
 His head would bob up and down as he started to doze, but he managed to stay awake, likely because of his professional basketball dreams. Most people would laugh at such high aspirations, but he chased them earnestly. Many of the first-year students, fresh from junior high, didn't have a "dream" yet. Many had only the vaguest notion of what they wanted their future to be. At least Sudou was already working hard in pursuit of his dream. That was worthy of praise.
 
@@ -5340,7 +5020,7 @@ However, for better concentration, we decided to avoid noise and use the library
 
 However, the main reason was that Horikita wanted to avoid Hirata. His study group also met during lunch, and if we were reviewing materials nearby, they'd likely try to talk to us. Horikita absolutely did not want that.
 
-> "Horikita, what are you doing for lunch?" I asked. "Well---"
+"Horikita, what are you doing for lunch?" I asked. "Well---"
 
 "Ayanokouji-kun! Do you want to eat lunch together? I don't have any plans today!" Kushida unexpectedly hopped out in front of me.
 
@@ -5350,19 +5030,15 @@ However, the main reason was that Horikita wanted to avoid Hirata. His study gro
 
 "I'm sorry, Ayanokouji-kun. Was I possibly...being a bother?" Kushida asked.
 
-> "Oh, no. Not at all."
->
-> *bye!*
+"Oh, no. Not at all." bye!
 
-Kushida waved to Horikita's retreating form, as if saying, *Bye*
+Kushida waved to Horikita's retreating form, as if saying, Bye
 
-Had she planned that, by chance? After I'd discovered
-
-Kushida's secret, she'd been rather blatant about keeping tabs on me. Though she said that she believed me, she might still suspect I'd tell someone. Kushida and I went to the café to get lunch together. When we arrived, the absolute flood of women overwhelmed me.
+Had she planned that, by chance? After I'd discovered Kushida's secret, she'd been rather blatant about keeping tabs on me. Though she said that she believed me, she might still suspect I'd tell someone. Kushida and I went to the café to get lunch together. When we arrived, the absolute flood of women overwhelmed me.
 
 "What's going on? There're an insane number of girls here," I said.
 
-> I'd say 80 percent of the customers were girls. "This isn't really a place where boys come to eat."
+I'd say 80 percent of the customers were girls. "This isn't really a place where boys come to eat."
 
 The menu included items like pasta and pancakes, food that only girls would like. Athletic people like Sudou would probably complain about the small portions. There were a few guys, but you could say that they were either coupled up or playboys. Every guy here was either alone with one girl or surrounded by multiple ladies.
 
@@ -5374,47 +5050,45 @@ The menu included items like pasta and pancakes, food that only girls would like
 
 Kushida was surprised, too. I overheard some of the conversation between Kouenji and the older girls.
 
-> "Here, Kouenji-kun, say 'Ahh!'" one of them said.
->
-> "Ha ha! Just as I thought, more mature girls are the best."
->
-> He certainly didn't act shy at all around the third-year ladies.
+"Here, Kouenji-kun, say 'Ahh!'" one of them said.
+
+"Ha ha! Just as I thought, more mature girls are the best."
+
+He certainly didn't act shy at all around the third-year ladies.
 
 Rather, he ate his food while they practically pressed up against him.
 
-> "That guy is really something else," I muttered.
+"That guy is really something else," I muttered.
 
 "His name seems to be going around lately. People are talking about him."
 
-> I see. So, were those girls after his money? "What a sad world."
+I see. So, were those girls after his money? "What a sad world."
 
 "Those girls are just being realists. You can't afford to eat on dreams alone," she said.
 
-> "Are you a realist, Kushida?"
+"Are you a realist, Kushida?"
 
 "I'd say I'm a bit of a dreamer. Something like a knight in shining armor would be nice."
 
-> "A knight in shining armor, hmm?"
->
-> We sat as far away from Kouenji as possible.
+"A knight in shining armor, hmm?"
+
+We sat as far away from Kouenji as possible.
 
 "What about you, Ayanokouji-kun? Do you like girls like Horikita-san?" she asked.
 
-> "Why'd you bring up Horikita?"
->
-> "Well, you're always with her. Isn't she cute?"
+"Why'd you bring up Horikita?"
 
-Well, *I* certainly thought she was cute. On the outside, though.
+"Well, you're always with her. Isn't she cute?"
+
+Well, I certainly thought she was cute. On the outside, though.
 
 "Know something, Ayanokouji-kun? You've caught the girls' eyes for a little while now. You're on a first-year students' ranking chart."
 
-> "Caught their eye? Me? Also, what the hell kind of ranking?"
->
-> Apparently, we men had been rated without even noticing.
+"Caught their eye? Me? Also, what the hell kind of ranking?"
+
+Apparently, we men had been rated without even noticing.
 
 Was it like the ranking we'd made for the girls' breast sizes?
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2097.png){width="0.2902777777777778in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1918.png){width="0.2902777777777778in" height="0.1736111111111111in"}
 
 "Well, there are lots of different rankings, you know? The hot guy rankings. The rich guy rankings. The creeper rankings. And---"
 
@@ -5424,37 +5098,35 @@ Was it like the ranking we'd made for the girls' breast sizes?
 
 I'd expect nothing less from the Class D star. Even girls in Class C and above noticed him.
 
-> "Is it okay for me to be happy about that?" I asked.
+"Is it okay for me to be happy about that?" I asked.
 
 "Of course. Oh, but you also ranked pretty high in gloominess."
 
 "Let's see..." I looked at Kushida's cell phone. There really were a lot of different ranking charts. I saw a rather disturbing ranking titled, "Boys Who Should Die." Better not look at that one.
 
-> "Are you not really happy about it? You're ranked fifth."
+"Are you not really happy about it? You're ranked fifth."
 
 "I guess if I cared about popularity it'd be different, but I don't really feel anything." Besides, no girl had ever placed a letter with a heart sticker on it in my bag. "So, does everyone participate in this?"
 
 "Well, not everyone, but lots of people do. I don't know the exact number of votes, though. The comments are also anonymous."
 
-> In other words, many unknown variables made it difficult.
->
-> "I think you're probably at a disadvantage, Ayanokouji-kun.
+In other words, many unknown variables made it difficult.
 
-From my point of view, you're definitely attractive enough to be
+"I think you're probably at a disadvantage, Ayanokouji-kun.
 
-considered a hot guy, but I don't think people would say you're as beautiful or stand out as much as Hirata-kun. You're not exceptionally smart, you don't have exceptional athletic ability, and you're not a great conversationalist. There's something missing, some element of attractiveness, you know?"
+From my point of view, you're definitely attractive enough to be considered a hot guy, but I don't think people would say you're as beautiful or stand out as much as Hirata-kun. You're not exceptionally smart, you don't have exceptional athletic ability, and you're not a great conversationalist. There's something missing, some element of attractiveness, you know?"
 
 In other words, there was nothing appealing about me at all. "Ouch. I feel like I just got stabbed in the heart."
 
 "S-sorry. I probably should have held back a bit." Kushida appeared sheepish. "Hey, Ayanokouji-kun. Did you have a girlfriend in junior high school?"
 
-> "Would it be bad if I didn't?"
->
-> "So, you didn't have one? Ha ha, no. No, it's not bad." "Rankings, huh? What would the girls think if the boys did
+"Would it be bad if I didn't?"
+
+"So, you didn't have one? Ha ha, no. No, it's not bad." "Rankings, huh? What would the girls think if the boys did
 
 something like that?"
 
-> "They'd probably consider them the lowest of the low."
+"They'd probably consider them the lowest of the low."
 
 Her smile didn't reach her eyes. Well, that was to be expected. If the boys ranked girls by cuteness, the girls would vehemently object. There was a definite double standard at play. At any rate, Kushida didn't seem to be treating me any differently than she had before. I'd thought things might have changed since discovering her secret side.
 
@@ -5462,77 +5134,77 @@ Her smile didn't reach her eyes. Well, that was to be expected. If the boys rank
 
 "No, it's not that I don't want to. Talking to you is fun, Ayanokouji-kun."
 
-> "Didn't you say that you hated me, though?"
->
-> "Ha ha ha, yes, I did. Sorry, but that's how I really feel." Well, that hurt. Even though she was smiling, she hated me.
+"Didn't you say that you hated me, though?"
+
+"Ha ha ha, yes, I did. Sorry, but that's how I really feel." Well, that hurt. Even though she was smiling, she hated me.
 
 This was the worst.
 
 "To tell you the truth, I invited you out to lunch today because I wanted to check with you. Hypothetically, if you had to choose either Horikita-san or me as your ally, whom would you choose, Ayanokouji-kun? Would you choose me?"
 
-> "I'm no one's ally or enemy. I'm neutral."
+"I'm no one's ally or enemy. I'm neutral."
 
 "There are some situations where you can't avoid trouble by staying neutral. It's wonderful to oppose war, for example, but you may find yourself in the middle of turmoil at some point, you know? If Horikita and I happen to clash, I hope that you'll cooperate with me, Ayanokouji-kun."
 
-> "When you say that..."
->
-> "Anyway, try to remember that I'm expecting your help." "Expecting, huh? If you were to ask for my help, your first
+"When you say that..."
+
+"Anyway, try to remember that I'm expecting your help." "Expecting, huh? If you were to ask for my help, your first
 
 priority should probably be to explain the situation."
 
 Kushida, still smiling, emphatically shook her head. "First, we'd need to build a relationship of mutual trust."
 
-> "I suppose."
+"I suppose."
 
 Neither Kushida nor I understood each other yet. Perhaps in the future, I'd come to have deeper knowledge of her.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2105.png){width="0.3902777777777778in" height="0.2388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2106.png){width="0.3902777777777778in" height="0.2388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2107.png){width="0.3902777777777778in" height="0.2388888888888889in"}
+**9.2**
 
-**W**e gathered in the library one minute later than we'd agreed. Everyone had their notebooks open, ready and waiting. The library was a popular study spot, it seemed. First through third years fought to move up in the rankings. I understood it with a glance.
+We gathered in the library one minute later than we'd agreed. Everyone had their notebooks open, ready and waiting. The library was a popular study spot, it seemed. First through third years fought to move up in the rankings. I understood it with a glance.
 
-> "You're late," Horikita said. "Sorry, the crowds were tough."
->
-> "You two didn't eat lunch together, did you?"
+"You're late," Horikita said. "Sorry, the crowds were tough."
+
+"You two didn't eat lunch together, did you?"
 
 Ike turned to us, his eyes suspicious. Kushida and I had actually eaten together, but perhaps it was better to keep that information private.
 
-> "Yes, we did. We ate lunch together," Kushida said.
+"Yes, we did. We ate lunch together," Kushida said.
 
 It would have been better if she'd said nothing. Sure enough, Ike and the others glared at me, their discontent plain to see. Ike looked at me like I was his ancestral enemy. Horikita spoke without glancing up.
 
-> "Hurry," she said. "Okay."
+"Hurry," she said. "Okay."
 
 At Horikita's cold command, I sat down and took out my notebook.
 
 "I thought I might need more help on this, but geography is actually pretty easy."
 
-> "Chemistry wasn't as hard as I thought it'd be, either." Ike and Yamauchi sounded pleased.
->
-> "Most of the problems boil down to memorization, right?
+"Chemistry wasn't as hard as I thought it'd be, either." Ike and Yamauchi sounded pleased.
+
+"Most of the problems boil down to memorization, right?
 
 You can't solve many problems in English or mathematics if you don't understand the foundation, though."
 
 "Don't let your guard down. I think there might be current events questions on the test, too."
 
-> "Current...events?"
->
-> "Events of the recent past related to politics or the economy.
+"Current...events?"
+
+"Events of the recent past related to politics or the economy.
 
 That means that the questions may not be limited by what's written in the textbook."
 
 "Ugh, isn't that against the rules? That means we have no idea what's going to be on the test, doesn't it?!"
 
-> "So that's why you should study everything." "I suddenly hate geography..."
+"So that's why you should study everything." "I suddenly hate geography..."
 
 While the test might cover current events, I thought it'd be fine to ignore them for now. If you worried too much, you'd likely miss out on something important and suffer for it.
 
 "Shouldn't we hurry it up?" I asked. We were wasting precious time talking about this or that.
 
-> "Yes. We've been wasting time because *someone* was late." "Are you still harping on me for that?"
+"Yes. We've been wasting time because someone was late." "Are you still harping on me for that?"
 
 "Here's a question for everyone. Who came up with inductive reasoning?"
 
-> "Um. It was that guy we learned about in class before, right?
+"Um. It was that guy we learned about in class before, right?
 
 That was..." Ike wracked his brain and spun his mechanical pencil.
 
@@ -5540,11 +5212,11 @@ That was..." Ike wracked his brain and spun his mechanical pencil.
 
 "Francisco Xavier! Or something like that, right?" Sudou asked.
 
-> Close, but no cigar.
->
-> "I remember! Francis Bacon!" Ike cried. "That's correct."
->
-> "Yes! I'm definitely going to get a perfect score!" "No, not really..."
+Close, but no cigar.
+
+"I remember! Francis Bacon!" Ike cried. "That's correct."
+
+"Yes! I'm definitely going to get a perfect score!" "No, not really..."
 
 If we all managed to keep up this pace for another week, everyone might just avoid failing.
 
@@ -5558,19 +5230,19 @@ Actually, she probably meant something more like, "Idiots don't catch colds."
 
 "Hey, quiet down. Your yammering is getting annoying." A nearby student turned to look at us.
 
-"Sorry, sorry. Guess I got a little carried away. I'm just so happy I got something right. Did *you* know that Francis Bacon was the guy who came up with inductive reasoning? I won't lose points on that question!" said Ike, laughing foolishly.
+"Sorry, sorry. Guess I got a little carried away. I'm just so happy I got something right. Did you know that Francis Bacon was the guy who came up with inductive reasoning? I won't lose points on that question!" said Ike, laughing foolishly.
 
-> "Huh? Hey, could you guys be Class D students, by chance?"
+"Huh? Hey, could you guys be Class D students, by chance?"
 
 A group of boys all looked over at us at once. Sudou, seemingly irritated by this, sounded mildly angry as he said, "So what? What's the big deal if we're in Class D? Do you have a problem with that?"
 
 "No, no, there's no problem. I'm Yamawaki, from FClass C. Nice to meet you." Yamawaki chuckled. "I have to say, I'm glad that they separate the classes in this school by ability. That way I don't have to study with losers like you."
 
-> "What'd you say?!" Sudou's anger flared.
+"What'd you say?!" Sudou's anger flared.
 
-"Don't get mad. I've only spoken the truth. I wonder... If we happened to fight, how many points would you lose? Oh wait, you guys don't even *have* any points to lose, do you? In that case, you'd probably be expelled, right?"
+"Don't get mad. I've only spoken the truth. I wonder... If we happened to fight, how many points would you lose? Oh wait, you guys don't even have any points to lose, do you? In that case, you'd probably be expelled, right?"
 
-> "Fine with me. Bring it!"
+"Fine with me. Bring it!"
 
 Sudou's shouting attracted attention and looks of disgust. If things got much worse, then the teacher would probably hear about it.
 
@@ -5580,25 +5252,25 @@ Sudou's shouting attracted attention and looks of disgust. If things got much wo
 
 "That's quite an inconsistent standard of measurement. The way I see it, everyone outside of Class A is lumped together."
 
-> Yamawaki stopped laughing and now glared at Horikita.
+Yamawaki stopped laughing and now glared at Horikita.
 
 "Wow. For a defective product that can't make a single point, you're pretty sassy, aren't you? Did you think you could say whatever you like just because you have a cute face?"
 
 "Thank you for your wholly incoherent and irrelevant statement. I was never very concerned about my appearance until now, but after being praised by you, I must say I feel rather uncomfortable."
 
-> "Tch!" Yamawaki slammed the table and stood up.
+"Tch!" Yamawaki slammed the table and stood up.
 
 "Hey. Relax. If we're the ones who start fighting, then word will get around and we'll be in trouble." The other Class C students tugged at Yamawaki's sleeves, holding him back.
 
 "You do know that you'll be expelled if you fail the next test, right? I'm looking forward to seeing how many of you get kicked out."
 
-"Unfortunately for you, no one from Class D will be expelled. Before you worry about *us,* though, perhaps you should worry about your own class. Pride cometh before the fall."
+"Unfortunately for you, no one from Class D will be expelled. Before you worry about us, though, perhaps you should worry about your own class. Pride cometh before the fall."
 
-> "Ha ha ha! Us, fail? Don't joke around."
+"Ha ha ha! Us, fail? Don't joke around."
 
 "We're not studying just to avoid failing. We're studying so we can improve our test scores. Don't lump us together with you," Yamawaki said. "Also, being happy because you know who Francis Bacon is? Are you nuts? Why are you studying things that aren't even on the test?"
 
-> "Huh?" Horikita looked stumped.
+"Huh?" Horikita looked stumped.
 
 "Wait, do you guys not know what's on the test? No wonder you're called defective products."
 
@@ -5606,49 +5278,45 @@ Sudou's shouting attracted attention and looks of disgust. If things got much wo
 
 "Hey, hey! You're really going to get violent even though it'll lose you points? You're okay with that?"
 
-> "We don't have any points to lose!"
+"We don't have any points to lose!"
 
 Sudou pulled his arm back. Uh oh. Was he really going to beat the crap out of this guy? I knew I should stop him. I got up, then---
 
-> "Okay, stop. Stop!"
->
-> A female student shouted at us. Sudou stopped in response. "What? This doesn't involve you. Stay out of it," he said.
+"Okay, stop. Stop!"
 
-"Doesn't involve me? I'm trying to use the library, so it *does* involve me. If you want to get violent, might I suggest that you do so outside?"
+A female student shouted at us. Sudou stopped in response. "What? This doesn't involve you. Stay out of it," he said.
+
+"Doesn't involve me? I'm trying to use the library, so it does involve me. If you want to get violent, might I suggest that you do so outside?"
 
 In response to the blonde beauty's disinterested yet logical argument, Sudou let go of Yamawaki.
 
 "Besides, don't you think you're provoking him? If things continue like this, I'd have to report it to the school. Do you want that?"
 
-> "S-sorry. We don't want that, Ichinose," Yamawaki said.
+"S-sorry. We don't want that, Ichinose," Yamawaki said.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2111.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1968.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2112.png){width="8.260416666666666in" height="11.69375in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image83.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image70.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image84.png){width="8.260416666666666in" height="11.69375in"}
 
 Ichinose. I'd heard that name once before. Wait... That was the Class B student who'd been talking with Hoshinomiya-sensei.
 
 "Come on, let's go. If we try studying here, we'll catch the stupid going around."
 
-> "Yeah."
->
-> With those last words, Yamawaki and his group left.
+"Yeah."
+
+With those last words, Yamawaki and his group left.
 
 "If you're going to study here, please act like adults. Thank you," Ichinose said.
 
-> Watching her gallant departure, I had to nod in admiration. "Unlike Horikita, she managed to keep everyone in line." "I didn't intend to create chaos. I only spoke the truth."
->
-> The truth had led to chaos, though...
->
-> "Hey. He said that this question wasn't on the test, didn't
+Watching her gallant departure, I had to nod in admiration. "Unlike Horikita, she managed to keep everyone in line." "I didn't intend to create chaos. I only spoke the truth."
 
-he?"
+The truth had led to chaos, though...
+
+"Hey. He said that this question wasn't on the test, didn't he?"
 
 "What do you mean?"
 
-We exchanged looks. Chiyabashira-sensei had told us that
+We exchanged looks. Chiyabashira-sensei had told us that material about the Age of Discovery would be on the test. Horikita and I had written that down.
 
-material about the Age of Discovery would be on the test. Horikita and I had written that down.
-
-> "Does this mean that each class gets a different test?"
+"Does this mean that each class gets a different test?"
 
 "That seems unlikely. The test should be the same for everyone in the same grade."
 
@@ -5656,21 +5324,17 @@ Horikita was right. The same fundamental problems from the five main topics shou
 
 Otherwise, it'd be unclear how to judge our aptitude. Had Class C learned that the test would change before anyone else?
 
-Or was Class D the only group being left out of the loop? We were mystified in the light of this new information. What if every class's test had different social studies questions? No... What if it wasn't just social studies? What if all the test questions were
+Or was Class D the only group being left out of the loop? We were mystified in the light of this new information. What if every class's test had different social studies questions? No... What if it wasn't just social studies? What if all the test questions were completely different? If that were the case, then we'd wasted a whole week's worth of studying.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2115.png){width="0.3472222222222222in" height="0.16875in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2116.png){width="0.3472222222222222in" height="0.16875in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2117.png){width="0.3472222222222222in" height="0.16875in"}
+**9.3**
 
-completely different? If that were the case, then we'd wasted a whole week's worth of studying.
+We dismissed the group ten minutes before our lunch break was over. We packed up and headed toward the faculty room. We needed to confirm exactly what the test would cover.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2127.png){width="0.3888888888888889in" height="0.2388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2128.png){width="0.3888888888888889in" height="0.2388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2129.png){width="0.3888888888888889in" height="0.2388888888888889in"}
-
-**W**e dismissed the group ten minutes before our lunch break was over. We packed up and headed toward the faculty room. We needed to confirm exactly what the test would cover.
-
-> "Chiyabashira-sensei, we have an urgent question."
+"Chiyabashira-sensei, we have an urgent question."
 
 "Quite the theatrical entrance. You surprised the other teachers," she said.
 
-> "I sincerely apologize for the sudden intrusion."
+"I sincerely apologize for the sudden intrusion."
 
 "It's fine. We're in the middle of something, so please keep it brief." Chiyabashira-sensei continued to write in her notebook.
 
@@ -5680,7 +5344,7 @@ Chiyabashira-sensei listened in complete silence and didn't even bat an eyelash 
 
 "That's right. The test's topics changed last Friday. Sorry, I must've forgotten to inform you."
 
-> "What?!"
+"What?!"
 
 She scribbled something down on a page in her notebook, tore it out, and handed it to Horikita. She'd written down textbook page numbers that referred to material we'd already covered in class. Most of the new material was from before we'd started the group, stuff that Sudou and the others hadn't learned.
 
@@ -5694,21 +5358,19 @@ Chiyabashira-sensei tried to shoo us out of the faculty room without the slighte
 
 "Even if you stay, nothing will change. You understand that, don't you?" she asked.
 
-> "Let's go."
->
-> "B-but, Horikita-chan! We can't just accept this!"
+"Let's go."
+
+"B-but, Horikita-chan! We can't just accept this!"
 
 "As Chiyabashira-sensei said, staying would be a waste of time. Instead, we should begin studying the revised test materials."
 
-> "But!"
+"But!"
 
 Horikita turned on her heel and left the faculty room, Sudou and the others reluctantly following after her. Chiyabashira-sensei didn't even glance at us as we left. I'd thought she would apologize for making such a mistake, but she didn't. If anything, I'd thought that some of the other teachers might react to this incident.
 
-Despite the fact that this was a pretty serious mistake for a homeroom teacher to make, none of the other teachers seemed to care. Hoshinomiya-sensei was seated nearby. Our eyes met. She gave a small smile and waved hello. Well, that was *something*, at least. However, I didn't think that our teacher had simply forgotten to tell us what would be covered on the test.
+Despite the fact that this was a pretty serious mistake for a homeroom teacher to make, none of the other teachers seemed to care. Hoshinomiya-sensei was seated nearby. Our eyes met. She gave a small smile and waved hello. Well, that was something, at least. However, I didn't think that our teacher had simply forgotten to tell us what would be covered on the test.
 
-> When I stepped into the hallway, the afternoon class bell
-
-rang.
+When I stepped into the hallway, the afternoon class bell rang.
 
 "Kushida-san. I have a small favor I want to ask you," I said. "Hmm? What is it?"
 
@@ -5716,7 +5378,7 @@ rang.
 
 With that, I handed her Chiyabashira-sensei's paper with the textbook numbers.
 
-> "That's fine, but...is it okay for me to do it?"
+"That's fine, but...is it okay for me to do it?"
 
 "You're the best candidate we have. There's no doubt in my mind. Besides, we can't take the test when we don't know what's going to be on it."
 
@@ -5730,35 +5392,35 @@ However, our greatest concern was keeping the Idiot Trio motivated.
 
 "Horikita. I know I've been difficult, but I'm counting on you." Sudou bowed to Horikita as he spoke those words. "Starting tomorrow...I'll take a break from club activities. Will that work?"
 
-> "That..."
+"That..."
 
 Considering that we had only one week left and time was of the essence, it was a rational decision. However, the offer so surprised Horikita that she couldn't immediately accept.
 
-> "Will that really be okay with you? It'll be a lot of work."
+"Will that really be okay with you? It'll be a lot of work."
 
 "Studying is a lot of work, isn't it?" Grinning, Sudou patted Horikita's shoulder.
 
-> "Sudou, are you serious?" she asked.
+"Sudou, are you serious?" she asked.
 
 "Yeah. I mean, I'm pissed at our homeroom teacher and those jerks in Class C now, too."
 
 You could call this a blessing in disguise. After being backed into a corner, Sudou had finally developed a positive attitude about studying. He probably realized if he didn't do his best, he couldn't pass the test. His declaration inspired Ike and Yamauchi.
 
-> "Guess we don't have any choice. We'll try harder, too," Ike
+"Guess we don't have any choice. We'll try harder, too," Ike
 
 said.
 
-> "I understand. If you're prepared, then we can work
+"I understand. If you're prepared, then we can work
 
 together. However, Sudou-kun..." Horikita coldly removed Sudou's hand from her shoulder. "Please do not touch me. If you do so again, I won't show you any mercy."
 
-> "You're not cute at all, lady..." "We're definitely gonna do this!" "Yeah! Me, too!"
+"You're not cute at all, lady..." "We're definitely gonna do this!" "Yeah! Me, too!"
 
 Kushida, who also seemed motivated, stuck out her fist. "Come on, Ayanokouji-kun. You do your best, too!" she cried.
 
-> "Huh? No, I---"
->
-> "Don't tell me. Did you already give up on studying?" "I've thought about it a little."
+"Huh? No, I---"
+
+"Don't tell me. Did you already give up on studying?" "I've thought about it a little."
 
 "You promised you'd work with me. Did you forget?" asked Horikita while glaring at me.
 
@@ -5766,21 +5428,21 @@ Kushida, who also seemed motivated, stuck out her fist. "Come on, Ayanokouji-kun
 
 To be honest, Horikita and Kushida were better teachers than I was. I didn't consider myself really capable of tutoring others.
 
-> "Your test scores weren't that bad, were they?"
+"Your test scores weren't that bad, were they?"
 
 "There isn't much time left, so it might be more effective if Horikita and Kushida work together to teach those three rather than tutoring one-on-one. Also, something else is kind of bothering me."
 
-> "Something bothering you?"
+"Something bothering you?"
 
 What had happened in the faculty room was far too serious for me to overlook.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2133.png){width="0.41041666666666665in" height="0.2388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2134.png){width="0.41041666666666665in" height="0.2388888888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2135.png){width="0.41041666666666665in" height="0.2388888888888889in"}
+**9.4**
 
-**W**hen lunchtime came, I jumped to my feet and headed toward the cafeteria with purposeful strides.
+When lunchtime came, I jumped to my feet and headed toward the cafeteria with purposeful strides.
 
-> "Where are you going?"
->
-> Kushida had noticed me rushing out of class and followed.
+"Where are you going?"
+
+Kushida had noticed me rushing out of class and followed.
 
 She popped up before me, stopping me in my tracks. "It's lunch. I thought I'd go to the cafeteria." "Hmm. Mind if I go with you?"
 
@@ -5792,29 +5454,29 @@ Kushida, as usual, was quite observant. To be honest, I hadn't wanted to do this
 
 "I can tell you if you promise that you won't tell anyone else."
 
-> "I'm good at keeping secrets."
+"I'm good at keeping secrets."
 
 Kushida and I headed to the cafeteria together. We navigated our way through the crowd and finally reached the meal ticket machine. I bought tickets for two portions but didn't line up at the counter. Instead, I went to the side of the vending machine and looked at students perusing the menu.
 
 "What is it?" Kushida tilted her head and looked puzzled when I began studying the machine.
 
-> "This might answer what was bothering me."
+"This might answer what was bothering me."
 
 I continued observing students as they bought lunch sets from the ticket machine. After I'd observed about twenty students, my target appeared. He purchased his meal ticket and walked to the counter with heavy, plodding footsteps.
 
-> "Okay, let's go," I said. "Hmm? Okay."
+"Okay, let's go," I said. "Hmm? Okay."
 
 We quickly exchanged our tickets for our meals and sat down in front of the heavy-footed student.
 
-> "Um, excuse me. Are you an upperclassman?" I asked.
+"Um, excuse me. Are you an upperclassman?" I asked.
 
 "Hmm? Who are you?" The student regarded us calmly, a look of complete disinterest on his face.
 
-> "Are you a second-year student? Third-year?" "Third-year. Let me guess, you're a first year?"
+"Are you a second-year student? Third-year?" "Third-year. Let me guess, you're a first year?"
 
 "I'm Ayanokouji, from Class D. You're also in Class D, aren't you?"
 
-> "What's that got to do with you?"
+"What's that got to do with you?"
 
 Kushida looked at me with surprise, as if asking, "How did you know?"
 
@@ -5824,39 +5486,35 @@ Kushida looked at me with surprise, as if asking, "How did you know?"
 
 "I want to ask you something. If you listen, I'll show you my gratitude."
 
-> "Gratitude?"
+"Gratitude?"
 
 The cafeteria's hustle and bustle drowned out my voice. The students were all engrossed in chatting pleasantly with their friends.
 
 "Do you still have the problems from the midterm test from the first semester of your first year? Or, if not, do you happen to know someone from your class who does?"
 
-> "Do you even understand what you're asking?" he said.
+"Do you even understand what you're asking?" he said.
 
 "It's not particularly strange, is it? I didn't think it was against school rules to study using old test problems."
 
-> "Why are you asking me?"
+"Why are you asking me?"
 
-"That's simple. I believed I'd have the highest chance of success if I worked with someone who doesn't have any points. Honestly, that free vegetable meal doesn't look good. Of course, things would be quite different if you actually *liked* eating the vegetable set. What do you think?"
+"That's simple. I believed I'd have the highest chance of success if I worked with someone who doesn't have any points. Honestly, that free vegetable meal doesn't look good. Of course, things would be quite different if you actually liked eating the vegetable set. What do you think?"
 
-> "How much are you going to pay?"
->
-> "Ten thousand points. That's as high as I'll go."
+"How much are you going to pay?"
+
+"Ten thousand points. That's as high as I'll go."
 
 "I don't have the old test problems, but...I know someone who does. If you want him to help you, though, you're going to need to offer at least 30,000 points. If you've got that, you're fine."
 
 "I'm afraid that 30,000 is a no-go for me. I don't have that much."
 
-> "How much do you have?" "Twenty thousand."
->
-> "Then 20,000... no, 15,000 should do. Nothing under that." "15,000, huh?"
+"How much do you have?" "Twenty thousand."
 
-"If you'd go so far as to ask for old test problems from a stranger, then you must be pretty desperate, huh? Well, the school
+"Then 20,000... no, 15,000 should do. Nothing under that." "15,000, huh?"
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2139.png){width="0.28888888888888886in" height="0.1701388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1964.png){width="0.28888888888888886in" height="0.1701388888888889in"}
+"If you'd go so far as to ask for old test problems from a stranger, then you must be pretty desperate, huh? Well, the school will mercilessly expel any student who gets a failing grade. None of my classmates are even here anymore."
 
-will mercilessly expel any student who gets a failing grade. None of my classmates are even here anymore."
-
-> "I see. I understand. I'll pay the 15,000 points."
+"I see. I understand. I'll pay the 15,000 points."
 
 "Then we have a deal. Of course, I'll have to ask you to transfer the points in advance."
 
@@ -5868,7 +5526,7 @@ will mercilessly expel any student who gets a failing grade. None of my classmat
 
 "All right. I'll toss that in, too. I think that your concerns are pointless, though." It seemed he understood what I was after.
 
-> "Thank you very much."
+"Thank you very much."
 
 After we made our deal, he quickly left. He probably didn't want to be noticed.
 
@@ -5880,15 +5538,13 @@ After we made our deal, he quickly left. He probably didn't want to be noticed.
 
 "Cheating? I don't think so. If the school didn't allow it, they would have outlined it in the school rules to begin with. Also, I felt more confident after seeing that third-year student. That is to say, it's not unusual for students to barter points like this."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2141.png){width="0.33194444444444443in" height="0.1701388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2142.png){width="0.33194444444444443in" height="0.1701388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2143.png){width="0.33194444444444443in" height="0.1701388888888889in"}
-
-> "Huh?"
+"Huh?"
 
 "My request didn't particularly surprise him, and he accepted quickly. This probably isn't the first time he's negotiated like this. Not only did he have the answer sheet for the first-year midterm exam, but he also had the answer sheet for the mock test we took after being admitted. If he saved those, it's clear why."
 
-> Kushida's eyes widened in shock.
->
-> "Ayanokouji-kun, what you did was unexpectedly daring." "It's just a bit of insurance to prevent Sudou and the others
+Kushida's eyes widened in shock.
+
+"Ayanokouji-kun, what you did was unexpectedly daring." "It's just a bit of insurance to prevent Sudou and the others
 
 from getting expelled."
 
@@ -5898,13 +5554,13 @@ They might be completely unrelated to what's featured on this year's test."
 
 "The problems may not be exactly the same, but there will definitely be similarities. I noticed a hint on that last mock exam we took."
 
-> "A hint?"
+"A hint?"
 
 "You noticed the really difficult problems alongside the simple ones, right?"
 
 "Yeah, I did. The final questions, right? I didn't understand them at all."
 
-"I did some investigating, and I found that those questions were on the second- and third-year students' tests. In other words, a first-year student generally wouldn't understand how to solve them. Wouldn't it be pointless for the school to purposefully throw us problems we can't solve? Those questions aren't there simply to measure our academic ability. Now, suppose that the problems on the mock test *we* took were exactly the same as the problems on the old mock test. What would happen?"
+"I did some investigating, and I found that those questions were on the second- and third-year students' tests. In other words, a first-year student generally wouldn't understand how to solve them. Wouldn't it be pointless for the school to purposefully throw us problems we can't solve? Those questions aren't there simply to measure our academic ability. Now, suppose that the problems on the mock test we took were exactly the same as the problems on the old mock test. What would happen?"
 
 "If I'd seen the old test, I would have been able to answer every question," she said.
 
@@ -5912,53 +5568,45 @@ The same thing would likely apply to the midterm exam as well. Shortly thereafte
 
 First, I checked the mock test. The key was whether or not the last three problems were the same. Kushida must have been curious as well, because she drew closer and tried to peek at my phone.
 
-> "Well? Well?" she asked.
+"Well? Well?" she asked.
 
 "They're the same. Every single word is identical. The test from that year and this year are exactly the same, in every way."
 
 "That's amazing! So, if we show this to everyone in class, that would mean an easy victory! We should show this to all of our other friends, not just Sudou-kun!"
 
-> "No, we'll hold off. We won't show it to Sudou and the guys
+"No, we'll hold off. We won't show it to Sudou and the guys yet."
 
-yet."
-
-> "Wh-why? You went to all of the trouble of using up so
+"Wh-why? You went to all of the trouble of using up so
 
 many of your points for this!"
 
 "If they learn that the old test questions would be effective, their motivation to study would go up in smoke. We need to be wary of overconfidence. After all, even though the mock tests were identical, it's possible that the questions featured on the midterm this year might not be the same as last year's."
 
-> These old test papers were insurance. "Okay, then how will you use them?"
+These old test papers were insurance. "Okay, then how will you use them?"
 
 "I'm going to release them on the internet the day before the test. We tell everyone that the problems from the old test are generally the same as the ones on the new. Then what do you think will happen?"
 
 "That night, everyone will be hunched over their desks, frantically trying to memorize all of the problems!"
 
-> "Exactly."
+"Exactly."
 
 The students with a poor grasp of the basics probably wouldn't be able to memorize everything in a single day.
 
 However, we weren't shooting for perfect scores this time around. The crucial thing was to avoid failing. If we got greedy, we might end up digging our own graves.
 
-> With this plan, we could probably get everyone in Class D to
+With this plan, we could probably get everyone in Class D to pass.
 
-pass.
-
-> "When did you come up with the idea to get the old tests?"
-
-she asked.
+"When did you come up with the idea to get the old tests?" she asked.
 
 "I considered it when we learned that the test material was going to be different. However, I had a hunch back when they first told us about the midterm exam."
 
-> "Huh?! Way back then?"
+"Huh?! Way back then?"
 
 "There was something very peculiar about the way Chiyabashira-sensei told us about the test. As our homeroom teacher, she had a clear understanding of everyone's grades and academic performance. Despite that, she seemed absolutely certain when she told us that there was a way for us to pass this test. In other words, she indicated that there was a surefire way for us to save everyone."
 
-> "And that's...the old test papers?"
+"And that's...the old test papers?"
 
-"This might be related to why Sudou, Ike, and Yamauchi were admitted to this school despite being academically poor. Even if they couldn't get good grades by studying ahead, perhaps there were other means of addressing the problem, a backup plan they could use to avoid expulsion. This meant that it was possible
-
-for anyone to get a near-perfect score if they could get the old test papers. That's what I took from the situation, anyway."
+"This might be related to why Sudou, Ike, and Yamauchi were admitted to this school despite being academically poor. Even if they couldn't get good grades by studying ahead, perhaps there were other means of addressing the problem, a backup plan they could use to avoid expulsion. This meant that it was possible for anyone to get a near-perfect score if they could get the old test papers. That's what I took from the situation, anyway."
 
 "Ayanokouji-kun, you really are an incredibly observant person, aren't you?"
 
@@ -5966,31 +5614,31 @@ for anyone to get a near-perfect score if they could get the old test papers. Th
 
 "Hmm." Kushida grinned like some gears were turning in her mind.
 
-"I have one more favor to ask. Could you please tell everyone that *you* got the old test papers, Kushida? I want you to say that you got them from a third-year student you're close to."
+"I have one more favor to ask. Could you please tell everyone that you got the old test papers, Kushida? I want you to say that you got them from a third-year student you're close to."
 
-> "That's fine, but...are you okay with that, Ayanokouji-kun?"
+"That's fine, but...are you okay with that, Ayanokouji-kun?"
 
 "I like to avoid trouble. I don't want to stand out. Besides, our classmates trust you, Kushida. I think it would be better if you told them."
 
-> "I understand. If you say so, Ayanokouji-kun."
+"I understand. If you say so, Ayanokouji-kun."
 
 "Thanks. Don't say anything else, though. We need to avoid drawing too much attention."
 
-> "Okay, we can keep this secret between us." "Yeah, that's what I was thinking."
+"Okay, we can keep this secret between us." "Yeah, that's what I was thinking."
 
 "Don't you feel that a strange bond of mutual trust forms between people who share a secret?"
 
-> "I don't know about that. I sure hope so." "Thank you," replied Kushida.
->
-> I didn't really know what she meant by that.
->
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2151.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2152.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2153.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2154.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2155.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2156.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2157.png){width="1.117361111111111in" height="0.3055555555555556in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2165.png){width="0.35208333333333336in" height="0.18194444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2166.png){width="0.35208333333333336in" height="0.18194444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2167.png){width="0.35208333333333336in" height="0.18194444444444444in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2171.png){width="1.21875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2172.png){width="1.21875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2173.png){width="1.21875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2174.png){width="1.21875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2175.png){width="1.21875in" height="0.23541666666666666in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2181.png){width="0.7472222222222222in" height="0.21666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2182.png){width="0.7472222222222222in" height="0.21666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2183.png){width="0.7472222222222222in" height="0.21666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2184.png){width="0.7472222222222222in" height="0.21666666666666667in"}
+"I don't know about that. I sure hope so." "Thank you," replied Kushida.
 
-**I**t was Thursday. Tomorrow, the midterm would be upon us. Class had ended for the day. After Chiyabashira-sensei ended the homeroom period and left the classroom, Kushida immediately leapt into action. She took out printed copies of the old test that I'd made at the convenience store and brought them up to the podium.
+I didn't really know what she meant by that.
+
+**Chapter 10: Midterm Exam**
+
+It was Thursday. Tomorrow, the midterm would be upon us. Class had ended for the day. After Chiyabashira-sensei ended the homeroom period and left the classroom, Kushida immediately leapt into action. She took out printed copies of the old test that I'd made at the convenience store and brought them up to the podium.
 
 "Everyone, before you return to the dorm, would you mind listening to me for a moment?"
 
-> Everyone, including Sudou, stopped and listened to Kushida.
+Everyone, including Sudou, stopped and listened to Kushida.
 
 This was a role that neither Horikita nor I could play. Only Kushida could do it.
 
@@ -6008,11 +5656,11 @@ Kushida distributed the question and answer sheets to the students in the first 
 
 "Whoa! Seriously? Thank you, Kushida-chan!" Overjoyed, Ike hugged his test paper. None of the other students could suppress their elation, either.
 
-"What the hell? If we had *these*, then wasn't it pointless to study so hard?" Yamauchi complained, even as he laughed.
+"What the hell? If we had these, then wasn't it pointless to study so hard?" Yamauchi complained, even as he laughed.
 
-> It looked like I'd been right.
->
-> "Sudou-kun, do your best when you study today!" "Yeah. Thanks, you really helped me out." Sudou also
+It looked like I'd been right.
+
+"Sudou-kun, do your best when you study today!" "Yeah. Thanks, you really helped me out." Sudou also
 
 happily accepted the test papers.
 
@@ -6020,17 +5668,15 @@ happily accepted the test papers.
 
 "Kushida-san. Excellent work." Horikita gave Kushida genuine praise, which was unusual.
 
-> "Eh, really?" Kushida said.
+"Eh, really?" Kushida said.
 
 "I'd never even considered trying to use the old tests. I'm also grateful that you verified that the questions were still useful."
 
-> True. The always-solitary Horikita hadn't come up with that
+True. The always-solitary Horikita hadn't come up with that
 
 idea. said.
 
-"I just did it for my friends. It was nothing special," Kushida "Also, I think that you were correct to announce that you
-
-had it today after class. If you'd carelessly let word get out about this test, it's possible that everyone would have lost their motivation to study."
+"I just did it for my friends. It was nothing special," Kushida "Also, I think that you were correct to announce that you had it today after class. If you'd carelessly let word get out about this test, it's possible that everyone would have lost their motivation to study."
 
 "That was only because I received the test papers so late. If many of the same problems are featured on the test tomorrow, then everyone will probably manage to get pretty high test scores."
 
@@ -6038,9 +5684,9 @@ had it today after class. If you'd carelessly let word get out about this test, 
 
 The past two weeks had probably been tremendously long for Sudou and the other failing students. Hopefully they'd gotten more into the habit of studying now.
 
-> "It was hard but fun."
->
-> "I don't think the Idiot Trio found it the least bit fun."
+"It was hard but fun."
+
+"I don't think the Idiot Trio found it the least bit fun."
 
 Well, we'd done as much as we could. The next step for those three simply came down to effort.
 
@@ -6048,47 +5694,47 @@ Well, we'd done as much as we could. The next step for those three simply came d
 
 Well, I couldn't really do anything about that part. No matter how much they were taught and what they demonstrated during the study group, everything came down to their performance on the actual test. At least the previous questions were one crucial bit of help.
 
-> "Well, should we head back?"
+"Well, should we head back?"
 
 Horikita quietly looked over at Kushida as she put her textbook into her bag. "Kushida-san."
 
-> "Hmm?"
+"Hmm?"
 
 "Really, thank you for everything you've done. If you weren't here, the study group would not have succeeded."
 
 "Don't worry about it. I just want to get into the higher- ranked classes together with everyone else. That's why I did it, and why I agreed to help with the study group. I'll help you again any time." Smiling, Kushida grabbed her bag and stood.
 
-> "Wait. There's just one thing I want to confirm," Horikita
+"Wait. There's just one thing I want to confirm," Horikita
 
 said.
 
-> "Confirm?"
+"Confirm?"
 
 "If you say that you'll continue working with me for the sake of our class, then I need to be sure of something."
 
 Horikita looked straight at Kushida, who was still wearing that dazzling smile.
 
-> "You hate me, don't you?"
+"You hate me, don't you?"
 
 "Hey, hey..." I'd wondered what she wanted to ask, but that was ridiculously unexpected.
 
-> "Why do you think that?" Kushida asked.
->
-> "You're not answering my question because it's true. Right?" "Ha ha, you got me." She shouldered her bag and lowered
+"Why do you think that?" Kushida asked.
+
+"You're not answering my question because it's true. Right?" "Ha ha, you got me." She shouldered her bag and lowered
 
 her hands. Kushida faced Horikita without losing her smile. "That's right. I really hate you."
 
 She answered clearly, making no attempt to hide it. She was direct.
 
-> "Do you want me to tell you the reason?"
+"Do you want me to tell you the reason?"
 
 "No. That's unnecessary. Knowing that is good enough. I can continue working with you without hesitation."
 
-> Despite what she'd just been told, Horikita spoke calmly.
->
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2189.png){width="0.45208333333333334in" height="0.18194444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2190.png){width="0.45208333333333334in" height="0.18194444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2191.png){width="0.45208333333333334in" height="0.18194444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2192.png){width="0.45208333333333334in" height="0.18194444444444444in"}
+Despite what she'd just been told, Horikita spoke calmly.
 
-**"T**here are no absences today. It appears everyone is present."
+**10.1**
+
+"There are no absences today. It appears everyone is present."
 
 Chiyabashira-sensei strode through the classroom with a bold smile on her face.
 
@@ -6096,13 +5742,13 @@ Chiyabashira-sensei strode through the classroom with a bold smile on her face.
 
 "We've studied diligently these past few weeks. I don't think that anyone will fail."
 
-> "Oh my. You sound quite confident, Hirata."
+"Oh my. You sound quite confident, Hirata."
 
 Everyone wore a confident look. The teacher promptly took up the test papers and passed them out. Our first period test was for social studies. Out of everything we'd studied, it was probably the easiest subject.
 
 "If anyone stumbles here, the other tests will be an uphill battle, quite frankly. You'll take this midterm and the final exam in July. If no one fails either test, you'll be rewarded with a vacation during your summer break."
 
-> "A vacation?"
+"A vacation?"
 
 "That's right. A dream vacation on an island surrounded by the brilliant blue sea."
 
@@ -6112,17 +5758,15 @@ Of course, the beach in summer meant we'd be able to see the girls in their swim
 
 Chiyabashira-sensei stepped back from the obvious tension the students exuded... mostly the boys.
 
-> "Everyone. Let's do our best!"
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2197.png){width="0.3055555555555556in" height="0.1701388888888889in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1976.png){width="0.3055555555555556in" height="0.1701388888888889in"}
+"Everyone. Let's do our best!"
 
 "Yeah!" Ike howled along with our classmates. I shouted too, my voice getting lost in the cacophony.
 
-> "Pervert." Horikita glanced at me. I immediately fell silent.
+"Pervert." Horikita glanced at me. I immediately fell silent.
 
 Before long, everyone had their test papers. On the teacher's signal, everyone began. I held off on starting for a moment and looked around at the others. With everything they'd learned, could the Idiot Trio avoid failing? First off, how many of this test's questions were the same as the ones from the old exam? I needed to check that first.
 
-> *All right.*
+All right.
 
 I discreetly clenched my fist in triumph. Despite my fears, the questions here were the same as the old ones. I hadn't looked them over in any detail, but I saw no great difference. If I'd memorized what was on the old test, it was clear that I could get a near-perfect score.
 
@@ -6130,15 +5774,13 @@ Glancing around the classroom for assurance, I didn't notice any students lookin
 
 The second and third period exams were for Japanese and chemistry, respectively. While I worked, I discovered something else that intrigued me. Looking over the problems again, I realized that what Horikita had drilled into the study group was consistent with what was on the test. She'd been able to accurately predict what problems would appear just from the lessons. The silent girl beside me was even more impressive than I'd imagined.
 
-Then came fourth period. Mathematics. All of the abnormally difficult questions that had been featured on the mock test also appeared here, but the content was the same as the old exams. Even if Sudou and the other guys couldn't understand the
+Then came fourth period. Mathematics. All of the abnormally difficult questions that had been featured on the mock test also appeared here, but the content was the same as the old exams. Even if Sudou and the other guys couldn't understand the problems, they could still apply the answers if they'd memorized them.
 
-problems, they could still apply the answers if they'd memorized them.
-
-> Then came the break.
+Then came the break.
 
 Some members of our study group, including Ike, Yamauchi, Kushida, Horikita, and myself, gathered together.
 
-> "An easy victory! We've got this test on lock!"
+"An easy victory! We've got this test on lock!"
 
 "I feel like I might get 120 points." Ike sounded pretty sure of himself. Yamauchi must have felt the same, judging from the smile on his face. Confident, they looked over the old test papers for a final review.
 
@@ -6146,7 +5788,7 @@ Some members of our study group, including Ike, Yamauchi, Kushida, Horikita, and
 
 However, Sudou looked sullen. "Sudou-kun?"
 
-> "Huh? Oh, sorry. I'm kind of busy."
+"Huh? Oh, sorry. I'm kind of busy."
 
 He didn't look up from the questions as he spoke. He was reviewing the English test material, his forehead covered in a thin layer of sweat.
 
@@ -6154,9 +5796,9 @@ He didn't look up from the questions as he spoke. He was reviewing the English t
 
 "Everything but English. I fell asleep partway through." Sudou sounded irritated. In other words, this was his first time reviewing the material.
 
-> "Eh?!"
->
-> That also meant that Sudou only had ten minutes to review. "Damn, I can't get any of these answers to stick in my head,"
+"Eh?!"
+
+That also meant that Sudou only had ten minutes to review. "Damn, I can't get any of these answers to stick in my head,"
 
 he muttered.
 
@@ -6172,23 +5814,23 @@ Unlike the other tests, the English problems weren't easy to memorize. Trying to
 
 Memorizing it'll take time."
 
-> "Y-yeah. I struggle with English, too..."
+"Y-yeah. I struggle with English, too..."
 
 The break passed in the blink of an eye, and the heartless class bell rang.
 
 "I did all I could. I'll try to answer the questions I remember first, before I forget them."
 
-> "Yeah..."
+"Yeah..."
 
 And thus began our English test. While the other students calmly made their way through, Sudou clearly had trouble.
 
 Occasionally, he'd stop writing and whack his pen against his head. However, no one could help him now. Whether Sudou sank or swam was entirely up to him.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2203.png){width="0.5104166666666666in" height="0.18194444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2204.png){width="0.5104166666666666in" height="0.18194444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2192.png){width="0.5104166666666666in" height="0.18194444444444444in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2205.png){width="0.5104166666666666in" height="0.18194444444444444in"}
->
-> **A**fter the last test, we gathered around Sudou's desk again. "Hey, did you do okay?" asked Ike, anxiously.
->
-> Sudou was on the verge of losing his cool.
+**10.2**
+
+After the last test, we gathered around Sudou's desk again. "Hey, did you do okay?" asked Ike, anxiously.
+
+Sudou was on the verge of losing his cool.
 
 "I don't know... I did everything I could, but I have no idea how well I did..."
 
@@ -6196,25 +5838,25 @@ Occasionally, he'd stop writing and whack his pen against his head. However, no 
 
 "Damn it, why did I fall asleep?" Sudou fidgeted, clearly frustrated with himself. Horikita then stepped in front of him.
 
-> "Sudou-kun."
+"Sudou-kun."
 
 "What is it? Are you going to lecture me again?" he grumbled.
 
 "It was certainly your fault for not reviewing the old test's final section. However, as you said, you did everything that you could with the time that you had. You didn't cut any corners or give up. Considering how much effort you put in, I think you should hold your head high and feel proud."
 
-> "What is this? Are you trying to comfort me?"
+"What is this? Are you trying to comfort me?"
 
 "Comfort? I'm speaking the truth. When I look at how far you've come, I understand how hard studying is for you, Sudou."
 
 Horikita was genuinely praising him. None of us could believe what we were seeing.
 
-> "Let's wait for the results." "Yeah... Okay."
->
-> "There's...one more thing. Something I need to amend." "Amend?"
+"Let's wait for the results." "Yeah... Okay."
+
+"There's...one more thing. Something I need to amend." "Amend?"
 
 "Earlier, I said that your dreams of becoming a professional basketball player were foolish."
 
-> "Why are you reminding me of that?"
+"Why are you reminding me of that?"
 
 "I researched how someone could become a professional basketball player, and I learned that the road to success is an incredibly rocky one."
 
@@ -6232,31 +5874,31 @@ Horikita's expression was the same as always, but she bowed her head to Sudou.
 
 "I'm sorry for what I said back then. Well. Now that I've said my piece, I'll be going."
 
-> Horikita left the room, her apology still hanging in the air.
+Horikita left the room, her apology still hanging in the air.
 
 "Hey, did you just see that? Horikita apologized! And so nicely!"
 
-> "I can't believe it!"
+"I can't believe it!"
 
 Ike and Yamauchi were both completely stunned. I was pretty surprised, too. Kushida was as well. Horikita had acknowledged that Sudou had done his best. A dumbfounded Sudou, still seated at his desk, looked after Horikita as she walked through the classroom door. Soon after, Sudou, put his right hand over his heart and looked at us.
 
 "O-oh, no... I... I think I might be in love with Horikita..." he said.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2209.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2210.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2211.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2212.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2213.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2214.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2215.png){width="1.117361111111111in" height="0.3055555555555556in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2223.png){width="0.28541666666666665in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2224.png){width="0.28541666666666665in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2225.png){width="0.28541666666666665in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2226.png){width="0.28541666666666665in" height="0.1736111111111111in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2231.png){width="0.5138888888888888in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2232.png){width="0.5138888888888888in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2233.png){width="0.5138888888888888in" height="0.23541666666666666in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2237.png){width="1.4256944444444444in" height="0.31180555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2238.png){width="1.4256944444444444in" height="0.31180555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2239.png){width="1.4256944444444444in" height="0.31180555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2240.png){width="1.4256944444444444in" height="0.31180555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2241.png){width="1.4256944444444444in" height="0.31180555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2242.png){width="1.4256944444444444in" height="0.31180555555555556in"}
+**Chapter 11: The Beginning**
 
-**C**hiyabashira-sensei strode into the classroom, looking around at the students in surprise. Everyone was clearly anxious, holding their breath in anticipation of the test results.
+Chiyabashira-sensei strode into the classroom, looking around at the students in surprise. Everyone was clearly anxious, holding their breath in anticipation of the test results.
 
 "Sensei. We were told that the results would be announced today, but when?"
 
 "There's no need for you to get so worked up, Hirata. You should have passed quite easily."
 
-> "So, when will the results be released?"
+"So, when will the results be released?"
 
 "Well, if you'd like, now is as good a time as any. If we waited to do it after class, we wouldn't have enough time for other procedures."
 
 Some of the students visibly reacted to the words "other procedures."
 
-> "What...do you mean by that?" "Don't get flustered. I'll tell you now."
+"What...do you mean by that?" "Don't get flustered. I'll tell you now."
 
 As usual, she revealed the details simultaneously and collectively. She stuck a large, white sheet of paper with everyone's names and test scores onto the blackboard.
 
@@ -6264,7 +5906,7 @@ As usual, she revealed the details simultaneously and collectively. She stuck a 
 
 Some of the students shouted in joy and delight when they saw the 100s lined up on the results sheet. However, some weren't smiling. The only grade that truly mattered was Sudou's score in English.
 
-> Then---
+Then---
 
 We saw Sudou's test scores. He had scored sixty points in four of the five main subjects, which was considerably high. He'd scored thirty-nine points in English.
 
@@ -6272,31 +5914,27 @@ We saw Sudou's test scores. He had scored sixty points in four of the five main 
 
 "We showed you, sensei! When we really try our best, we can do anything!" Ike wore a smug, confident look.
 
-> "Yes, I recognize that. You all did very well. However---" Chiyabashira-sensei held a red pen in her hand.
->
-> Sudou unintentionally let out a "Huh?"
->
-> She drew a red line right above Sudou's name. "Wh-what is that? What does that mean?" "You failed, Sudou."
+"Yes, I recognize that. You all did very well. However---" Chiyabashira-sensei held a red pen in her hand.
+
+Sudou unintentionally let out a "Huh?"
+
+She drew a red line right above Sudou's name. "Wh-what is that? What does that mean?" "You failed, Sudou."
 
 "Huh? You're lying, right? Don't give me that crap! Why did I fail?" he cried.
 
 Of course, Sudou was the first one to protest this. In response to Sudou's failing grade, the entire classroom did a complete one- eighty. We stopped our delighted cheering and erupted in confusion.
 
-> "Sudou, you failed the English exam. That's all." "Don't screw with me! I got thirty-two points! I passed!"
+"Sudou, you failed the English exam. That's all." "Don't screw with me! I got thirty-two points! I passed!"
 
 "When did anyone say that thirty-two points was a passing grade?"
 
-> "No, no. You said so, sensei! Right, everyone?" shouted Ike.
+"No, no. You said so, sensei! Right, everyone?" shouted Ike.
 
-"Say whatever you want, it won't matter. This is the undeniable truth. You had to score at least a forty to pass the
+"Say whatever you want, it won't matter. This is the undeniable truth. You had to score at least a forty to pass the midterm exam. In other words, you were just one point short. You were so close."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2249.png){width="0.36180555555555555in" height="0.21666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2250.png){width="0.36180555555555555in" height="0.21666666666666667in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2251.png){width="0.36180555555555555in" height="0.21666666666666667in"}
+"F-forty?! You never told us about this! I won't accept it!"
 
-midterm exam. In other words, you were just one point short. You were so close."
-
-> "F-forty?! You never told us about this! I won't accept it!"
->
-> "Should I tell you how we determine the passing grade?"
+"Should I tell you how we determine the passing grade?"
 
 Chiyabashira-sensei wrote a simple formula on the blackboard: 79.6 divided by 2 equals 39.8.
 
@@ -6304,9 +5942,9 @@ Chiyabashira-sensei wrote a simple formula on the blackboard: 79.6 divided by 2 
 
 In other words, anything at 39.8 or lower was considered failing.
 
-> "I provided proof that you failed. That is all."
->
-> "No way... So... Does that mean I'm going to be expelled?" "Although your time here was short, you struggled valiantly.
+"I provided proof that you failed. That is all."
+
+"No way... So... Does that mean I'm going to be expelled?" "Although your time here was short, you struggled valiantly.
 
 You'll be asked to fill out a withdrawal form after class, but you will need to have a legal guardian present when you do so. I'll contact them for you."
 
@@ -6318,35 +5956,29 @@ As we witnessed the scene unfold, the teacher rattling off the information as if
 
 Hirata was the first to show concern, even though Sudou hated him and had lashed out at him verbally.
 
-> "He's being expelled. He got a failing grade." "Could we possibly see Sudou-kun's answer sheet?"
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2255.png){width="0.36180555555555555in" height="0.18055555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2256.png){width="0.36180555555555555in" height="0.18055555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2257.png){width="0.36180555555555555in" height="0.18055555555555555in"}
+"He's being expelled. He got a failing grade." "Could we possibly see Sudou-kun's answer sheet?"
 
 "Even if you look it over, you won't find any grading mistakes. I was expecting that you'd protest."
 
 She took out Sudou's English answer sheet and handed it to Hirata, who immediately looked over every problem. His expression turned dark when he reached the end.
 
-> "There...are no mistakes."
->
-> "Well, if you're all in agreement, homeroom is over."
+"There...are no mistakes."
+
+"Well, if you're all in agreement, homeroom is over."
 
 Chiyabashira-sensei had heartlessly announced Sudou's expulsion without offering him a second chance or the faintest bit of sympathy. Ike and Yamauchi, knowing that words of comfort would probably have the opposite effect, stayed silent. Hirata remained quiet, too. Sadly, some of the students appeared relieved by this. Were they happy that a nuisance like Sudou was being removed from the class?
 
-> "Sudou, come to the faculty room after class. That is all." "Chiyabashira-sensei. May I have a moment of your time?"
+"Sudou, come to the faculty room after class. That is all." "Chiyabashira-sensei. May I have a moment of your time?"
 
 Though she'd stayed silent until that moment, Horikita raised her slender arm in the air and spoke. Thus far, Horikita had never voluntarily made any remarks. Chiyabashira-sensei and the rest of the class appeared shocked by this abnormality.
 
-> "Well, this is unusual, Horikita. Why?"
+"Well, this is unusual, Horikita. Why?"
 
 "Earlier, you said that the previous test had a passing grade of thirty-two points. You arrived at that number by the same formula you showed us today. Were there no mistakes in calculating the passing grade for the last test?"
 
-> "There were no mistakes."
+"There were no mistakes."
 
-"Then, that raises one more question. I'd calculated the average score for the previous test to be 64.4 points. If I were to divide that by two, I would get 32.2 points. In other words, higher than 32 points. Despite that, the passing grade was set at 32. That
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2261.png){width="0.3034722222222222in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1959.png){width="0.3034722222222222in" height="0.17847222222222223in"}
-
-means that you left off the decimal. That contradicts what you did this time."
+"Then, that raises one more question. I'd calculated the average score for the previous test to be 64.4 points. If I were to divide that by two, I would get 32.2 points. In other words, higher than 32 points. Despite that, the passing grade was set at 32. That means that you left off the decimal. That contradicts what you did this time."
 
 "Th-that's right. If you follow what you did last time, the passing grade for the midterm should be thirty-nine points!"
 
@@ -6354,23 +5986,21 @@ In other words, Sudou's overall grade should have meant that he just barely pass
 
 "I see. Did you anticipate that Sudou would just barely pass, then? You only scored exceedingly low in English, after all."
 
-> "Horikita, you..."
+"Horikita, you..."
 
 Sudou had realized something. The other students gasped as they also realized what had happened. Horikita had gotten perfect scores in four of the five main subjects, but she'd gotten an exceedingly low score of fifty-one points in English. Her English stuck out from her other scores.
 
-> "You really---"
+"You really---"
 
 Sudou noticed what she'd done. In order to lower the average score for the English test, Horikita had purposefully botched her own grade as far as she could.
 
 "If you believe that my thinking is incorrect, could you please tell why the calculation differs between this test and the last test?" she asked.
 
-> The last ray of light. Our final hope.
+The last ray of light. Our final hope.
 
 "I see. In that case, I'll explain in more detail. Unfortunately, your calculation is off. We didn't simply omit the decimal when we calculated the passing grade. We rounded the numbers up or down. On the last test, we rounded down to thirty-two points, and on this, we rounded up to forty. There's your answer."
 
-> "Tch..."
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2263.png){width="0.3472222222222222in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2264.png){width="0.3472222222222222in" height="0.17847222222222223in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2265.png){width="0.3472222222222222in" height="0.17847222222222223in"}
+"Tch..."
 
 "You should have noticed that we rounded the numbers, but to hold on to that possibility... Well, too bad. At any rate, first period will be starting soon. I'll be going."
 
@@ -6382,39 +6012,39 @@ Sudou, still struggling to wrap his head around this new reality, looked over at
 
 Horikita slowly sat back down. However, Horikita's 51-point score on her English test was already considerably low. If she'd scored in the 40-point range, she could have run the risk of expulsion herself.
 
-> "Why? You said that you hated me," Sudou said.
+"Why? You said that you hated me," Sudou said.
 
 "Don't misunderstand. I did this for my own sake. It was all for nothing, though."
 
-> I slowly got up from my seat.
->
-> "Wh-where are you going, Ayanokouji?" "Bathroom."
+I slowly got up from my seat.
+
+"Wh-where are you going, Ayanokouji?" "Bathroom."
 
 With that, I exited and quickly made my way toward the faculty room. I wondered if Chiyabashira-sensei had already arrived. As I thought that, I caught her staring out the window into the first-floor hallway, almost as if she were waiting for someone.
 
 "Ayanokouji, hmm? Class will begin any minute, you know," she said.
 
-> "Sensei. Would it be all right if I asked you one question?"
+"Sensei. Would it be all right if I asked you one question?"
 
 "One question? Is that why you went to the trouble of chasing after me?"
 
-> "I'm curious about something."
->
-> "First it was Horikita, now you. What in the world is it?" "Do you think that today's Japanese society is fair?"
+"I'm curious about something."
+
+"First it was Horikita, now you. What in the world is it?" "Do you think that today's Japanese society is fair?"
 
 "What an incredible change in topic. So sudden, too. Is there some special meaning behind this question?"
 
-> "It's very important. I would like your opinion."
+"It's very important. I would like your opinion."
 
 "If you're asking for my personal opinion, then, no, of course not. The world isn't fair, not even the slightest bit."
 
-> "I see. I feel the same way. I think that equality is a fiction."
+"I see. I feel the same way. I think that equality is a fiction."
 
 "So, did you chase after me merely to ask that question? If that's all, then I'll be going."
 
 "One week ago, when you told us that the test's material had changed, you also said something like 'I forgot to inform you.' Because of that forgetfulness, we were notified of the change one week after the other classes had already been informed."
 
-> "Yes, I said as much back in the faculty room. What of it?"
+"Yes, I said as much back in the faculty room. What of it?"
 
 "Every class got the same questions, the points were reflected in the same way for everyone, and every class faced the same threat of expulsion. However, Class D was compelled to test under unfair conditions."
 
@@ -6422,19 +6052,19 @@ With that, I exited and quickly made my way toward the faculty room. I wondered 
 
 "Certainly, society is not equal, no matter how idealistic you try to be. However, we are human beings, living things that can think."
 
-> "What are you trying to say?"
+"What are you trying to say?"
 
 "I'm saying that we should strive for equality. At least a little."
 
-> "I see."
+"I see."
 
 "Whether or not you truly forgot to tell us, or if it was an intentional slip, isn't really the issue. The fact remains that one person is now being expelled from this school because of those unfair conditions."
 
-> "So, what do you want me to do?"
+"So, what do you want me to do?"
 
 "That's why I'm here. I would like to undertake the appropriate steps to meet with the school, the direct cause of this inequality."
 
-> "To tell them you disagree?"
+"To tell them you disagree?"
 
 "I just want to confirm with the appropriate people that they believe the school made the correct judgment."
 
@@ -6458,17 +6088,13 @@ Apparently, my actions were more conspicuous than I'd thought.
 
 "Honestly, you're probably right. However, I decided to lend a hand. I suppose it's too early for me to give up. I've one thing left to try."
 
-> I took my student ID card out of my pocket. "What are you planning?"
->
-> "Please sell me one point that I can apply to Sudou's English
+I took my student ID card out of my pocket. "What are you planning?"
 
-test."
+"Please sell me one point that I can apply to Sudou's English test."
 
 "............"
 
-Chiyabashira-sensei's eyes widened, and then she laughed
-
-loudly.
+Chiyabashira-sensei's eyes widened, and then she laughed loudly.
 
 "Ha ha ha ha ha! That's a rather interesting idea. You really are a different kind of student. I never imagined you'd try to buy points."
 
@@ -6476,39 +6102,37 @@ loudly.
 
 "I see, I see. You certainly could view it that way. However, do you even have enough money on hand to afford it?"
 
-> "Well, how much does one test point cost?"
+"Well, how much does one test point cost?"
 
 "Now, that's a rather difficult question, isn't it? I've never been asked to sell test points before. Let's see... Seeing as how this is a special occasion, I'll sell a test point for the exceptional price of 100,000 points."
 
-> "You're cruel, sensei."
+"You're cruel, sensei."
 
 Everyone at this school had spent at least some of their points. Absolutely no one had 100,000 to spare.
 
 "I'll pay, too," someone said behind me. When I turned, I found Horikita standing there.
 
-> "Horikita..." I said.
->
-> "Heh. Just as I thought. You two are interesting." Chiyabashira-sensei took my student ID card. Then she took
+"Horikita..." I said.
 
-Horikita's.
+"Heh. Just as I thought. You two are interesting." Chiyabashira-sensei took my student ID card. Then she took Horikita's.
 
 "Fine. I accept your deal. I'll sell you one point to apply to Sudou's test, taking a combined total of 100,000 points from you both. As for the matter of Sudou's expulsion, you can inform the class that's no longer the case."
 
-> "Is that okay?"
+"Is that okay?"
 
 "You promised to pay me 100,000 points. There's nothing more to be done." Chiyabashira-sensei seemed simultaneously exasperated and amused. "Horikita, do you understand how talented Ayanokouji is? At least somewhat?"
 
 "I wonder. When I look at him, all I see is a disagreeable student."
 
-> "What do you mean, 'disagreeable?'" I asked.
+"What do you mean, 'disagreeable?'" I asked.
 
 "You get low scores on purpose when you could easily score higher. You were the one who came up with the idea of getting the old test problems, but you gave Kushida-san the credit. You were even crazy enough to buy test points. I don't think that you're special or just deviate from the norm. I think you're disagreeable."
 
-> So, she'd heard how I got the old test questions, too.
+So, she'd heard how I got the old test questions, too.
 
 "Perhaps the pair of you really can reach the higher-level classes," Chiyabashira-sensei said.
 
-> "I don't know about *him*, but I most definitely will."
+"I don't know about him, but I most definitely will."
 
 "No one from Class D has ever been promoted before. The school has already labeled you defective and will coldly toss you aside. How will you accomplish your goal?"
 
@@ -6526,39 +6150,39 @@ I shared that opinion, and found Horikita's words to be quite meaningful. Horiki
 
 With that, Chiyabashira-sensei headed toward the faculty room, leaving the two of us in the hall.
 
-> "Well, let's head back. Class will be starting soon," I said. "Ayanokouji-kun."
->
-> "Hmm? Oof!"
->
-> Horikita chopped me in the side. "What was *that* for?"
->
-> "For whatever."
+"Well, let's head back. Class will be starting soon," I said. "Ayanokouji-kun."
+
+"Hmm? Oof!"
+
+Horikita chopped me in the side. "What was that for?"
+
+"For whatever."
 
 She left me as I clutched my sides in agony. Jeez, what a bothersome classm...bothersome person. With that thought, I decided to chase after her.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2273.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2274.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2275.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2276.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2277.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1016.png){width="1.117361111111111in" height="0.3055555555555556in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2278.png){width="1.117361111111111in" height="0.3055555555555556in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2285.png){width="0.3333333333333333in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2286.png){width="0.3333333333333333in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2287.png){width="0.3333333333333333in" height="0.1736111111111111in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2288.png){width="0.3333333333333333in" height="0.1736111111111111in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2293.png){width="1.0152777777777777in" height="0.3in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2294.png){width="1.0152777777777777in" height="0.3in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2295.png){width="1.0152777777777777in" height="0.3in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2296.png){width="1.0152777777777777in" height="0.3in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2297.png){width="1.0152777777777777in" height="0.3in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2298.png){width="1.0152777777777777in" height="0.3in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2299.png){width="1.0152777777777777in" height="0.3in"} ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2307.png){width="1.6319444444444444in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2308.png){width="1.6319444444444444in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2309.png){width="1.6319444444444444in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2310.png){width="1.6319444444444444in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2311.png){width="1.6319444444444444in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2312.png){width="1.6319444444444444in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2313.png){width="1.6319444444444444in" height="0.23680555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2314.png){width="1.6319444444444444in" height="0.23680555555555555in"}
+**Chapter 12: Victory Celebration**
 
-**"C**heers!" Ike shouted joyfully and toasted with a can of juice. That evening, the former association of failures had convened once again. Liberated from our studies, we were all overjoyed that no one had been expelled. Everyone smiled... Well, except for Horikita. We'd shared our burdens, and together, we'd overcome the challenge. Perhaps that was the point of being young. I guess if you ignored the one dark spot, this wasn't terrible.
+"Cheers!" Ike shouted joyfully and toasted with a can of juice. That evening, the former association of failures had convened once again. Liberated from our studies, we were all overjoyed that no one had been expelled. Everyone smiled... Well, except for Horikita. We'd shared our burdens, and together, we'd overcome the challenge. Perhaps that was the point of being young. I guess if you ignored the one dark spot, this wasn't terrible.
 
 "What's with the long face, Ayanokouji? Sudou wasn't expelled. Everything's fine now, right?"
 
-"I don't particularly mind that you're holding a celebration party, but why are you holding it in *my room*?"
+"I don't particularly mind that you're holding a celebration party, but why are you holding it in my room?"
 
-"Mine's a mess. So are Sudou's and Yamauchi's. And we can't go to a girl's room, right? I mean, yeah, I would've *loved* going to Kushida-chan's room. But your spectacularly plain and empty room is the best option."
+"Mine's a mess. So are Sudou's and Yamauchi's. And we can't go to a girl's room, right? I mean, yeah, I would've loved going to Kushida-chan's room. But your spectacularly plain and empty room is the best option."
 
 "It's only been two months since school started. I think it'd be weird to have a lot of stuff." Aside from daily necessities, I didn't really need anything.
 
-> "What do you think, Kushida-chan?"
->
-> "I think it's fine here. It's simple, but it feels nice and clean." "Right? Man, it must be nice to have Kushida-chan praise
+"What do you think, Kushida-chan?"
+
+"I think it's fine here. It's simple, but it feels nice and clean." "Right? Man, it must be nice to have Kushida-chan praise
 
 you. Ha ha ha ha!" Ike grudgingly pushed me.
 
-> "All things considered, though, that midterm was dangerous.
+"All things considered, though, that midterm was dangerous.
 
 If we hadn't put the study group together, I would've been fine, but Ike and Sudou would have definitely gotten kicked out."
 
-> "Huh? You were close to getting expelled, too, you know."
+"Huh? You were close to getting expelled, too, you know."
 
 "No, no, I could have gotten a perfect score if I were serious about it. Really."
 
@@ -6570,7 +6194,7 @@ Horikita sat outside the circle, quietly reading a novel. When we said her name,
 
 "Just say that you didn't want us to get expelled, even if it's a lie. We'd like you better."
 
-> "It'd be fine with me if you didn't."
+"It'd be fine with me if you didn't."
 
 Well, her attitude remained unchanged, but simply participating in this gathering was a sign of her progress. The old Horikita most definitely would not have come.
 
@@ -6582,25 +6206,21 @@ Since Horikita had apologized to Sudou, he'd completely stopped antagonizing her
 
 "I wondered about that, too. What kind of sorcery did you use, Horikita-chan?"
 
-> "Hmm, I don't really remember." "Whoa, it's a secret?!"
->
-> Ike tumbled over in an exaggerated fashion.
+"Hmm, I don't really remember." "Whoa, it's a secret?!"
 
-"Even though we managed to make it through the midterm, we shouldn't lose our heads. Our next challenge is the final exam. We should expect those questions to be even more difficult than
+Ike tumbled over in an exaggerated fashion.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2323.png){width="0.31180555555555556in" height="0.18055555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2324.png){width="0.31180555555555556in" height="0.18055555555555555in"}
-
-the ones today. In addition, we still need to find a way to increase our points."
+"Even though we managed to make it through the midterm, we shouldn't lose our heads. Our next challenge is the final exam. We should expect those questions to be even more difficult than the ones today. In addition, we still need to find a way to increase our points."
 
 "Do we really need to start this hellish cramming all over again? This sucks." Still on the floor, Ike buried his head in his hands.
 
 "Don't you think that if we start right now, it won't be hellish?"
 
-> "No!" He sounded sure about that.
+"No!" He sounded sure about that.
 
 "I don't understand this school at all. I don't get the class divisions, the point system, anything."
 
-> "Ah, points. I want points! Living in poverty really sucks."
+"Ah, points. I want points! Living in poverty really sucks."
 
 After Ike and Yamauchi had used up all of their points, they'd had to resort to living off the school's free offerings.
 
@@ -6610,27 +6230,23 @@ After Ike and Yamauchi had used up all of their points, they'd had to resort to 
 
 "Did you not see Class D's average score? We were the lowest of all of the classes by far. If you think that we'll get points for that, then I think you need to open your eyes." Horikita spoke the truth without mercy, without sugarcoating anything.
 
-> "Then we're not getting any points next month, either. Boo."
+"Then we're not getting any points next month, either. Boo."
 
 "I think you should learn to live a more modest life and give up on points."
 
 "Don't worry, Ike-kun. We may not get any points right now, but surely we'll get some soon. Right, Horikita-san?"
 
-> "I wonder about that."
->
-> "Can I say something? We're all friends here, after all.
+"I wonder about that."
 
-Horikita-san, Ayanokouji-kun, and I are all working together to
+"Can I say something? We're all friends here, after all.
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2327.png){width="0.35555555555555557in" height="0.18055555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2328.png){width="0.35555555555555557in" height="0.18055555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2329.png){width="0.35555555555555557in" height="0.18055555555555555in"}
+Horikita-san, Ayanokouji-kun, and I are all working together to get into Class A. If you're okay with it, I want you three to help us," Kushida said.
 
-get into Class A. If you're okay with it, I want you three to help us," Kushida said.
-
-> "Get into...Class A? A-are you serious?" Ike said.
+"Get into...Class A? A-are you serious?" Ike said.
 
 "Yes. I absolutely am. Increasing our points is an inevitable part of getting to the top as well."
 
-> "B-but, isn't the idea of reaching Class A kind of ridiculous?
+"B-but, isn't the idea of reaching Class A kind of ridiculous?
 
 They're all smart, right? It'd be impossible for us to win against those guys by studying."
 
@@ -6638,17 +6254,15 @@ When you considered their average test scores, everyone in that class was probab
 
 "Studying isn't the sole factor in deciding who goes into what class, though. Right?"
 
-"Yeah, but if you can't study at *all*, then moving up is out of the question."
+"Yeah, but if you can't study at all, then moving up is out of the question."
 
 The three least-academically gifted people averted their eyes and whistled nonchalantly.
 
 "We're still far from our goal, but we can do it if we all work together. I know it."
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2333.png){width="0.35347222222222224in" height="0.18055555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2334.png){width="0.35347222222222224in" height="0.18055555555555555in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2329.png){width="0.35347222222222224in" height="0.18055555555555555in"}
+![]({{ site.baseurl }}/images/cote/y1-vol1-en/image87.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image88.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image89.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image90.png){width="8.260416666666666in" height="11.69375in"}
 
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2337.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2338.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2339.png){width="8.260416666666666in" height="11.69375in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2340.png){width="8.260416666666666in" height="11.69375in"}
-
-> "What makes you so sure?"
+"What makes you so sure?"
 
 "What makes me sure, hmm? Well, you know what they say, 'A single arrow is easily broken, but not ten in a bundle,' I suppose."
 
@@ -6660,41 +6274,41 @@ The three least-academically gifted people averted their eyes and whistled nonch
 
 "If we keep going back and forth like this, though, we won't get anywhere. It's definitely better for us to get along."
 
-> "I suppose that, logically, you're right." "Right?"
+"I suppose that, logically, you're right." "Right?"
 
 Horikita didn't try to argue further. At any rate, if we wanted to move up, we'd need to get along with as many of our classmates as possible. We gained nothing by fighting one another.
 
-> "So that's why I'd like to ask the three of you to help us." "Gladly!" replied Ike and Yamauchi in unison.
+"So that's why I'd like to ask the three of you to help us." "Gladly!" replied Ike and Yamauchi in unison.
 
 "Well, if Horikita asked me to help, I would. I guess." Sudou tried to hide his embarrassment when he spoke.
 
 "I never wanted your help, Sudou-kun. Besides, I have a hard time imagining how you'll be useful in the first place."
 
-> "Grr. I just thought I'd try to be nice, is all, and---" "You were trying to be nice? I'm surprised."
+"Grr. I just thought I'd try to be nice, is all, and---" "You were trying to be nice? I'm surprised."
 
 Unsurprisingly, Sudou looked angry, but it didn't seem like he was going to raise his fist. Wow, he was making progress, too.
 
-> "You're a really annoying girl," he said. "Thank you. I appreciate your words of praise." "You are not cute at all, lady."
->
-> "You say that, but how do you *really* feel?" teased Ike. Sudou instantly glared at Ike and put him in a headlock. "Ow! Ow, ow! S-stop!"
->
-> "If you say anything else, I'm going to strangle you!" "Y-you already *are* strangling me, jeez! I give, I give!"
->
-> Horikita sighed deeply. Her eyes seemed to ask, *Is this male bonding?*
+"You're a really annoying girl," he said. "Thank you. I appreciate your words of praise." "You are not cute at all, lady."
+
+"You say that, but how do you really feel?" teased Ike. Sudou instantly glared at Ike and put him in a headlock. "Ow! Ow, ow! S-stop!"
+
+"If you say anything else, I'm going to strangle you!" "Y-you already are strangling me, jeez! I give, I give!"
+
+Horikita sighed deeply. Her eyes seemed to ask, Is this male bonding?
 
 "In this school, ability is paramount. I'm positive that our competition will grow even more severe moving forward. If you say you'll work with us, know that you can't do so half-heartedly. Otherwise you'll be a burden."
 
 "Well, if it comes down to physical ability, leave it to me. I have serious basketball and fighting skills."
 
-> "I really can't expect anything from you at all."
+"I really can't expect anything from you at all."
 
 Ability was paramount, huh? I felt my chest tighten. We'd been isolated from the world and now thrust into this situation. Perhaps we were cursed.
 
 Horikita seriously planned on getting into Class A. Her will was unshakeable. However, our path out of Class D would not be an easy one. Considering our current performance, it was hard to imagine us even reaching Class C. What should we do from here? I imagined that things would turn out as they should. For the time being, I'd do my best. At the very least, though...I wouldn't mind seeing Horikita smile.
 
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2349.png){width="1.4104166666666667in" height="0.3020833333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2350.png){width="1.4104166666666667in" height="0.3020833333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2351.png){width="1.4104166666666667in" height="0.3020833333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2352.png){width="1.4104166666666667in" height="0.3020833333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2353.png){width="1.4104166666666667in" height="0.3020833333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2354.png){width="1.4104166666666667in" height="0.3020833333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2355.png){width="1.4104166666666667in" height="0.3020833333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2356.png){width="1.4104166666666667in" height="0.3020833333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2357.png){width="1.4104166666666667in" height="0.3020833333333333in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2358.png){width="1.4104166666666667in" height="0.3020833333333333in"}
+**Postscript**
 
-**I** sincerely apologize for the long silence. This is Kinugasa Syougo. It's a pleasure to meet you. I wrote this story about a year ago. *Classroom of the Elite* came out of my transition from student to adult, and because I wanted to tackle a challenging subject.
+I sincerely apologize for the long silence. This is Kinugasa Syougo. It's a pleasure to meet you. I wrote this story about a year ago. Classroom of the Elite came out of my transition from student to adult, and because I wanted to tackle a challenging subject.
 
 When I think back to my student days, I recall everyone continuously telling me that I had to study if I wanted to get into a good university, if I wanted to get a job in a good field, if I wanted to have a good life. Recently, I've had my doubts as to whether that advice was actually correct. Unfortunately, I've gone astray, and leapt into a world far different from the one that my family and peers imagined for me...
 
@@ -6704,24 +6318,12 @@ Everyone's personality is unique, though. A child who has a talent for drawing m
 
 When I started thinking about this, I began to consider those regrets that adults face for the first time. I thought, "If only I'd done this," and started to regret my past. Lately, these ideas have been constantly on my mind.
 
-> Now, I'd like to list some acknowledgements.
+Now, I'd like to list some acknowledgements.
 
-Tomose Shunsaku-sama. Thank you so much for working with me time and time again. The male characters you draw are so wonder---no, I should say I give you my sincerest thanks because
-
-you draw both male and female characters that simply overflow with charm.
+Tomose Shunsaku-sama. Thank you so much for working with me time and time again. The male characters you draw are so wonder---no, I should say I give you my sincerest thanks because you draw both male and female characters that simply overflow with charm.
 
 I will always make sure to show you how appreciative and thankful I am for your help. I sincerely look forward to working with you in the future. We should really go out to get some yakiniku soon. My treat. One of those cheap all-you-can-eat places!
 
 My editor, I-sama. Thank you so much for going over my writing. Though I've placed many burdens upon you with my previous work, I am sincerely grateful for all the effort you've put in, especially when this took a rather long time to complete. Huh? You say to knock it off and cut you a break? Ha ha ha, what a great joke. We have a long, long way to go. A one-way ticket all the way to the depths of hell. At least we're falling together, right?
 
 Finally, there is you, the reader. Because you're holding this book, you could say that in some sense you play a part in its central theme. While I am incredibly grateful to you more than anyone, I think we can conclude this volume here. It's already the spring of 2015, but, as usual, my physical health is hardly perfect. I continue my longstanding battle with insomnia, but I'll keep doing my best not to lose.
-
-> ![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2369.jpeg){width="1.1766469816272966in" height="1.828124453193351in"}
-
-![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2370.png){width="0.86875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2371.png){width="0.86875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2372.png){width="0.86875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image1316.png){width="0.86875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2373.png){width="0.86875in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2378.png){width="0.5076388888888889in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2379.png){width="0.5076388888888889in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2380.png){width="0.5076388888888889in" height="0.23541666666666666in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2384.png){width="0.3958333333333333in" height="0.24027777777777778in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2385.png){width="0.3958333333333333in" height="0.24027777777777778in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2386.png){width="0.3958333333333333in" height="0.24027777777777778in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2387.png){width="0.3958333333333333in" height="0.24027777777777778in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2392.png){width="1.1520833333333333in" height="0.31527777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2393.png){width="1.1520833333333333in" height="0.31527777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2394.png){width="1.1520833333333333in" height="0.31527777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2395.png){width="1.1520833333333333in" height="0.31527777777777777in"}![]({{ site.baseurl }}/images/cote/y1-vol1-en/image2396.png){width="1.1520833333333333in" height="0.31527777777777777in"}
-
-> Get the latest news about your favorite Seven Seas books and brand-new licenses delivered to your inbox every week:
->
-> [Sign up for our newsletter!]{.underline}
->
-> Or visit us online: [gomanga.com/newsletter]{.underline}
