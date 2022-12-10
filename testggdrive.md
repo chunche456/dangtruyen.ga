@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: testvideo
-permalink: /test/youtube/
+permalink: /test/ggdrive/
 ---
 
 <script>
@@ -10,7 +10,7 @@ window.player = player;
 </script>
 <div class="plyr__video-embed" id="player">
   <iframe
-    src="https://www.youtube.com/embed/ecV00RVV9sM?origin=https://plyr.io&amp;iv_load_policy=3&amp;modestbranding=1&amp;playsinline=1&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1"
+    src="https://drive.google.com/file/d/1XIQsSI8PzO5ZdwPU71rCrUqJ1icNVjH_/preview"
     allowfullscreen
     allowtransparency
     allow="autoplay"
